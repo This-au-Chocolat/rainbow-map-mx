@@ -1,0 +1,476 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<Metadata>
+<MD_DataIdentification>
+<title>Marco Geoestadístico Integrado, 2025.
+ 
+</title>
+<purpose>proporcionar a las áreas del INEGI responsables de los censos y encuestas institucionales, el insumo para la planeación, captación, control de cobertura, organización y publicación de resultados oficiales, mediante un sistema geográfico y tabular que organice el territorio nacional en diferentes niveles de desagregación geográfica.</purpose>
+<abstract>el Marco Geoestadístico Integrado, 2025, es un sistema que incluye información vectorial, tablas de atributos y catálogos de cada una de las áreas geoestadísticas estatales.
+
+Su cobertura es la parte del Territorio Nacional que corresponde, a la superficie continental y aquellas islas marítimas que tienen o tuvieron alguna unidad de observación de interés para el Marco Geoestadístico (MG). Representa dicha cobertura en niveles sucesivos de desagregación, denominados áreas geoestadísticas. Éstas, a su vez, están definidas por delimitaciones geoestadísticas, que se establecen con base en la normatividad específica del MG y de conformidad con los principios con los que fueron generadas; se apegan a los límites político-administrativos cuando éstos cumplen con los criterios técnicos del MG, pues para la definición de áreas geoestadísticas se da prioridad a la conformación de polígonos bien definidos, con límites claramente identificables y cuidando la continuidad espacial, aspectos que no siempre se cumplen en la delimitación político-administrativa del país, por lo que el MG ha establecido criterios y lineamientos para diseñar soluciones técnicas que den a las áreas geoestadísticas la congruencia necesaria.
+
+Las delimitaciones del Marco Geoestadístico Integrado se definen con el propósito específico de referenciar geográficamente la información de censos y encuestas del INEGI, y en ningún caso o uso que se le dé a este producto se le debe asumir como fuente oficial de la división político-administrativa del país.
+
+Por tales razones, el Marco Geoestadístico Intergado no contiene una entidad federativa y sus municipios, sino un área geoestadística estatal y las áreas geoestadísticas municipales (AGEM) que la integran. Todos los datos derivados de la conformación geométrica de éstas (perímetro, superficie, densidad de población y otros) no deben ser considerados oficiales ni de alta exactitud respecto a la realidad.
+
+El producto se actualiza anualmente de manera regular y en los años en que se realizan censos o encuestas del INEGI, la versión del MG corresponde al evento censal o encuesta que corresponda a dicho año. Los elementos que se actualizan son manzanas (clave), localidades (clave y nombre), conformación de áreas geoestadísticas básicas (AGEB) urbanas y rurales, delimitaciones de las áreas geoestadísticas municipales (AGEM) y/o estatales (AGEE), cuando se aplican nuevos límites político-administrativos y los catálogos correspondientes. También se actualizan los diferentes polígonos de localidad y manzana (PL polígono de localidad, PEM polígono externo de manzana, PE polígono externo, PLC polígono de localidad con caserío disperso), frentes de manzana, vialidades y servicios e información complementaria.
+
+
+Es importante aclarar que cuando hay un evento censal la actualización de los elementos del MG se obtiene mediante recorridos completos a la manzana para captar las unidades de observación en campo (viviendas, establecimientos económicos y unidades de producción); mientras que cuando es una actualización permanente, ésta se enfoca en aquellas áreas del país que tienen una dinámica sobresaliente en cuanto a crecimiento demográfico o cambios en el uso del suelo, de manera que se les estima una alta probabilidad de mostrar cambios en el corto plazo.
+
+Asimismo, los procesos para representar y actualizar en el Marco Geoestadístico los elementos del territorio (como manzanas urbanas y localidades puntuales) también se realizan con criterios basados en el propósito del producto, de manera que los procesos de edición y control de calidad dan preferencia a cuidar la inclusión de la totalidad de elementos debidos y su correcta identificación. Además, dependiendo de la disponibilidad y situación, se emplean diferentes insumos, como levantamientos aproximados en campo e imágenes de satélite con resolución y exactitud métrica variables. Por todo lo anterior, no debe esperarse para el Marco Geoestadístico una alta exactitud (posición y dimensiones de los objetos) semejante a la de otros productos del INEGI -como ortoimágenes- cuyo proceso sí fue diseñado para obtener altos niveles de exactitud. Todos los datos derivados de la conformación y posición geométrica de los elementos del Marco Geoestadístico (dimensiones, coordenadas de posición, densidades por superficie u otros) tampoco deben ser considerados oficiales.
+
+Todo uso que se dé al Marco Geoestadístico para fines distintos de los previstos para su creación será bajo responsabilidad del usuario y debería considerar todas las aclaraciones anteriores.
+
+El MG contiene además la cobertura de todas las localidades del territorio nacional, de manera que a cada una de las unidades de observación le corresponde una secuencia de claves de identificación geográfica que está dada por los sucesivos niveles de desagregación en los que se divide el territorio nacional. 
+
+Los niveles de desagregación del MG son los siguientes:
+
+Área geoestadística estatal (AGEE): representación territorial de cada entidad federativa, definida por delimitaciones geoestadísticas.
+Área geoestadística municipal (AGEM): representación territorial de cada municipio del país y demarcación territorial en la Ciudad de México, definida por delimitaciones geoestadísticas.  
+Área geoestadística básica (AGEB): cada una de las unidades territoriales en las que se divide el Área Geoestadística Municipal, definida con propósitos de cobertura y control de la información. Existen dos tipos de áreas geoestadísticas básicas: urbanas y rurales.
+A partir de este nivel de desagregación, el MG se divide en dos secuencias de desagregación distintas para cada tipo de AGEB. A continuación, se detallan ambas secuencias.
+
+AGEB urbanas: 
+Están contenidas dentro de una localidad urbana. Por ello, luego del AGEE y el AGEM sus niveles de desagregación son los siguientes:
+Nivel localidad geoestadística urbana: tiene una clave única de 4 dígitos que se inicia desde 0001 por AGEM. Se consideran localidades urbanas aquéllas con 2,500 habitantes o más -según el más reciente Censo o Conteo nacional de población- o que sean cabeceras municipales, independientemente de su población. También son urbanas aquellas localidades que -independientemente de su número de habitantes- tengan las siguientes características:  a) Localidades geoestadísticas clasificadas con anterioridad como urbanas para el MG y que actualmente cuentan con menos de 2500 habitantes; b) El crecimiento de una localidad urbana que rebasa el límite de AGEM o incluso de AGEE, pero que tiene continuidad urbanística con dicha localidad, y respecto al cual la autoridad competente ha sustentado su independencia a través de una evidencia legal; c) Localidades que dejan de ser cabeceras municipales, independientemente de su número de habitantes.
+Nivel AGEB urbana: conjunto de manzanas correspondientes a una localidad urbana. Posee clave única de cuatro caracteres que se inicia desde 0010 por cada municipio.
+Nivel manzana: unidad territorial definida mediante criterios específicos y que posee una clave de tres dígitos que se inicia desde 001 por cada AGEB urbana.
+Nivel polígono externo de manzana: espacio geográfico que contiene el caserío disperso de la localidad urbana.
+Nivel frente de manzana: parte de la manzana definida mediante criterios específicos y que posee una clave de un dígito que se inicia desde 1 por cada parte de la manzana. Consigna datos de nombre, tipo de vialidad y entre cuáles vialidades se ubica.
+Nivel eje de vialidad: desde una perspectiva geográfica, el eje de vialidad es el que sigue a la localidad urbana (dado que las vialidades recorren largos segmentos de las localidades), pero en el MG está colocado como nivel siguiente de la manzana porque las vialidades están divididas en tramos, cada uno dado por cada manzana con la que colinda. Además de la secuencia de claves AGEE-AGEM-localidad, cada tramo tiene asignada una clave de segmentación, además de atributos de nombre, tipo y sentido de calle.
+  
+AGEB rurales: 
+Éstas contienen grupos de localidades rurales amanzanadas, localidades rurales puntuales (aquéllas sin amanzanamiento definido y que son representadas como puntos en la cartografía), polígonos externos (espacios geográficos que pueden contener caserío disperso o amanzanamiento, los cuales conforman a las localidades rurales que los contienen) y caseríos dispersos (uno o varios inmuebles edificados sin amanzanamiento definido, pertenecientes a una localidad). Por ello, luego del AGEE y el AGEM, sus niveles de desagregación son los siguientes:
+Nivel AGEB rural: posee una clave única de cuatro caracteres que se inicia desde 0010 por cada municipio. El AGEB rural está conformado por localidades rurales, que son aquéllas que tienen menos de 2,500 habitantes (conforme al más reciente recuento nacional de población) y que además no son cabecera municipal. También se consideran rurales aquellas localidades que, aún con 2,500 habitantes o más, tienen las siguientes características:  a) edificaciones dispersas, sin una contigüidad que permita un amanzanamiento; b) sí hay manzanas, éstas tienen pocas edificaciones y predomina el uso agrícola o forestal; c) edificaciones que son centros de readaptación o rehabilitación, campamentos agrícolas, seminarios, internados, etc. 
+
+El MG contiene también información sobre servicios, organizada en tres capas: capa SIP (con representación de tipo puntual), que contiene objetos espaciales como cementerios, plazas y pozos; capa SIL (representación de tipo lineal), que contiene objetos como acueductos, caminos y linderos; capa SIA (representación con áreas), que muestra objetos como pistas de aviación e instalaciones de varios tipos. La relación detallada de los objetos espaciales por cada capa se incluye en 7.2.</abstract>
+<MD_DataIdentification_language>ES - Español.</MD_DataIdentification_language>
+<topicCategory>
+<principalTopic>11. Localización: Información posicional y servicios.  </principalTopic>
+<groupCategory>1. Grupo de datos de recursos naturales y clima: Subdivisión de la Infraestructura de Datos Espaciales de México que representan espacialmente la distribución y naturaleza de los recursos naturales que existen en el territorio nacional, así como la configuración de sus diversos climas. A través de ellos puede obtenerse información del estado, presión y respuesta de la interacción humana con su medio ambiente.</groupCategory>
+</topicCategory>
+<keyword>AGEB - Área Geoestadística Básica.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>AGEE - Área Geoestadística Estatal.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>AGEM - Área Geoestadística Municipal.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Integración Territorial.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Límite Geoestadístico.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Límite Político-Administrativo.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Localidad Amanzanada.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Localidad Rural Puntual.</keyword>
+<type>4. Temporal: La palabra clave identifica un periodo de tiempo relacionado al conjunto de datos espaciales o producto.</type>
+<thesaurusName>manuales definidos para uso específico del Marco Geoestadístico, Manual de Conceptos y Criterios del Marco Geoestadístico, Diccionario de Datos del Marco Geoestadístico.</thesaurusName>
+<edition> 2025</edition>
+<presentationForm>  5. Mapa digital: Mapa representado en formato raster o vector.</presentationForm>
+<CI_OnlineResource>
+<CI_OnlineResource_linkage>https://www.inegi.org.mx/ </CI_OnlineResource_linkage>
+<CI_OnlineResource_description>página web donde se encuentra la información para obtener el recurso en base a las políticas institucionales y de los centros de información autorizados. </CI_OnlineResource_description>
+</CI_OnlineResource>
+<maintenanceAndUpdateFrequency>  1. Diariamente: Los datos se actualizan cada día.</maintenanceAndUpdateFrequency>
+<MD_DataIdentification_characterSet>  6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.</MD_DataIdentification_characterSet>
+<graphfilename>02</graphfilename>
+<specuse>uso 1 (interno): la Unidad General de Estadísticas Sociodemográficas y la Unidad General de Estadísticas Económicas del INEGI emplean el Marco Geoestadístico Integrado para la realización de los diferentes tipos de censos y encuestas. Utilizan los catálogos y la cartografía geoestadística -impresa y digital- inicialmente, como insumos para la planeación y organización del operativo; posteriormente, para la captación y control de cobertura territorial y finalmente, para la organización, presentación y divulgación de resultados. Se hace con el apoyo de herramientas informáticas que facilitan la obtención, captación y almacenamiento de los datos, para obtener estadísticas sociales y económicas con referencia geográfica, basadas en una determinada unidad de observación (vivienda o establecimiento económico). Dicha información se destina a instituciones de los sectores público y privado y al público en general; se apoya así la toma de decisiones en programas de gobierno y apoyos sociales, así como proyectos de investigación en la materia. 
+
+Uso 2 (externo): diversas instituciones gubernamentales utilizan el Marco Geoestadístico Integrado como parte de sus herramientas de verificación para la asignación de recursos. Con base en la cartografía geoestadística y el Catálogo Único de Claves de Áreas Geoestadísticas Estatales, Municipales y Localidades, se verifica la existencia de localidades y su ubicación respecto a los límites geoestadísticos. Se apoya así la elaboración de dictámenes e informes técnicos especializados, que son de utilidad para el desarrollo, control de procedimientos y toma de decisiones de las Unidades del Estado relacionadas con programas de distribución de recursos económicos en diferentes sectores sociales. 
+
+Uso 3 (externo): instituciones académicas y de investigación utilizan el Marco Geoestadístico Integrado en análisis espaciales relacionados con desastres naturales. Empleando la cartografía y catálogos del MG e incorporándolos a sistemas de información geográfica, en combinación con otras capas de información, se identifican zonas con distintos niveles de riesgo o daños recibidos respecto a diferentes tipos de desastres naturales. Se obtienen mapas temáticos que son de utilidad para las instancias de gobierno encargadas de programas de protección civil.</specuse>
+</MD_DataIdentification>
+<CI_Date>
+<Dates_Events>
+<date>2025-07-31</date>
+<dateType>1. Creación: Indicador  de la fecha que especifica cuando fue creado el recurso.</dateType>
+</Dates_Events>
+<Ad_Date>
+<date_creation>2024-10-31</date_creation>
+<date_begin></date_begin>
+<date_end>2025-07-31</date_end>
+<inpname>Marco Geoestadístico 2024 Planeación de la Encuesta Intercensal 2025 y actualizaciones cartográficas de los elementos del Marco Geoestadístico durante el periodo noviembre 2024- julio 2025.</inpname>
+</Ad_Date>
+</CI_Date>
+<CI_ResponsibleParty>
+<CI_ResponsibleParty_individualName>Mtro. J. Armando Aguiar Rodríguez.  </CI_ResponsibleParty_individualName>
+<CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI.</CI_ResponsibleParty_organisationName>
+<CI_ResponsibleParty_positionName>Director de Servicios de Información.</CI_ResponsibleParty_positionName>
+<CI_ResponsibleParty_voice>449 910 5300 Ext. 31 5486 y 31 5920. Lada 800 111 4634.</CI_ResponsibleParty_voice>
+<CI_ResponsibleParty_facsimile></CI_ResponsibleParty_facsimile>
+<CI_ResponsibleParty_deliveryPoint>Avenida Héroe de Nacozari Sur 2301, Fraccionamiento Jardines del Parque, 20276, Aguascalientes, Aguascalientes, Aguascalientes, entre Calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas. </CI_ResponsibleParty_deliveryPoint>
+<CI_ResponsibleParty_city>Aguascalientes.</CI_ResponsibleParty_city>
+<CI_ResponsibleParty_administrativeArea>Aguascalientes.</CI_ResponsibleParty_administrativeArea>
+<CI_ResponsibleParty_postalCode>20276</CI_ResponsibleParty_postalCode>
+<CI_ResponsibleParty_country>México.</CI_ResponsibleParty_country>
+<CI_ResponsibleParty_electronicMailAddress>atencion.usuarios@inegi.org.mx</CI_ResponsibleParty_electronicMailAddress>
+<CI_ResponsibleParty_linkage>https://www.inegi.org.mx/</CI_ResponsibleParty_linkage>
+<CI_ResponsibleParty_role>  5. Distribuidor: Parte que distribuye el recurso.</CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<geographicElement>
+<EX_GeographicBoundingBox>
+<westBoundLongitude>-118.365</westBoundLongitude>
+<eastBoundLongitude>-86.71</eastBoundLongitude>
+<southBoundLatitude>14.535</southBoundLatitude>
+<northBoundLatitude>32.718</northBoundLatitude>
+</EX_GeographicBoundingBox>
+<spatialRepresentationType>1. Vector: Los datos vectoriales se utilizan para representar datos espaciales.</spatialRepresentationType>
+</geographicElement>
+<MD_ReferenceSystem>
+<ReferenceHorizontalSystem>
+<geograph>
+<latres></latres>
+<longres></longres>
+<geogunit></geogunit>
+</geograph>
+<planar>
+<mapprojn>
+<lambertc>
+<lambertc_stdparll>17.5</lambertc_stdparll>
+<lambertc_stdparll>29.5</lambertc_stdparll>
+<lambertc_longcm>-102.0</lambertc_longcm>
+<lambertc_latprjo>12.0</lambertc_latprjo>
+<lambertc_feast>2500000.0</lambertc_feast>
+<lambertc_fnorth>0.0</lambertc_fnorth>
+</lambertc>
+<mercatort>
+<mercatort_sfctrmer> </mercatort_sfctrmer>
+<mercatort_longcm> </mercatort_longcm>
+<mercatort_latprjo> </mercatort_latprjo>
+<mercatort_feast> </mercatort_feast>
+<mercatort_fnorth> </mercatort_fnorth>
+</mercatort>
+<mercator>
+<mercator_stdparll> </mercator_stdparll>
+<mercator_sfec> </mercator_sfec>
+<mercator_longcm> </mercator_longcm>
+<mercator_feast> </mercator_feast>
+<mercator_fnorth> </mercator_fnorth>
+</mercator>
+<tme>
+<tme_sfctrmer> </tme_sfctrmer>
+<tme_longcm> </tme_longcm>
+<tme_latprjo> </tme_latprjo>
+<tme_feast> </tme_feast>
+<tme_fnorth> </tme_fnorth>
+</tme>
+<anoth_proj_def>
+</anoth_proj_def>
+</mapprojn>
+<gridcoordinatessystem>
+<utm>
+<utm_zone></utm_zone>
+<utm_sfctrmer></utm_sfctrmer>
+<utm_longcm></utm_longcm>
+<utm_latprjo></utm_latprjo>
+<utm_feast></utm_feast>
+<utm_fnorth></utm_fnorth>
+</utm>
+</gridcoordinatessystem>
+<local_planar>
+<local_planar_desc></local_planar_desc>
+<local_planar_geo_inf></local_planar_geo_inf>
+</local_planar>
+<planci>
+<plance>Par coordenado.</plance>
+<coord_repres>
+<absres>0.00000001</absres>
+<ordres>0.00000001</ordres>
+</coord_repres>
+<distance_and_bearing_repres>
+<distance_res></distance_res>
+<bearing_res></bearing_res>
+<bearing_uni></bearing_uni>
+<ref_bearing_dir></ref_bearing_dir>
+<ref_bearing_mer></ref_bearing_mer>
+</distance_and_bearing_repres>
+<plandu>Metros.</plandu>
+</planci>
+</planar>
+<local_coordinates>
+<local_desc></local_desc>
+<local_geo_inf></local_geo_inf>
+</local_coordinates>
+<geodetic>
+<horizdn>ITRF08 época 2010.0.</horizdn>
+<ellips>Sistema Geodésico de Referencia de 1980 (GRS80).</ellips>
+<semiaxis>6378137.0</semiaxis>
+<denflat>298.2572221</denflat>
+</geodetic>
+</ReferenceHorizontalSystem>
+<ReferenceVerticalSystem>
+<altsys>
+<altdatum></altdatum>
+<altres></altres>
+<altunits></altunits>
+<altenc> </altenc>
+</altsys>
+<depthsys>
+<depthdn></depthdn>
+<depthres></depthres>
+<depthdu></depthdu>
+<depthem> </depthem>
+</depthsys>
+</ReferenceVerticalSystem>
+</MD_ReferenceSystem>
+<DQ_DataQuality>
+<DQ_Scope>
+<level>17. Producto: Información aplicada al producto.</level>
+</DQ_Scope>
+<report>
+<DQ_Completeness>
+<DQ_Completeness_evalqualsubname>
+<DQ_Completeness_nameOfMeasure></DQ_Completeness_nameOfMeasure>
+<DQ_Completeness_measureDescription></DQ_Completeness_measureDescription>
+<DQ_Completeness_result>
+<DQ_Completeness_DQ_QuantitativeResult>
+<DQ_Completeness_valueUnit></DQ_Completeness_valueUnit>
+<DQ_Completeness_value></DQ_Completeness_value></DQ_Completeness_DQ_QuantitativeResult>
+</DQ_Completeness_result>
+</DQ_Completeness_evalqualsubname>
+</DQ_Completeness>
+<DQ_LogicConsistency>
+<DQ_LogicConsistency_evalqualsubname>
+<DQ_LogicConsistency_nameOfMeasure></DQ_LogicConsistency_nameOfMeasure>
+<DQ_LogicConsistency_measureDescription></DQ_LogicConsistency_measureDescription>
+<DQ_LogicConsistency_result>
+<DQ_LogicConsistency_DQ_QuantitativeResult>
+<DQ_LogicConsistency_valueUnit></DQ_LogicConsistency_valueUnit>
+<DQ_LogicConsistency_value></DQ_LogicConsistency_value></DQ_LogicConsistency_DQ_QuantitativeResult>
+</DQ_LogicConsistency_result>
+</DQ_LogicConsistency_evalqualsubname>
+</DQ_LogicConsistency>
+<PositionalAccuracy>
+<PositionalAccuracy_evalqualsubname>
+<PositionalAccuracy_nameOfMeasure></PositionalAccuracy_nameOfMeasure>
+<PositionalAccuracy_measureDescription></PositionalAccuracy_measureDescription>
+<PositionalAccuracy_result>
+<PositionalAccuracy_DQ_QuantitativeResult>
+<PositionalAccuracy_valueUnit></PositionalAccuracy_valueUnit>
+<PositionalAccuracy_value></PositionalAccuracy_value></PositionalAccuracy_DQ_QuantitativeResult>
+</PositionalAccuracy_result>
+</PositionalAccuracy_evalqualsubname>
+</PositionalAccuracy>
+<TemporalAccuracy>
+<TemporalAccuracy_evalqualsubname>
+<TemporalAccuracy_nameOfMeasure></TemporalAccuracy_nameOfMeasure>
+<TemporalAccuracy_measureDescription></TemporalAccuracy_measureDescription>
+<TemporalAccuracy_result>
+<TemporalAccuracy_DQ_QuantitativeResult>
+<TemporalAccuracy_valueUnit></TemporalAccuracy_valueUnit>
+<TemporalAccuracy_value></TemporalAccuracy_value></TemporalAccuracy_DQ_QuantitativeResult>
+</TemporalAccuracy_result>
+</TemporalAccuracy_evalqualsubname>
+</TemporalAccuracy>
+<ThematicAccuracy>
+<ThematicAccuracy_evalqualsubname>
+<ThematicAccuracy_nameOfMeasure></ThematicAccuracy_nameOfMeasure>
+<ThematicAccuracy_measureDescription></ThematicAccuracy_measureDescription>
+<ThematicAccuracy_result>
+<ThematicAccuracy_DQ_QuantitativeResult>
+<ThematicAccuracy_valueUnit></ThematicAccuracy_valueUnit>
+<ThematicAccuracy_value></ThematicAccuracy_value></ThematicAccuracy_DQ_QuantitativeResult>
+</ThematicAccuracy_result>
+</ThematicAccuracy_evalqualsubname>
+</ThematicAccuracy>
+</report>
+<LI_Lineage>
+<statement>la versión Integrada del Marco Geoestadístico, 2025, es el resultado de la compilación e integración de actualizaciones cartográficas derivadas de los recorridos de áreas de actualización permanente para el MG y para el Marco Maestro de Muestreo, la modificación de límites político-administrativos sustentada en decretos oficiales emitidos por las autoridades competentes, las actualizaciones para la cartografía topográfica del INEGI, información que proporcionan las Unidades del Estado y otras fuentes eventuales.
+El MG 2025 Integrado es un producto que esta vinculado con las zonas habitadas, y por diversos procesos sociales que no son iguales en los diferentes espacios geográficos. A lo largo del tiempo, se han diseñado procesos de producción específicos para diferentes ámbitos que, guardan muchas semejanzas en términos generales, pero tienen diferencias que son relevantes. Asimismo, el producto contiene representaciones del espacio geográfico de interés para el producto y delimitaciones que definen las áreas geoestadísticas de diferentes tipos, (explicadas en la sección 1.3). Tales delimitaciones también pueden ser afectadas por los procesos sociales vinculados con las localidades. 
+Durante el período de actualización se presentaron cambios en límites político-administrativos, los cuales se trabajaron mediante el procedimiento vigente: efectuar un análisis cuidadoso para verificar el cumplimiento de una serie de requisitos: que existiera como sustento legal un documento emitido por la autoridad competente, que éste proporcione una descripción clara del nuevo límite, la cual permita su transcripción cartográfica con la suficiente certeza, que no esté involucrado en disputa jurídica alguna, etcétera; aplicar la transcripción cartográfica al MG con la mayor fidelidad posible, dando prioridad al cumplimiento de los requisitos de consistencia geométrica del MG, ajustar el trazo territorialmente (si es necesario), empleando como referencia rasgos del terreno visibles y permanentes; y además procurar afectar lo menos posible la conformación actual del MG (por ejemplo, la conformación de las AGEB); realizar el proceso mediante un trabajo conjunto entre Oficinas Centrales, la coordinación estatal y la dirección regional correspondientes; y finalmente, incorporar a la base de datos la nueva delimitación geoestadística (AGEE y/o AGEM y/o AGEB) y actualizar los catálogos correspondientes. 
+Lo anterior corresponde a los procesos generales, que se aplican en cualquier ámbito del MG. Sin embargo, en las demás tareas específicas fue necesario desarrollar un procedimiento de producción y validación propio de cada uno de los dos ámbitos: urbano y rural. Para este tipo de información espacial también fue necesario desarrollar un proceso de producción y validación.
+Por lo anterior, se usaron instancias distintas del apartado 6.3.1 para explicar por separado los procesos para la actualización del producto en dos ámbitos: 1) localidades urbanas y rurales con amanzanamiento; 2) localidades rurales puntuales y límites.  
+El primero de estos ámbitos tiene como elemento base el objeto espacial denominado manzana; el segundo, el límite y la localidad rural puntual. Para una explicación de estos conceptos y de la información relacionada con ellos, véase la sección 1.3.
+En la sección 6.4 se mencionan los controles de calidad relevantes que se aplicaron en determinados momentos durante el proceso en los dos ámbitos.
+Es importante señalar que para los procesos se empleó un SIG, al cual se le añadieron complementos (funciones) que la Unidad General de Geografía y Medio Ambiente desarrolló específicamente para las necesidades del proceso de elaboración en cada una de las actualizaciones del Marco Geoestadístico.</statement>
+<LI_ProcessStep>
+<LI_ProcessStep_description>localidades urbanas y rurales con amanzanamiento.
+1. Recepción y análisis de la información. El personal de las Coordinaciones Estatales del INEGI responsable de la actualización del MG recibe la información de actualizaciones cartográficas de diferentes proyectos como los siguientes: actualización permanente del MG, Marco Maestro de Muestreo, solicitudes provenientes de distintas Unidades del Estado y la identificación en gabinete de nuevos crecimientos con base en imágenes de satélite más recientes disponibles. De todo ello hace una revisión sistemática para detectar nuevos amanzanamientos y cambios en otros elementos del MG, tales como vialidades, localidades geoestadísticas y Área Geoestadística Básica (AGEB).
+
+La información es analizada y depurada para verificar que se cumpla con los criterios de actualización cartográfica que se establecen en los documentos normativos del MG. Un primer análisis es a nivel localidad, se revisa cada caso para dictaminar si un determinado lugar cumple con los criterios para ser considerado como localidad geoestadística con clave propia. El segundo análisis se realiza a cada uno de los elementos que conforman la localidad geoestadística, para determinar si cumplen con los requisitos para ser considerado como manzana.
+
+Algunos de los aspectos que se verifican son: la ubicación espacial de cada elemento con base en imágenes de satélite, que las solicitudes de las Unidades del Estado estén sustentadas y que los nuevos amanzanamientos estén bien configurados para ser considerados susceptibles de digitalización y/o actualización.
+
+2. Verificación en campo. En cada Coordinación Estatal el personal responsable de la actualización cartográfica realiza una planeación y recorrido para verificar directamente en el terreno los casos de localidades y manzanas nuevas o con actualización. El tratamiento en campo de esta información implica, además del registro de la información geográfica correspondiente, la asignación de claves provisionales (de localidad y/o manzana), que posteriormente son agregadas a la base cartográfica del MG por medio de aplicativos informáticos.
+
+Estas claves son provisionales en ese momento porque posteriormente cada caso es analizado y dictaminado por el personal responsable de la actualización del MG con base en los criterios y procesos detallados en la presente guía y sólo en los casos que se declaran procedentes se les asigna una clave definitiva.
+
+3. Asignación de claves y tipificación. Concluido el proceso de verificación en campo se procede a integrar las localidades con modificaciones al aplicativo informático correspondiente, para asignar la clave geoestadística pertinente. Esto es indispensable antes de agregar el resto de los elementos del MG.
+
+Utilizando el aplicativo informático diseñado para editar las capas del MG, se carga la capa vectorial de la cartografía base del MG correspondiente al corte inmediato anterior publicado y la capa de las actualizaciones cartográficas de manzanas provenientes de campo, posteriormente se realiza el proceso de integración de actualizaciones generando la asignación de la clave geoestadística definitiva y su respectivo código de actualización cartográfica. Todo esto se hace con base en los criterios y procesos de actualización cartográfica para el MG.
+Concluida la integración de todas las actualizaciones, de manera automatizada se genera la tabla de equivalencia en la que se registran los movimientos derivados de la actualización cartográfica de localidad, AGEB y manzanas (la tabla muestra los registros antes y después de la actualización). Con ello se realiza un corte de información para actualizar el catálogo de manzanas, de AGEB y Catálogo Único de Claves de Áreas Geoestadísticas Estatales, Municipales y Localidades (Catálogo Único).
+
+Lo anterior se hace con base en las especificaciones de actualización para cada tipo de elemento.
+
+4. Edición. En esta etapa se realiza la validación topológica, la cual consiste en verificar las relaciones de todos los elementos geométricos para detectar aquéllos topológicamente incorrectos. También se hacen verificaciones de completitud de elementos contra los catálogos geoestadísticos de localidad, AGEB y manzanas, así como de sus atributos y de su calidad geométrica. Asimismo, se generan y validan las tablas de equivalencia de los cambios registrados en los elementos del MG. 
+
+Se verifica la integración territorial; esto es, que todos los elementos del archivo vectorial estén dentro del Área Geoestadística Municipal (AGEM) y Área Geoestadística Estatal (AGEE) que les corresponde. En esta revisión se toman en cuenta las siguientes excepciones:
+
+a.	Localidades geoestadísticas que se ubican geográficamente en un AGEM distinto al que pertenece administrativamente, denominadas enclaves o localidades isla. 
+b.	Localidades rurales que rebasan AGEB.
+c.	Localidades rurales que rebasan su municipio.
+d.	Localidades urbanas que rebasan su municipio.
+
+Todo lo anterior se realiza, en esta etapa, por el personal responsable de la actualización del MG en las Coordinaciones Estatales y Direcciones Regionales del INEGI.
+
+Cada uno de los archivos vectoriales se trabaja por AGEM; posteriormente se integran todos para obtener un archivo por AGEE. Cuando la información está lista se envía a Oficinas Centrales al área correspondiente de la actualización del MG y se realiza la revisión nacional correspondiente. 
+5. Integración. Los archivos concluidos en las oficinas estatales y regionales del INEGI se integran para un control de calidad del conjunto de datos a nivel nacional. El archivo vectorial debe cumplir las reglas topológicas establecidas, la georreferenciación espacial debe ser correcta en relación con las imágenes más recientes de ese momento y no debe haber traslapes ni huecos entre los polígonos, existiendo una tolerancia permitida de 1 m.
+
+También se revisa que haya congruencia entre la información vectorial y la tabular, empleando los catálogos actualizados, las tablas de equivalencia de actualización cartográfica y el Catálogo Único. 
+
+Concluidas estas pruebas, la información se exporta e integra en formato shape por entidad federativa como conjunto de datos, junto con sus metadatos y documentación asociada describiendo los detalles técnicos de la información, así como catálogos de entidades federativas, municipios, localidades urbanas y rurales amanzanadas y puntuales. Los metadatos son elaborados con base en la Norma Técnica para la Elaboración de Metadatos Geográficos vigente.</LI_ProcessStep_description>
+<LI_ProcessStep_description>tecnología utilizada:
+Hardware: computadora personal con procesador Intel CORE a 3.6 ghz, Windows 11.
+Software: Sistema de Información Geográfica (Arc Gis 10.8.1), con herramientas propias elaboradas para la edición y validación de la cartografía del Marco Geoestadístico en Python: SIGMA (Sistema de Información Geográfica del Marco Geoestadístico), SIVEC (Sistema Integral de Validación y Edición Cartográfica), ValidaTE (Programa de validación de tabla de equivalencia) y ValidaVEC (Programa de validación de tabla de equivalencia contra el gráfico del MG).</LI_ProcessStep_description>
+<LI_ProcessStep_description>control de calidad
+
+Criterio: consistencia lógica.  Subcriterio: consistencia topológica.
+Ámbito de la revisión: localidades, polígonos de AGEB, polígonos de manzanas con sus elementos de complemento: frentes de manzana, ejes de vialidad y servicios de tipo área, línea y punto.
+Inspección: completa. 
+Explicación de la revisión: por medios automatizados se verificó que los objetos espaciales cumplieran con las reglas topológicas y con las relaciones lógicas (conexión, compartición) establecidas en el diccionario de datos para los distintos objetos de puntos, líneas y áreas.
+Resultado de la revisión: se detectó aproximadamente un 0.5% de inconsistencias. Mediante algoritmos se identificaron las siguientes inconsistencias topológicas: huecos, moños, polígonos sin cerrar, geometrías inválidas o traslapes entre los objetos de línea, área y punto. Existen excepciones que en la realidad del terreno son correctas por la variedad de casos que se presentan a nivel nacional, estos casos no se corrigen, se justifican. Se requirió la consulta y conciliación con las áreas involucradas para la pronta solución de todos los problemas detectados.
+Nivel de conformidad de calidad: Tolerancia de 1 metro; fuera de ella, no se admitió ningún error topológico.
+Evaluadores: Dirección General Adjunta de Información Geográfica para la Administración del Territorio (INEGI). Observaciones: Se requirió la consulta y conciliación con las áreas involucradas para la pronta solución de todos los problemas detectados. Las coordinaciones estatales validaron y estandarizaron la información considerando las excepciones aceptadas. Aquí se describe sólo la prueba a nivel nacional, en la cual se confrontó la información de todas las entidades federativas, pero es similar a la que previamente (paso 4,"Edición") se hizo en cada coordinación estatal, donde se confrontó la información de todos los municipios de cada entidad.</LI_ProcessStep_description>
+<LI_ProcessStep_description>control de calidad 
+
+Criterio: completitud.  Subcriterio: omisión. 
+Ámbito de la revisión: las localidades y manzanas que tuvieron alguna actualización cartográfica o eran nuevas, así como, todos los elementos que las componían, como frentes de manzana, AGEB, ejes y servicios. Inspección: completa. 
+Explicación de la revisión: mediante aplicaciones informáticas se comprobó en el archivo vectorial la existencia de todos los vectores debidos, tomando como referencia la tabla de equivalencia de actualización cartográfica y el Catálogo Único de Claves de Áreas Geoestadísticas Estatales, Municipales y Localidades. Resultados de la revisión: aproximadamente 0.4% de inconsistencias. Nivel de conformidad de calidad: cero tolerancias de errores tabulares. La información debía estar completa al 100% tanto en localidades como en manzanas. 
+Evaluadores: Dirección General Adjunta de Información Geográfica para la Administración del Territorio (INEGI). Observaciones: para todos los registros que presentaron alguna inconsistencia, se consultó con el personal del departamento de Cartografía y Territorio de cada coordinación estatal involucrada, para corregir las inconsistencias presentadas y liberar la información tabular.
+</LI_ProcessStep_description>
+<LI_ProcessStep_description>control de calidad 
+
+Criterio: consistencia lógica. Subcriterio: consistencia conceptual.
+Ámbito de la revisión: las localidades, polígonos externos, AGEB urbanas y rurales, manzanas y elementos que las conforman (ejes viales, frentes de manzana y servicios) y polígonos externos de manzana.
+Inspección: completa. 
+Explicación de la revisión: mediante un análisis visual se confrontó la geometría de los nuevos amanzanamientos y actualizaciones en la capa vectorial con los correspondientes rasgos físicos visibles en la imagen y usando como referencia adicional las capas vectoriales de ejes viales, frentes de manzana y servicios. Se tipificaron como inconsistencia los casos en los cuales existió una notable discrepancia entre los elementos comparados. 
+Resultados de la revisión: aproximadamente 5% de los objetos presentó alguna inconsistencia en los criterios de actualización cartográfica. Evaluadores: Dirección General Adjunta de Información Geográfica para la Administración del Territorio (INEGI). Observaciones: para todos los objetos que presentaron alguna inconsistencia en los criterios de actualización cartográfica, se consultó con el personal del departamento de Cartografía y Territorio de cada entidad involucrada, para tener una información más homogénea, y se concluyó que no se debían integrar a la cartografía del Marco Geoestadístico. Todas las localidades con sus respectivas manzanas se verificaron en campo; las imágenes sólo se tomaron como referencia.</LI_ProcessStep_description>
+<LI_ProcessStep_description>control de calidad
+ 
+Criterio: consistencia lógica. Subcriterio: consistencia conceptual. 
+Ámbito de la revisión: estados, municipios, localidades, AGEB urbanas y rurales y manzanas 
+Inspección: completa. 
+Explicación de la revisión: mediante un sistema automatizado de validación de tablas se verificó la homogeneidad de la nomenclatura y claves geoestadísticas entre los catálogos de estado, municipio, localidad, AGEB y manzana. Una vez liberados se confrontaron con las actualizaciones cartográficas registradas en la tabla de equivalencia cartográfica.  
+Resultados de la revisión: aproximadamente 4.8% de los registros presentó alguna inconsistencia en nomenclatura y/o clave geoestadística. Nivel de conformidad de calidad: cero inconsistencias aceptables.
+Evaluadores: Dirección General Adjunta de Información Geográfica para la Administración del Territorio (INEGI). Observaciones: para todos los registros que presentaron alguna inconsistencia, se consultó con el personal del departamento de Cartografía y Territorio de cada coordinación estatal involucrada, para corregir todas las inconsistencias presentadas y liberar la información tabular.
+</LI_ProcessStep_description>
+<LI_ProcessStep_description>control de calidad 
+
+Criterio: consistencia lógica. Subcriterio: consistencia conceptual. 
+Ámbito de la revisión: claves geoestadísticas estados, municipios, localidades y manzanas.
+Inspección: completa. 
+Explicación de la revisión: mediante un sistema automatizado de validación vectorial se verificó que existiera correspondencia entre la información tabular (claves geoestadísticas) y su ubicación en el gráfico; además se verificó que los códigos de actualización cartográfica se aplicaron correctamente en la tabla de equivalencia.
+Nivel de conformidad de calidad: cero inconsistencias aceptables. 
+Resultados de la revisión: aproximadamente 0.5% de los registros presentó alguna inconsistencia en código de actualización, ubicación o clave geoestadística. 
+Evaluadores: Dirección General Adjunta de Información Geográfica para la Administración del Territorio (INEGI). Observaciones: para todos los registros que presentaron alguna inconsistencia, se consultó con el personal del departamento de Cartografía y Territorio de cada coordinación estatal involucrada, para corregir todas las inconsistencias presentadas y liberar la información tabular.</LI_ProcessStep_description>
+<LI_ProcessStep_description>localidades rurales puntuales y límites  
+
+1. Recepción y análisis de la información: las coordinaciones estatales planearon y realizaron recorridos en campo para identificar cambios en los elementos cartográficos del Marco Geoestadístico. Los nuevos trazos o actualizaciones de localidades fueron captados en archivos digitales o en el material cartográfico impreso. Posteriormente fueron digitalizados para conformar versiones actualizadas de las capas siguientes:
+
+- Áreas Geoestadísticas Estatales (AGEE).
+- Áreas Geoestadísticas Municipales (AGEM).
+- Áreas Geoestadísticas Básicas Rurales (AGEB).
+- Polígonos de Localidades Urbanas y Rurales Amanzanadas (L).
+- Localidades Puntuales Rurales (LPR).
+- Territorio Insular (TI).
+
+Sobre los archivos vectoriales se hizo una revisión de las actualizaciones incorporadas, buscando inconsistencias vectoriales y tabulares. Se definió una estrategia en la revisión, corrección y edición durante el procesamiento de la información.
+
+2. Validación: por medio de herramientas informáticas y utilizando como referencia la versión del Marco Geoestadístico para la planeación de la Encuesta Intercensal 2025, se identificaron las inconsistencias tabulares y vectoriales, así como los cambios en las delimitaciones geoestadísticas; esto se hizo con base en la documentación correspondiente (decretos oficiales) y tomando en consideración los criterios técnicos definidos para esta actividad. 
+Las validaciones que se realizaron fueron las siguientes:
+
+Localidades Puntuales Rurales 
+- Elementos duplicados.
+- Localidades Puntuales Rurales (LPR) dentro de su AGEB.
+- LPR dentro de su polígono amanzanado.
+- LPR dentro de un polígono que no le corresponde.
+- Validación de las delimitaciones geoestadísticas coincidentes.
+- Validación contra catálogos.
+
+3. Edición: terminada la etapa de validación de todos los elementos que conforman la parte rural del Marco Geoestadístico se procedió a la edición tabular y vectorial de las inconsistencias detectadas, de acuerdo con las metodologías y criterios establecidos para cada uno de los elementos. Esta actividad se realizó en cada una de las coordinaciones estatales. 
+En algunos casos se tomaron como referencia imágenes digitales capturadas mediante servicios de satélite, junto con las herramientas desarrolladas en el INEGI, exclusivamente para esta edición.
+
+En lo referente a los ajustes a las delimitaciones geoestadísticas por cambios en límites municipales, las modificaciones en el archivo vectorial se aplicaron tras verificar que se contaba con el sustento legal correspondiente y se cumplían los criterios técnicos establecidos por el INEGI para la aplicación de límites políticos-administrativos al MG. 
+ 
+
+4. Integración: concluida la etapa de edición se realizó, por cada entidad federativa, la integración de cada uno de los elementos que conforman la parte rural del Marco Geoestadístico, asegurándose que la información cumpliera con la estructura especificada en el protocolo de entrega.
+
+5. Publicación: después de la integración se realizó la entrega del producto final al área correspondiente para su difusión, publicación y disposición de los usuarios finales.</LI_ProcessStep_description>
+<LI_ProcessStep_description>tecnología utilizada: 
+
+Hardware: computadora personal con procesador Intel CORE a 3.6 ghz, Windows 11.
+Software: Sistema de Información Geográfica (ArcGis 10.8.1) y desarrollo de herramientas propias en Python para la edición y validación: SAP (Sistema de Actualización Permanente de Catálogos), SIVEC (Sistema Integral de Validación y Edición Cartográfica), ValidaTE (Programa de validación de tabla de equivalencia) y ValidaVEC (Programa de validación de tabla de equivalencia contra el gráfico del MG).</LI_ProcessStep_description>
+<LI_ProcessStep_description>control de calidad 
+
+Criterio: consistencia lógica. Subcriterio: consistencia topológica. Ámbito de la revisión: vectoriales correspondientes a las Áreas Geoestadísticas Estatales (AGEE), Áreas Geoestadísticas Municipales (AGEM), Áreas Geoestadísticas Básicas Rurales, polígonos de localidades urbanas y rurales amanzanadas, Localidades Puntuales Rurales (LPR), Polígono Externo (PE) y Territorio Insular. Inspección: completa. Explicación de la revisión: por medios automatizados se verificó que los objetos espaciales cumplieran con las reglas topológicas y con las relaciones lógicas (conexión, compartición) establecidas en el diccionario de datos del Marco Geoestadístico para los distintos objetos de puntos, líneas y áreas. Estos errores son resultado de trazos o ediciones incorrectas y cada uno requiere efectuar una corrección o aportar una justificación.
+Resultado de la revisión: se revisó la consistencia topológica en la totalidad del conjunto de datos con estructura vectorial (representación de punto, línea o polígono).
+Nivel de conformidad de calidad: tolerancia de 1 metro; fuera de ella, no se admitió ningún error topológico. Evaluadores: Dirección General Adjunta de Información Geográfica para la Administración del Territorio (INEGI). Observaciones: mediante algoritmos se identificaron las siguientes inconsistencias topológicas: traslapes o geometrías inválidas, huecos, moños, multipolígonos, polígonos sin cerrar entre los objetos de línea, área y punto, así como polígonos con área muy pequeña. Para algunos casos se requirió la consulta y conciliación con la coordinación estatal involucrada para corregir todos los errores y lograr una información homogénea.</LI_ProcessStep_description>
+<LI_ProcessStep_description>control de calidad 
+
+Criterio: consistencia lógica. Subcriterio: omisión. Ámbito de la revisión: las localidades que tuvieron alguna actualización o eran nuevas, así como los atributos de las AGEE, AGEM, AGEB, polígonos de localidades y rurales amanzanadas, polígonos externos y polígonos de territorio insular. Inspección: completa. Explicación de la revisión: mediante aplicaciones informáticas se confrontaron los archivos vectoriales actualizados con su correspondiente vectorial de la versión anterior del Marco Geoestadístico; así mismo, los vectoriales actualizados se confrontaron contra su versión actualizada del Catálogo Único de Claves de Áreas Geoestadísticas Estatales, Municipales y Localidades. En ambos casos se buscaban inconsistencias de omisión.
+Resultado de la revisión: aproximadamente 0.2% de inconsistencias. Evaluadores: Dirección General Adjunta de Información Geográfica para la Administración del Territorio (INEGI). Observaciones: al encontrarse algunas diferencias, éstas requirieron consulta con las áreas involucradas para su pronta solución.</LI_ProcessStep_description>
+</LI_ProcessStep>
+<LI_Source>
+<LI_Source_description>Fuente 1: documentación oficial sobre modificación de nombres oficiales de municipios, cabeceras municipales o localidades urbanas o rurales. Período de los documentos: noviembre 2024-julio 2025.
+Fuente 2: imágenes satelitales en color o escala de grises, con resolución de 50 cm. Digital Globe, fecha variable.
+Fuente 3: Marco Geoestadístico para la planeación de la Encuesta Intercensal 2025.
+Fuente 4: los ajustes en las delimitaciones geoestadísticas se basaron en documentos vigentes de diversas fechas, emitidos por las autoridades competentes; que son, según el caso, el Congreso de la Unión, los Congresos Estatales o el Congreso de la Ciudad de México.</LI_Source_description>
+</LI_Source>
+</LI_Lineage>
+</DQ_DataQuality>
+<Attributes>
+<schemaAscii>este producto contiene la siguiente información:
+
+- Polígono de Área Geoestadística Estatal, es la representación territorial de cada entidad federativa, definida por delimitaciones geoestadísticas.
+- Polígono de Área Geoestadística Municipal, es la representación territorial de cada municipio del país y demarcación territorial en la Ciudad de México, definida por delimitaciones geoestadísticas.
+- Polígono de Área Geoestadística Básica, representa cada una de las unidades territoriales en las que se divide el Área Geoestadística Municipal, definida con propósitos de cobertura, control y difusión de la información. Se clasifica en urbana o rural.
+- Polígono de localidad, es la representación del espacio geográfico que contiene el amanzanamiento que integra la localidad urbana y rural. 
+- Punto de ubicación de localidad rural, es la representación territorial conformada de un inmueble o inmuebles edificados.
+
+dominio de valores:
+
+CVEGEO: Es la clave geoestadística concatenada del elemento.
+CVE_ENT: Es la clave geoestadística de la entidad Federativa que va del 01 que corresponde a Aguascalientes al 32 Zacatecas.
+CVE_MUN: Es la clave geoestadística asignada a los municipios y demarcaciones territoriales del 001 al último número del municipio que tenga la entidad. 
+CVE_LOC: Es la clave geoestadística asignada a las localidades rurales y urbanas.
+CVE_AGEB: Es la clave del Área Geoestadística Básica urbana y rural asignada a nivel municipio.
+NOMGEO: Es el nombre de la entidad federativa, municipio o localidad.
+PLANO: Indica el estatus de amanzanamiento de una localidad.
+ÁMBITO: Especifica si la localidad es urbana o rural, así como el ámbito del servicio.</schemaAscii>
+<entity_detail>capa base: 
+
+A Ageb 82,283 (Urbana 64, 808 y Rural 17,475), ENT Entidad Federativa 32, L Localidad Amanzanada 51,766, LPR Localidad Puntual Rural 291,933, MUN Municipios 2,478.</entity_detail>
+</Attributes>
+<MD_Distribution>
+<accessConstraints>8. Acceso al público a través de internet y los Centros de Información del Instituto Nacional de Estadística y Geografía - INEGI.</accessConstraints>
+<useConstraints>8. Ninguna.</useConstraints>
+<otherConstraints>El Instituto Nacional de Estadística y Geografía - INEGI no se hace responsable por el uso que usted les dé a los datos.</otherConstraints>
+<MD_Format>
+<name>Shape</name>
+<version>Arc Map 10.8.1</version>
+</MD_Format>
+</MD_Distribution>
+<Inf_Metadata>
+<metadataStandardName>ISO 19115 Información Geográfica - Metadatos (Norma Técnica para Metadatos).</metadataStandardName>
+<metadataStandardVersion>2003 (1.0).</metadataStandardVersion>
+<Inf_Metadata_language>ES - Español.</Inf_Metadata_language>
+<CI_ResponsibleParty>
+<Inf_Metadata_CI_ResponsibleParty_individualName>Lic. Rafael Arrioja Urzúa.</Inf_Metadata_CI_ResponsibleParty_individualName>
+<Inf_Metadata_CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI.</Inf_Metadata_CI_ResponsibleParty_organisationName>
+<Inf_Metadata_CI_ResponsibleParty_positionName>Jefe del Departamento de Administración de Metadatos.</Inf_Metadata_CI_ResponsibleParty_positionName>
+<Inf_Metadata_CI_ResponsibleParty_voice>449 9105 300 Ext. 31 1750 y 31 5631.</Inf_Metadata_CI_ResponsibleParty_voice>
+<Inf_Metadata_CI_ResponsibleParty_facsimile></Inf_Metadata_CI_ResponsibleParty_facsimile>
+<Inf_Metadata_CI_ResponsibleParty_deliveryPoint>Avenida Héroe de Nacozari Sur 2301, Fraccionamiento Jardines del Parque, 20276, Aguascalientes, Aguascalientes, Aguascalientes, entre Calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas.</Inf_Metadata_CI_ResponsibleParty_deliveryPoint>
+<Inf_Metadata_CI_ResponsibleParty_city>Aguascalientes.</Inf_Metadata_CI_ResponsibleParty_city>
+<Inf_Metadata_CI_ResponsibleParty_administrativeArea>Aguascalientes.</Inf_Metadata_CI_ResponsibleParty_administrativeArea>
+<Inf_Metadata_CI_ResponsibleParty_postalCode>20276</Inf_Metadata_CI_ResponsibleParty_postalCode>
+<Inf_Metadata_CI_ResponsibleParty_country>México</Inf_Metadata_CI_ResponsibleParty_country>
+<Inf_Metadata_CI_ResponsibleParty_electronicMailAddress>rafael.arrioja@inegi.org.mx</Inf_Metadata_CI_ResponsibleParty_electronicMailAddress>
+<Inf_Metadata_CI_ResponsibleParty_role>  7. Punto de contacto: Parte que puede ser contactada para informarse sobre el recurso o adquisición del mismo.</Inf_Metadata_CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<dateStamp>2025-10-21</dateStamp>
+<Inf_Metadata_characterSet>  6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.</Inf_Metadata_characterSet>
+</Inf_Metadata>
+</Metadata>

@@ -1,0 +1,33 @@
+cve_ent,nom_ent,nombre_normalizado,L1_proteccion_antidiscriminacion,L2_reconocimiento_parejas,L3_identidad_documentos,C1_mecanismo_denuncia_sancion,C2_prohibicion_ecosig,C3_delitos_odio_registro_protocolo,S1_aceptacion_convivencia_pareja,S2_aceptacion_liderazgo_lgbt_trans,S3_discriminacion_reportada,M1_sintomas_depresivos_ansiosos,M2_ideacion_intento_suicida,M3_acceso_salud_mental,pilar_1_score,pilar_2_score,pilar_3_score,pilar_4_score,rainbow_score,category_status,notes
+01,Aguascalientes,aguascalientes,2,2,0,0,0,2,1,2,1,0,0,1,4,2,4,5,62.5,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+02,Baja California,baja_california,0,1,1,1,2,0,2,0,0,1,2,2,2,3,4,3,50.0,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+03,Baja California Sur,baja_california_sur,1,0,2,2,1,1,0,1,2,2,1,0,3,4,1,1,37.5,rezago,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+04,Campeche,campeche,2,2,0,0,0,2,1,2,1,0,0,1,4,2,4,5,62.5,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+05,Coahuila de Zaragoza,coahuila,0,1,1,1,2,0,2,0,0,1,2,2,2,3,4,3,50.0,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+06,Colima,colima,1,0,2,2,1,1,0,1,2,2,1,0,3,4,1,1,37.5,rezago,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+07,Chiapas,chiapas,2,2,0,0,0,2,1,2,1,0,0,1,4,2,4,5,62.5,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+08,Chihuahua,chihuahua,0,1,1,1,2,0,2,0,0,1,2,2,2,3,4,3,50.0,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+09,Ciudad de México,ciudad_de_mexico,1,0,2,2,1,1,0,1,2,2,1,0,3,4,1,1,37.5,rezago,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+10,Durango,durango,2,2,0,0,0,2,1,2,1,0,0,1,4,2,4,5,62.5,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+11,Guanajuato,guanajuato,0,1,1,1,2,0,2,0,0,1,2,2,2,3,4,3,50.0,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+12,Guerrero,guerrero,1,0,2,2,1,1,0,1,2,2,1,0,3,4,1,1,37.5,rezago,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+13,Hidalgo,hidalgo,2,2,0,0,0,2,1,2,1,0,0,1,4,2,4,5,62.5,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+14,Jalisco,jalisco,0,1,1,1,2,0,2,0,0,1,2,2,2,3,4,3,50.0,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+15,México,mexico,1,0,2,2,1,1,0,1,2,2,1,0,3,4,1,1,37.5,rezago,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+16,Michoacán de Ocampo,michoacan,2,2,0,0,0,2,1,2,1,0,0,1,4,2,4,5,62.5,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+17,Morelos,morelos,0,1,1,1,2,0,2,0,0,1,2,2,2,3,4,3,50.0,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+18,Nayarit,nayarit,1,0,2,2,1,1,0,1,2,2,1,0,3,4,1,1,37.5,rezago,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+19,Nuevo León,nuevo_leon,2,2,0,0,0,2,1,2,1,0,0,1,4,2,4,5,62.5,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+20,Oaxaca,oaxaca,0,1,1,1,2,0,2,0,0,1,2,2,2,3,4,3,50.0,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+21,Puebla,puebla,1,0,2,2,1,1,0,1,2,2,1,0,3,4,1,1,37.5,rezago,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+22,Querétaro,queretaro,2,2,0,0,0,2,1,2,1,0,0,1,4,2,4,5,62.5,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+23,Quintana Roo,quintana_roo,0,1,1,1,2,0,2,0,0,1,2,2,2,3,4,3,50.0,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+24,San Luis Potosí,san_luis_potosi,1,0,2,2,1,1,0,1,2,2,1,0,3,4,1,1,37.5,rezago,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+25,Sinaloa,sinaloa,2,2,0,0,0,2,1,2,1,0,0,1,4,2,4,5,62.5,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+26,Sonora,sonora,0,1,1,1,2,0,2,0,0,1,2,2,2,3,4,3,50.0,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+27,Tabasco,tabasco,1,0,2,2,1,1,0,1,2,2,1,0,3,4,1,1,37.5,rezago,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+28,Tamaulipas,tamaulipas,2,2,0,0,0,2,1,2,1,0,0,1,4,2,4,5,62.5,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+29,Tlaxcala,tlaxcala,0,1,1,1,2,0,2,0,0,1,2,2,2,3,4,3,50.0,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+30,Veracruz de Ignacio de la Llave,veracruz,1,0,2,2,1,1,0,1,2,2,1,0,3,4,1,1,37.5,rezago,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+31,Yucatán,yucatan,2,2,0,0,0,2,1,2,1,0,0,1,4,2,4,5,62.5,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.
+32,Zacatecas,zacatecas,0,1,1,1,2,0,2,0,0,1,2,2,2,3,4,3,50.0,avance,Dato de prueba para prototipo base alineado a pilares L-C-S-M.

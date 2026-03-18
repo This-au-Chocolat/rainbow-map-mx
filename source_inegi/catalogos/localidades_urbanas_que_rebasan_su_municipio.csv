@@ -1,0 +1,173 @@
+CVE_ENT,CVE_MUN,CVE_LOC,NOMLOC
+01,001,0239,General José María Morelos y Pavón (Cañada Honda)
+01,001,1025,Pocitos
+02,004,1883,Villa del Campo
+02,005,0001,Playas de Rosarito
+05,006,0001,Castaños
+05,035,0001,Torreón
+06,002,0001,Colima
+06,010,0001,Ciudad de Villa de Álvarez
+07,007,0001,Amatenango del Valle
+07,027,0001,Chiapa de Corzo
+07,027,0622,Jardines del Grijalva
+07,078,0001,San Cristóbal de las Casas
+07,099,0073,La Esperanza
+07,101,0001,Tuxtla Gutiérrez
+08,004,0001,Santa Eulalia
+08,019,0001,Chihuahua
+08,045,0015,Lázaro Cárdenas
+09,004,0001,Cuajimalpa de Morelos
+09,008,0001,La Magdalena Contreras
+09,009,0011,San Antonio Tecómitl
+09,009,0300,San Nicolás Tetelco
+09,011,0021,San Juan Ixtayopan
+09,011,0026,Santa Catarina Yecahuitzotl
+09,012,0001,Tlalpan
+09,012,0027,San Miguel Topilejo
+09,013,0001,Xochimilco
+11,011,0054,Tierra Fría
+12,001,0001,Acapulco de Juárez
+12,008,0001,Atenango del Río
+12,075,0001,Zumpango del Río
+13,003,0012,El Daxtha
+13,009,0005,El Jiadi
+13,013,0029,Paseos de la Pradera
+13,046,0004,Ahuatitla
+13,051,0092,Bosques del Mineral
+13,051,0101,Guadalupe Minerva
+13,051,0151,Hacienda Margarita
+13,055,0017,Yolotepec
+13,056,0001,Santiago Tulantepec
+13,069,0002,El Carmen
+13,070,0002,Munitepec de Madero
+13,074,0003,Teltipán de Juárez
+13,077,0001,Tulancingo
+13,082,0002,Acayuca
+15,013,0001,Ciudad López Mateos
+15,031,0001,Chimalhuacán
+15,058,0001,Ciudad Nezahualcóyotl
+15,120,0056,Santa Lucía
+16,020,0001,Cuitzeo del Porvenir
+16,075,0001,Los Reyes de Salgado
+16,084,0004,La Cantera
+16,108,0020,La Sauceda
+17,007,0001,Cuernavaca
+18,010,0035,San Vicente
+18,011,0001,Ruiz
+18,017,0001,Tepic
+18,017,0151,San Cayetano
+19,006,0001,Ciudad Apodaca
+19,006,0392,Misión San Pablo
+19,021,0001,Ciudad General Escobedo
+19,026,0001,Guadalupe
+19,041,0001,Pesquería
+19,041,0456,Valle de Santa María
+19,045,0551,Valle del Norte
+20,007,0001,Asunción Ocotlán
+20,012,0001,Candelaria Loxicha
+20,021,0001,Cosolapa
+20,028,0001,Heroica Ciudad de Ejutla de Crespo
+20,040,0001,Huautepec
+20,043,0001,Heroica Ciudad de Juchitán de Zaragoza
+20,057,0001,Matías Romero Avendaño
+20,062,0001,Natividad
+20,067,0001,Oaxaca de Juárez
+20,067,0051,Viguera
+20,068,0001,Ocotlán de Morelos
+20,073,0001,Putla Villa de Guerrero
+20,078,0001,Rojas de Cuauhtémoc
+20,083,0001,San Agustín de las Juntas
+20,084,0001,San Agustín Etla
+20,091,0001,San Andrés Huayápam
+20,092,0001,San Andrés Ixtlahuaca
+20,103,0001,San Antonino Castillo Velasco
+20,107,0001,San Antonio de la Cal
+20,124,0001,Heroica Villa de San Blas Atempa
+20,128,0001,San Cristóbal Lachirioag
+20,131,0001,San Dionisio Ocotepec
+20,132,0001,San Dionisio Ocotlán
+20,145,0001,San Francisco Lachigoló
+20,149,0001,San Francisco Sola
+20,150,0001,San Francisco Telixtlahuaca
+20,155,0001,San Ildefonso Sola
+20,156,0001,San Ildefonso Villa Alta
+20,157,0001,San Jacinto Amilpas
+20,163,0001,San Jerónimo Tecóatl
+20,167,0001,San José del Peñasco
+20,179,0001,San Juan Bautista Jayacatlán
+20,193,0001,San Juan del Estado
+20,216,0001,San Juan Tabaá
+20,227,0001,San Lorenzo Cacaotepec
+20,243,0001,San Martín Tilcajete
+20,268,0001,San Miguel Ejutla
+20,271,0001,San Miguel Mixtepec
+20,277,0001,Villa Sola de Vega
+20,293,0001,San Pablo Etla
+20,294,0001,San Pablo Huitzo
+20,303,0001,San Pedro Cajonos
+20,314,0001,San Pedro Juchatengo
+20,318,0009,Puerto Escondido
+20,337,0001,San Pedro y San Pablo Ayutla
+20,338,0001,Villa de Etla
+20,358,0001,Santa Ana Tlapacoyan
+20,365,0001,Santa Catarina Lachatao
+20,375,0001,Santa Cruz Amilpas
+20,385,0001,Santa Cruz Xoxocotlán
+20,385,0009,San Juan Bautista la Raya
+20,389,0001,Santa Inés Yatzeche
+20,390,0001,Santa Lucía del Camino
+20,390,0003,San Francisco Tutla
+20,392,0001,Santa Lucía Monteverde
+20,399,0001,Santa María Atzompa
+20,409,0001,Santa María del Tule
+20,427,0010,Rincón Viejo
+20,442,0001,Santa María Yalina
+20,481,0001,Santiago Nuyoó
+20,490,0001,Santiago Texcalcingo
+20,513,0001,Santo Domingo Petapa
+20,515,0001,Santo Domingo Tehuantepec
+20,519,0001,Santo Domingo Tomaltepec
+20,533,0001,Santo Tomás Tamazulapan
+20,550,0001,San Jerónimo Tlacochahuaya
+20,553,0001,Tlalixtac de Cabrera
+20,562,0001,Magdalena Yodocono de Porfirio Díaz
+20,565,0001,Villa de Zaachila
+21,041,0008,Sanctorum
+21,071,0038,Xaltepec
+21,091,0001,Nuevo Necaxa
+21,106,0042,Lomas de Angelópolis
+21,115,0009,Palmarito Tochapan
+21,119,0013,San Bernardino Tlaxcalancingo
+21,140,0001,Cholula de Rivadavia
+21,163,0001,Tepatlaxco de Hidalgo
+21,174,0001,Teziutlán
+21,188,0002,San Antonio Alpanocan
+22,008,0116,Cumbres del Cimatario
+22,011,0047,Palo Alto
+22,014,0001,Santiago de Querétaro
+22,016,0039,El Organal
+23,005,0001,Cancún
+25,001,0156,Gustavo Díaz Ordaz (El Carrizo)
+25,002,0031,Colonia Independencia (Chinitos)
+25,002,0032,Colonia Agrícola México (Palmitas)
+25,012,0348,Villa Unión
+25,015,0001,Guamúchil
+26,017,0001,Heroica Caborca
+29,002,0003,San Matías Tepetomatitlán
+29,010,0001,Santa Ana Chiautempan
+29,049,0001,San Damián Texóloc
+29,053,0001,San Juan Huactzinco
+30,045,0007,General Miguel Alemán (Ciudad Alemán)
+30,048,0286,Fraccionamiento los Mangos
+30,087,0001,Xalapa-Enríquez
+30,128,0007,La Gloria
+30,145,0025,Colonia Lealtad
+31,011,0001,Celestún
+31,041,0001,Kanasín
+31,063,0001,Samahil
+31,076,0001,Tecoh
+31,080,0001,Tekit
+31,099,0001,Uayma
+31,102,0174,Xocén
+32,017,0001,Guadalupe
+32,056,0001,Zacatecas

@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Rainbow Map Mexico - Base Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;700&family=Source+Serif+4:wght@600&display=swap" rel="stylesheet">
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="header">
+      <div>
+        <p class="eyebrow">Politicas Publicas y Derechos Humanos</p>
+        <h1>Rainbow Map Mexico - Base Estatal</h1>
+        <p class="subtitle">Prototipo base para visualizacion de indicadores LGBT+ por entidad federativa.</p>
+      </div>
+      <div class="header-meta">
+        <span id="lastUpdate">Actualizacion: --</span>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="map-panel card">
+        <div class="panel-topbar">
+          <h2>Mapa Coropletico Estatal</h2>
+          <div class="controls">
+            <label for="indicatorSelect">Indicador:</label>
+            <select id="indicatorSelect">
+              <option value="rainbow_score">Indice compuesto (0-100)</option>
+              <option value="pilar_1_score">Pilar 1: Existencia de la ley</option>
+              <option value="pilar_2_score">Pilar 2: Cumplimiento</option>
+              <option value="pilar_3_score">Pilar 3: Percepcion social</option>
+              <option value="pilar_4_score">Pilar 4: Salud mental</option>
+              <option value="L1_proteccion_antidiscriminacion">L1 Proteccion antidiscriminacion</option>
+              <option value="L2_reconocimiento_parejas">L2 Reconocimiento de parejas</option>
+              <option value="L3_identidad_documentos">L3 Identidad en documentos</option>
+              <option value="C1_mecanismo_denuncia_sancion">C1 Denuncia y sancion</option>
+              <option value="C2_prohibicion_ecosig">C2 Prohibicion ECOSIG</option>
+              <option value="C3_delitos_odio_registro_protocolo">C3 Delitos de odio</option>
+              <option value="S1_aceptacion_convivencia_pareja">S1 Aceptacion convivencia</option>
+              <option value="S2_aceptacion_liderazgo_lgbt_trans">S2 Aceptacion liderazgo</option>
+              <option value="S3_discriminacion_reportada">S3 Discriminacion reportada</option>
+              <option value="M1_sintomas_depresivos_ansiosos">M1 Sintomas depresivos/ansiosos</option>
+              <option value="M2_ideacion_intento_suicida">M2 Ideacion/intento suicida</option>
+              <option value="M3_acceso_salud_mental">M3 Acceso salud mental</option>
+              <option value="category_status">Estatus global</option>
+            </select>
+          </div>
+        </div>
+        <div id="map"></div>
+        <div id="legend" class="legend"></div>
+      </section>
+
+      <aside class="detail-panel card">
+        <h2>Detalle de Entidad</h2>
+        <p class="hint">Haz clic en un estado para ver sus datos.</p>
+        <div id="stateDetail" class="state-detail">
+          <p>Sin seleccion.</p>
+        </div>
+      </aside>
+    </main>
+
+    <section class="future-section card">
+      <h2>Espacios para Escalar</h2>
+      <div class="placeholder-grid">
+        <div class="placeholder-box">Pestana futura: Evolucion temporal</div>
+        <div class="placeholder-box">Pestana futura: Tabla comparativa</div>
+        <div class="placeholder-box">Pestana futura: Metodologia y metadatos</div>
+      </div>
+    </section>
+  </div>
+
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+  <script src="app.js"></script>
+</body>
+</html>

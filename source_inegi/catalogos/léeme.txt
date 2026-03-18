@@ -1,0 +1,56 @@
+LÉEME
+
+El Instituto Nacional de Estadística y Geografía (INEGI), responsable de brindar el servicio público de información estadística y geográfica, presenta el producto Marco Geoestadístico Integrado, 2025, conformado por archivos digitales en formato SHAPE, cuyo corte corresponde a la actualización cartográfica base julio 2025, integrado en una carpeta que contiene un total nacional de 32 áreas geoestadísticas estatales, 2,478 áreas geoestadísticas municipales, 51,766 polígonos de localidades urbanas y rurales amanzanadas, 291,933 puntos de localidades rurales amanzanadas y no amanzanadas, 17,475 áreas geoestadísticas básicas rurales y 64,808 áreas geoestadísticas básicas urbanas; la información presenta asociado como atributo, sus nombres y claves geoestadísticas.
+El Marco Geoestadístico es un sistema único y de carácter nacional diseñado por el INEGI, el cual presenta la división del país en diferentes niveles de desagregación, para referir geográficamente la información estadística institucional y de las unidades del estado que se integran al Sistema Nacional de Información Estadística y Geográfica (SNIEG).
+
+El producto Marco Geoestadístico Integrado 2025, es la representación vectorial en sus diferentes niveles de desagregación, con sus respectivas claves y nombres, lo que permite integrar un Catálogo Único de Claves de Áreas Geoestadísticas Estatales, Municipales y Localidades, actualizado al mes de julio 2025, con la finalidad de que las autoridades, la academia, nuestra sociedad y el INEGI, utilicen una información homogénea. Del mismo modo el Marco Geoestadístico Integrado, 2025, se tomará como base para la entrega de resultados de la Encuesta Intercensal 2025.
+
+Toda la información está referida en base a los parámetros: Cónica Conforme de Lambert (CCL) y Dátum ITRF2008 época 2010.0. Cabe aclarar que la ubicación, forma y proporción de los elementos llevados a su expresión cartográfica es aproximada, debido a la variedad de fuentes y métodos de compilación.
+
+Los archivos vectoriales se encuentran disponibles en formato SHAPE (SHP), los cuales pueden ser incorporados en sistemas de información geográfica (SIG).
+Nota: Los formatos fueron generados y probados en el software ArcGis ver. 10.8.1, y se puede presentar hasta 1 metro de tolerancia en huecos y/o traslapes en el archivo vectorial, entre sus diversos elementos.
+
+Para el mejor aprovechamiento de los datos, es importante que el software del usuario sea adecuado a las necesidades y a las especificaciones de equipo de cómputo que se deben cumplir, para la correcta visualización de la información.
+
+Por sus características, el producto Marco Geoestadístico Integrado, 2025, puede ser utilizado por los sectores público, privado y académico, entre otros.
+
+Cabe señalar que el mencionado producto toma como base el archivo cartográfico digital inmediato anterior, que es el más actualizado (Marco Geoestadístico 2024, Planeación de la Encuesta Intercensal 2025). Además, se complementa con el presente documento y el documento Contenido que detalla las características técnicas de la información; los documentos referidos se encuentran en formato pdf y txt.
+
+Y en formatos pdf y csv, los siguientes catálogos:
+* áreas_geoestadísticas_estatales
+* áreas_geoestadísticas_municipales
+* localidades_urbanas_y_rurales_amanzanadas
+* localidades_rurales_que_rebasan_su_ municipio
+* localidades_urbanas_que_rebasan_su_municipio
+* localidades_rurales_que_rebasan_AGEB
+* localidades_islas (localidades que se ubican en un municipio y administrativamente pertenecen a otro municipio)
+
+Los cuatro últimos detallan, de manera muy específica, situaciones especiales o de excepción que se presentan en algunas localidades.
+
+ESTRUCTURA DE ARCHIVOS
+Los archivos se encuentran agrupados por capa y sus nombres y contenido son los siguientes:
+ 
+Nombre	Contenido
+00ent	Área Geoestadística Estatal
+00mun	Área Geoestadística Municipal
+00a	Área Geoestadística Básica urbana y rural
+00lpr	Localidad puntual rural
+00l	Localidad urbana y rural amanzanada
+
+
+Porque proporcionamos información para todos...
+¡México cuenta con el INEGI!
+
+Queda prohibida la reproducción total o parcial de este producto con fines de lucro, por cualquier medio, ya sea impreso o electrónico.
+Consecuentemente, la persona física o moral que sin autorización fotocopie, grabe, almacene en algún sistema o transmita a medios electrónicos o magnéticos dicha información, quedará sujeta a las disposiciones legales.
+
+Instituto Nacional de Estadística y Geografía Edificio Sede
+Av. Héroe de Nacozari Sur No. 2301 Fracc. Jardines del Parque, CP 20276 Aguascalientes, Aguascalientes, México.
+
+
+www.inegi.org.mx atencion.usuarios@inegi.org.mx
+Cualquier comentario, duda o aclaración respecto al producto, favor de dirigirse con: Mario Cruz González
+Director General Adjunto de Información Geográfica para la Administración del Territorio
+mario.cruz@inegi.org.mx
+
+Marco Geoestadístico Integrado, 2025.

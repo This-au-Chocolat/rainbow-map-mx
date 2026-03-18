@@ -1,0 +1,99 @@
+CONTENIDO
+
+El producto Marco Geoestadístico Integrado, 2025, es un producto conformado por archivos digitales en formato SHAPE, cuyo corte corresponde a la actualización cartográfica base julio 2025 y está integrado en una carpeta, con un total nacional de 32 áreas geoestadísticas estatales, cada una nombrada por la clave del área geoestadística estatal, 2,478 áreas geoestadísticas municipales, 51,766 polígonos de localidades urbanas y rurales amanzanadas, 291,933 puntos de localidades rurales amanzanadas y no amanzanadas, 17,475 áreas geoestadísticas básicas rurales y 64,808 áreas geoestadísticas básicas urbanas; la información mantiene asociados, a manera de atributo, los nombres y claves geoestadísticas. 
+
+La información del producto está organizada en las siguientes tres carpetas:
+* catalogos: contiene los catálogos y la documentación del producto.
+* conjunto_de_datos: contiene los archivos vectoriales desagregados por capas de información.
+* metadatos: contiene un archivo de metadatos de la información nacional.
+
+Nombre y contenido de los archivos vectoriales
+En la carpeta conjunto_de_datos los nombres de los archivos y su contenido son los siguientes:
+Nombre	Contenido
+00ent	Área Geoestadística Estatal
+00mun	Área Geoestadística Municipal
+00a	Área Geoestadística Básica urbana y rural
+00lpr	Localidad puntual rural
+00l	Localidad urbana y rural amanzanada
+
+Formato
+SHAPE
+
+Documentación
+En la carpeta catalogos se encuentra información adicional de algunos elementos que conforman el producto.
+- áreas_geoestadísticas_estatales
+- áreas_geoestadísticas_municipales
+- localidades_urbanas_y_rurales_amanzanadas
+- localidades_rurales_que_rebasan_su_municipio
+- localidades_urbanas_que_rebasan_su_municipio
+- localidades_rurales_que_rebasan_AGEB
+- localidades_islas (localidades que se ubican en un municipio y administrativamente pertenecen a otro municipio)
+
+Los cuatro últimos detallan, de manera específica, situaciones especiales o de excepción que se presentan en algunas localidades.
+Estos archivos se presentan en formatos pdf y csv
+Asimismo, en complemento a los archivos anteriores se encuentra el presente documento, además del documento de presentación Léeme; ambos están en formato pdf y txt.
+
+Metadatos
+Finalmente, en la carpeta metadatos se incluyen los archivos digitales con la información cartográfica.
+
+Características técnicas de la información:
+Parámetros:
+Proyección: Cónica Conforme de Lambert (CCL) Dátum: ITRF2008.
+Elipsoide: GRS80.
+Meridiano origen: 102° 00’ 00’’ W.
+Latitud origen: 12° 00’ 00’’ N.
+Primer paralelo estándar: 17° 30’ N.
+Segundo paralelo estándar: 29° 30’ N.
+Falso Este: 2 500 000.
+Falso Norte: 0
+
+Fuente
+La base cartográfica utilizada corresponde al Marco Geoestadístico 2024, Planeación de la Encuesta Intercensal 2025.
+El software utilizado para la digitalización de la cartografía y generación de los archivos SHAPE fue ArcGis en su versión 10.8.1 y se puede presentar hasta 1 metro de tolerancia entre los diversos elementos del archivo vectorial.
+
+Estructura
+
+
+00ent Áreas geoestadísticas estatales
+CAMPO 		DESCRIPCIÓN
+CVEGEO		Clave geoestadística concatenada
+CVE_ENT		Clave del AGEE
+NOMGEO		Nombre geográfico de la entidad federativa
+
+00mun Áreas geoestadísticas municipales
+CAMPO 		DESCRIPCIÓN
+CVEGEO		Clave geoestadística concatenada
+CVE_ENT		Clave del AGEE
+CVE_MUN		Clave del AGEM
+NOMGEO		Nombre geográfico del municipio
+
+00a Áreas geoestadísticas básicas urbanas y rurales
+CAMPO 		DESCRIPCIÓN
+CVEGEO		Clave geoestadística concatenada
+CVE_ENT		Clave del AGEE
+CVE_MUN		Clave del AGEM
+CVE_LOC		Clave de la localidad geoestadística (vacío para las AGEB de ámbito rural)
+CVE_AGEB	Clave de AGEB
+ÁMBITO		Ámbito de la AGEB
+
+
+00lpr Puntos de ubicación de localidades rurales
+CAMPO 		DESCRIPCIÓN
+CVEGEO		Clave geoestadística concatenada
+CVE_ENT		Clave del AGEE
+CVE_MUN		Clave del AGEM
+CVE_LOC		Clave de la localidad geoestadística
+CVE_AGEB	Clave de AGEB
+CVE_MZA		Clave de manzana
+NOMGEO		Nombre geográfico de la localidad
+PLANO		Estatus de amanzanamiento
+
+
+00l Localidad urbana y rural amanzanada
+CAMPO 		DESCRIPCIÓN
+CVEGEO		Clave geoestadística concatenada
+CVE_ENT		Clave del AGEE
+CVE_MUN		Clave del AGEM
+CVE_LOC		Clave de la localidad geoestadística
+NOMGEO		Nombre geográfico de la localidad
+ÁMBITO		Ámbito de localidad

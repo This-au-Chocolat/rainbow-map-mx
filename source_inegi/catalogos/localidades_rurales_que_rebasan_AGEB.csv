@@ -1,0 +1,4082 @@
+CVE_ENT,CVE_MUN,CVE_LOC,NOMLOC,CVE_AGEB
+01,001,0120,Buenavista de Peñuelas,1250
+01,001,0170,Cuauhtémoc (Las Palomas),1246
+01,001,0389,San José de la Ordeña,1890
+01,001,1178,Granjas Fátima,1138
+01,001,1184,Parque Industrial de Logística Automotriz (PILA),1246
+01,001,2379,Edén los Sabinos,1123
+01,001,2401,San Joaquín,1123
+01,001,2416,Bosques de las Lomas [Fraccionamiento Campestre],1123
+01,001,2464,Parque Industrial FINSA,1138
+01,001,2469,Parque Industrial Douki Seisan Park (DSP),1763
+01,002,0030,Lázaro Cárdenas,0033
+01,002,0034,Las Negritas,0067
+01,003,0105,El Zapote de la Labor,0026
+01,003,0110,Crucero las Pilas,0100
+01,003,0128,Jardines de San Isidro (Colonia Limón),0064
+01,003,0398,San José,0100
+01,004,0030,El Salero,0038
+01,005,0017,El Cenizo,0035
+01,005,0019,Cieneguitas,0073
+01,005,0060,Pedernal Primero,004A
+01,005,0066,Paso Blanco,0035
+01,005,0080,El Refugio,0035
+01,005,0126,El Aurero,0016
+01,005,0345,Cartuja Residencial,0016
+01,005,0352,La Primavera,0054
+01,006,0005,Gámez Orozco (Puerta de Carboneras) [Colonia],0013
+01,006,0249,San Agustín de los Puentes,0047
+01,006,0264,Ejido el Mezquite (Ojo de Agua del Mezquite),0013
+01,007,0013,Las Antenas,0078
+01,008,0023,San Antonio de los Ríos,0145
+01,009,0008,Carboneras,0034
+01,009,0019,El Porvenir,002A
+01,010,0041,Lomas del Refugio (La Loma),011A
+01,010,0049,El Milagro,0054
+01,010,0074,El Retoño,011A
+01,010,0101,Santa Elena,0092
+01,010,0124,La Unión (La Paz),0105
+01,011,0051,La Providencia,009A
+01,011,0053,Puertecito de la Virgen,0102
+01,011,0080,Viñedos Rivier,0102
+02,001,1266,San Antonio Necua (Cañada de los Encinos),6218
+02,001,1654,Poblado Puerta Trampa,6330
+02,001,2142,Buena Vista,6237
+02,001,3122,Ejido 27 de Enero,6862
+02,001,3381,Ejido el Ajusco,6557
+02,001,3815,Parcela Número Doscientos Treinta y Uno (Rancho el Refugio del Viejo),6472
+02,001,4068,San Carlos (Ejido Nacionalista),6472
+02,001,4635,Colonia Esperanza (Cañón San Carlos),6472
+02,001,5037,Colinas del Pedregal,6538
+02,001,5147,Francisco Villa,6542
+02,001,5625,San Marcos (Ejido Francisco Zarco),6307
+02,002,0141,Ejido Tamaulipas (Estación Cucapah),3475
+02,002,0158,Ejido Chihuahua,355A
+02,002,0186,Ejido Guanajuato,3456
+02,002,0211,Ejido Lázaro Cárdenas (La Mosca),3494
+02,002,0212,Poblado Lázaro Cárdenas (La Veintiocho),3579
+02,002,0255,Colonia Pescaderos (Campo la Catorce),3579
+02,002,0258,Ejido Plan de Ayala,3672
+02,002,0266,Colonia la Puerta,3615
+02,002,0311,Colonia José María Rodríguez Mérida (La Panga),3511
+02,002,0327,Ejido Netzahualcóyotl,3460
+02,002,0516,Represa Aurelio Benansini (Carehey),3460
+02,002,0521,Poblado Francisco Santana Peralta,348A
+02,002,1273,Ejido Tehuantepec (Santa Rosa),348A
+02,002,1369,Colonia Miguel Alemán,3507
+02,002,1653,La División (Colonia Venustiano Carranza),3653
+02,002,1975,Colonia la 27 (Campamento SARH Kilómetro Veintisiete),3511
+02,002,4747,Los Manantiales,3371
+02,002,4791,Lomas de Mexicali,3437
+02,002,4926,Las Campiñas,3460
+02,002,4951,Crepúsculo de la Progreso,3352
+02,002,4995,Valle del Puebla [Parque Industrial],3456
+02,003,0107,La Rumorosa,0726
+02,003,0139,Valle de las Palmas,082A
+02,003,0168,Ciénega Redonda,0764
+02,003,0899,Rancho Tecate,0745
+02,003,0933,Loma Tova,0707
+02,003,0934,Ejido Encinal,0711
+02,003,1102,Desarrollo Hacienda Burócratas,0779
+02,003,1400,Rancho Aguilar,0711
+02,004,1961,Ley del Servicio Civil,5029
+02,005,0025,Santa Anita,0063
+02,005,0218,Los Volcanes,0044
+02,006,0087,Colonia Vista al Mar,1001
+02,006,0128,Ejido Zarahemla,093A
+02,006,0628,Nuevo Centro de Población Padre Kino,0959
+02,006,0825,Santa Fe [Rancho],093A
+02,006,0858,Valle Dorado,0978
+02,006,0865,Villa San Sebastián,0978
+02,007,0202,Playa de Oro,027A
+02,007,0203,Playa del Sol,027A
+03,001,0379,Villa Hidalgo,2559
+03,002,0014,Bahía Asunción,315A
+03,002,0049,El Dátil,3338
+03,002,0140,San Bruno,3287
+03,003,0277,San Pedro,2642
+03,003,0418,Buenos Aires,2784
+03,003,0944,Melitón Albáñez Domínguez,2638
+03,003,2515,Palo Blanco,2765
+03,003,2530,Colonia 28 de Octubre (Kilómetro 6),2568
+03,003,2769,Campamento Agrícola del Mar,2835
+03,008,0048,Buenavista,052A
+03,008,0708,Migriño,0727
+04,001,0012,Santa Cruz Ex-Hacienda,0203
+04,002,0264,La Libertad,0893
+04,003,0031,Santa Rita,1668
+04,003,0058,Abelardo L. Rodríguez,2276
+04,003,3420,Nueva Chontalpa,2740
+04,003,3430,Ojo de Agua,2774
+04,004,0012,Profesor Graciano Sánchez,1275
+04,004,0043,Vicente Guerrero,1097
+04,004,0130,Cañaveral,1171
+04,004,1615,Lázaro Cárdenas,128A
+04,005,0003,Chunkanán,0170
+04,006,0800,Santa Rosa [Campo Menonita],0498
+04,006,0882,Santa Fe Uno,052A
+04,007,0169,Santa Cruz,0419
+04,009,0108,Don Samuel,0358
+04,009,0170,Guadalajara,0343
+04,009,0255,El Lechugal,0254
+04,009,0965,Adolfo López Mateos,0625
+04,010,0064,Concepción,0132
+04,010,0066,Constitución,0132
+04,010,0100,Eugenio Echeverría Castellot (El Carrizal),0310
+04,010,0154,Niños Héroes,0310
+04,010,0191,Puebla de Morelia,0128
+04,011,0212,Las Golondrinas,0271
+04,011,0355,El Naranjo,0214
+04,011,0381,La Olla,0144
+04,011,0696,Primer Presidente de México (Guadalupe Victoria),0163
+04,011,1499,Nuevo Relámpago,0106
+05,004,0007,Artesillas,0163
+05,004,0061,Los Lirios,0271
+05,004,0082,El Poleo,0178
+05,004,0863,La Soledad,0233
+05,006,0044,Presa de Chaires,076A
+05,006,0273,Espinazo,090A
+05,009,0003,Alamito,0761
+05,009,0010,Buenavista de Arriba,0456
+05,009,0021,Finisterre,0418
+05,009,0036,Nuevo León,0761
+05,009,0042,Saloña (Tres Norias),0437
+05,009,0046,San José de la Niña,0441
+05,009,0050,Santa María (Santa María de Arriba),0441
+05,009,0062,Las Virginias,0456
+05,011,0027,Presa de Guadalupe (Guadalupe),044A
+05,011,0038,Marte (Estación Marte),0331
+05,011,0074,El Tejocote,044A
+05,011,0359,La Carreta,0168
+05,011,0380,El Nogal,0168
+05,012,0021,Guadalupe,0343
+05,014,0004,El Divisadero,0418
+05,014,0009,Nueva Jarita,048A
+05,014,0016,La Potasa,0422
+05,014,0022,Santa María,0422
+05,015,0003,Don Martín,0379
+05,015,0138,"Don Martín [Club de Caza, Tiro y Pesca]",0364
+05,017,0010,Compuertas,0316
+05,017,0029,Maravillas,0072
+05,017,0068,Corona,0335
+05,017,0072,Las Palomas,0123
+05,017,0149,Rancho de Afuera,0072
+05,018,0101,Campestre las Higueras [Fraccionamiento],0277
+05,020,0439,Nogalitos,0951
+05,021,0002,Villa de Bucareli (La Villita),0198
+05,021,0009,Nuevo Poblado de Sardinas,0179
+05,023,0032,Las Eutimias,2818
+05,023,0410,Chula Vista,3977
+05,024,0018,Santa Cecilia (La Cecilia),1592
+05,024,0058,Notillas,1944
+05,024,0060,Paila,1450
+05,024,0076,La Requena (La Requena de Fátima),1408
+05,024,0083,San Francisco del Progreso,1588
+05,024,0085,San Isidro,1554
+05,024,0102,Santa Isabel y Santa Rita,1520
+05,024,0161,Providencia (Maravillas Uno),1408
+05,024,0169,El Sacramento (Sacramento de la Jarosa),1431
+05,026,0006,San Alberto,0122
+05,026,0079,Mexiquito,0118
+05,027,0079,Rancho Nuevo,119A
+05,027,0290,San Ignacio,1077
+05,027,0725,Valle de la Hacienda,119A
+05,027,0726,Valle del Mimbre,1132
+05,027,0728,Sector ll Vynmsa [Parque Industrial],1293
+05,028,0005,Puente Negro,0786
+05,030,0073,Agua Nueva,3276
+05,030,0114,El Derramadero,3242
+05,030,0209,San José de la Joya,052A
+05,030,0210,San José del Alamito,3488
+05,030,0214,San Juan de la Vaquería,3257
+05,030,1144,Sector l Vynmsa [Parque Industrial],3191
+05,030,1146,Alianza [Parque Industrial],3276
+05,031,0113,Santa Gertrudis,0669
+05,033,0003,Emiliano Zapata (Albia),0752
+05,033,0048,Nuevo Mundo,0663
+05,033,0063,Reynosa,1515
+05,033,0084,San Miguel,1568
+05,033,0095,Santa Eulalia,1553
+05,033,0101,Santiago,0911
+05,033,0107,Tacubaya,0860
+05,033,0110,El Triángulo,1515
+05,033,0231,Presa de Guadalupe (Vida Nueva),0752
+05,035,0174,Nuevo Mieleras (La Tres),062A
+05,035,0187,Ricardo Flores Magón,2147
+05,036,0005,Buenavista,0468
+05,036,0009,Emiliano Zapata,0449
+05,036,0030,La Rosita,0504
+05,036,0061,La Siete (Laguna Seca),0504
+05,038,0025,La Maroma,0532
+05,038,0041,San Fernando (Dávila),0513
+06,001,0009,Cuyutlán,0039
+06,001,0341,Colonia Flor de Coco,001A
+06,002,0688,Altozano,0661
+06,007,0070,Punta de Agua de Camotlán,0117
+06,007,0129,Francisco Villa,0117
+06,009,0147,Tecolapa,0018
+06,010,0301,Residencial Campestre Buenos Aires [Fraccionamiento],0061
+07,001,0038,El Tumbador,0048
+07,001,0159,Quince de Septiembre,0048
+07,003,0007,Barrio Nuevo,0042
+07,003,0012,Consuelo Ulapa,0038
+07,003,0024,Mariano Matamoros,0061
+07,003,0068,Jiquilpan (Estación Bonanza),0038
+07,003,0093,Las Lauras,0061
+07,003,0096,Las Mercedes,0061
+07,003,0120,Veinte de Abril,0038
+07,004,0032,La Laguna,0054
+07,004,0047,Gabino Barrera (Pamala),004A
+07,004,0147,Los Bambúes,0105
+07,004,0167,El Nance,0054
+07,004,0225,Morelia (Victórico Rodolfo Grajales),0035
+07,006,0098,Nueva Victoria,003A
+07,007,0034,San Vicente la Piedra,0018
+07,007,0052,Benito Juárez,0041
+07,008,0025,Salvador Urbina,0034
+07,009,0046,La Gloria,0116
+07,009,0093,Punta Flor,021A
+07,009,0752,Eben Ezer,0099
+07,009,0786,Jardines del Valle,0099
+07,010,0004,El Cercadillo,0013
+07,010,0012,Reforma,0013
+07,011,0003,Chemic,0025
+07,011,0017,San Juan Progreso,0025
+07,012,0196,Unión Hidalgo,0037
+07,012,0306,La Libertad,0056
+07,012,0761,Independencia,0060
+07,013,0007,Allende Esquipulas,002A
+07,013,0123,Shashalpa,002A
+07,013,0131,Agua Bendita,0087
+07,014,0045,San Cayetano,0012
+07,016,0121,Cuauhtémoc,006A
+07,016,0299,Cuauhtemoc Quemado,0110
+07,016,0300,Estación la Unión,0110
+07,017,0071,Mérida,0226
+07,017,0147,Triunfo de Madero,0137
+07,017,0333,Monte de los Olivos (La Mona),0211
+07,017,0352,Niños Héroes,0283
+07,019,0026,Corrala,017A
+07,019,0088,El Prado,017A
+07,019,0151,Santa Rita Uninajab,0199
+07,022,0005,Joltealal,0014
+07,022,0032,Tzomoltón,0029
+07,023,0008,Bautista Chico,0026
+07,023,0012,Callejón,0026
+07,023,0020,Chicumtantic,0030
+07,023,0024,Epalchén,0026
+07,023,0026,Ichintón,0026
+07,023,0041,Las Ollas,0030
+07,023,0048,Pozuelos,0030
+07,023,0054,Saclamantón,0030
+07,023,0065,La Ventana,0026
+07,023,0089,Bautista Grande,0011
+07,023,0107,Va'Alch'En,0030
+07,023,0112,Rasién,0030
+07,023,0115,Ch'Ultic,0030
+07,023,0127,Bashequen,0030
+07,025,0026,San Miguel Buenavista,0020
+07,027,0017,Carrillo Puerto,0078
+07,027,0023,Ribera Cupía (La Mesa),0078
+07,027,0028,Emiliano Zapata Uno,0078
+07,027,0056,Ribera de Monte Rico (Nacamucuyi),0059
+07,027,0063,Nucatili,0059
+07,027,0608,Veintiséis de Octubre,0078
+07,030,0177,Piedra Labrada,0105
+07,030,0243,Vado Ancho,011A
+07,030,0339,Nuevo Portal,0073
+07,031,0062,Centro Chich,0047
+07,031,0097,Jol Cacualá,0121
+07,031,0139,Guadalupe Paxilá,0155
+07,031,0272,El Piñal,0032
+07,031,0360,Nazareth,0066
+07,031,0439,Tzajalá,0102
+07,031,0459,La Pimienta,0028
+07,031,0861,Patelna 2da. Sección,0047
+07,032,0149,Zacualpa Dos,0059
+07,032,0264,Ricardo Flores Magón,0059
+07,032,0316,Guadalupe,0059
+07,033,0004,Azapac Amatal,0037
+07,034,0006,Benito Juárez,0053
+07,034,0028,El Jocote,0072
+07,034,0058,El Portal,0091
+07,034,0080,Tres Pinos,0068
+07,034,0125,Agua Zarca,0087
+07,034,0219,Santa Apolonia,0068
+07,034,0421,Nuevo Mexicalapa,0087
+07,035,0089,Texcaltic,0012
+07,037,0137,Tepehuitz,0036
+07,037,0151,Santa Elena,0106
+07,038,0003,Carmen Yalchuch,0048
+07,038,0011,Jocosic,0014
+07,038,0013,Lázaro Cárdenas (Chilil),0014
+07,038,0114,San José el Porvenir,0014
+07,039,0048,El Ocotal,0045
+07,039,0195,Dieciocho de Abril,0045
+07,040,0026,Cantón las Delicias,007A
+07,040,0073,Cantón Playa Grande,007A
+07,040,0244,Cantón la Esperanza,0065
+07,040,0380,La Ceiba,007A
+07,040,0433,Cantón las Lechugas 2,0065
+07,041,0572,Santa Martha,0128
+07,044,0002,Aztlán (Rancho Nuevo),0030
+07,045,0045,Jana 2da. Sección,0019
+07,046,0361,Llano Grande,004A
+07,046,0362,Absalón Castellanos Domínguez,004A
+07,047,0051,Plan Paredón,0028
+07,048,0016,Mario Aguilera Dorantes,003A
+07,048,0034,El Triunfo 2da. Sección,0082
+07,049,0025,Mehono,0018
+07,049,0029,Naxoch,0018
+07,049,0081,Chuchiltón Anexo Potobtic Dos,0018
+07,050,0108,Estrella de Belén 3ra. Sección,0080
+07,051,0882,Francisco I. Madero,0143
+07,051,1200,El Amate,0088
+07,052,0028,Chiapas,0278
+07,052,0033,La Esperanza,0259
+07,052,0039,Gabino Vázquez San Sebastián,0259
+07,052,0090,Piedra Huixtla,0070
+07,052,0165,Plan de Santo Tomás,0140
+07,052,0169,Santa Rita Sonora,0102
+07,052,0206,La Fortuna Gallo Giro,0386
+07,052,0239,Plan de Agua Prieta,0174
+07,052,0286,Francisco Villa,0348
+07,052,0312,Santa Margarita Agua Azul,030A
+07,052,0335,San Mateo Zapotal,023A
+07,052,0369,La Nueva Esperanza,0259
+07,052,0454,Rizo de Oro,030A
+07,052,0464,San Rafael,0329
+07,052,0605,Victoria la Paz,0193
+07,052,0654,Nuevo Plan de Ayala,0333
+07,052,0847,El Caracolito,0225
+07,052,0869,La Esmeralda de los Cipreses,0333
+07,052,0881,Santuario Anexo Justo Sierra,0051
+07,052,0888,San José la Esperanza,0278
+07,052,0902,Victórico R. Grajales,0136
+07,054,0003,Aquiles Serdán,0041
+07,054,0040,El Triunfo I (Santa Cruz),0056
+07,054,0134,Vicente Guerrero,0037
+07,055,0005,Los Hules,0015
+07,057,0005,Nueva Independencia (Ampliación Calera),0062
+07,057,0480,Lubeca,0062
+07,057,0575,La Ceiba,0062
+07,059,0012,Arroyo Granizo,0122
+07,059,0031,Santa María de las Flores,0423
+07,059,0106,El Limonar,0137
+07,059,0161,San Antonio la Sombra,0090
+07,059,0204,San Quintín,0902
+07,059,0231,Miramar,025A
+07,059,0605,Nuevo Francisco León,0137
+07,059,0615,El Paraíso,0207
+07,059,0672,Nuevo Ojo de Agua,0052
+07,059,0769,Francisco Villa,0137
+07,059,0770,Nuevo Guerrero,0137
+07,059,1041,Nupja Chiviltic,0512
+07,059,1154,Nuevo Jerusalén,0264
+07,059,1340,Nueva Samaria,0029
+07,059,1460,El Carmen,025A
+07,059,1484,Sloquib Chay,025A
+07,059,1522,San Antonio las Flores,0404
+07,059,1731,Chalam del Carmen San Agustín,0423
+07,059,1822,Rafael Moreno,0349
+07,059,2054,Emiliano Zapata,0917
+07,059,2792,Veinte de Noviembre,0207
+07,059,3131,El Tepeyac,025A
+07,061,0314,El Aguacero,0154
+07,061,0655,Ojo de Agua,0192
+07,061,1983,San Antonio,0169
+07,062,0010,Laguna Abajo,0039
+07,062,0032,Catedral 1ra. Sección,0039
+07,063,0008,Libertad Campesina,0017
+07,065,0064,Lindavista (Chiniquijá),0223
+07,065,0076,Nueva Betania,0280
+07,065,0118,Babilonia,0172
+07,065,0211,Augusto Gómez Villanueva,0312
+07,065,0220,El Desierto,0219
+07,065,0609,Chocoljaíto,0280
+07,065,0625,José María Morelos y Pavón,0308
+07,065,1230,Arroyo Jerusalén,0308
+07,065,1375,Alfredo V. Bonfil,0308
+07,067,0020,Liquidámbar,0016
+07,068,0099,Los Cascabeles,0070
+07,068,0102,Platanar Abajo 2da. Sección (Unidad Chiapaneca),0028
+07,069,0024,Joaquín Miguel Gutiérrez (Margaritas),0114
+07,069,0025,Los Limones,0148
+07,069,0186,Benito Juárez,0044
+07,069,0468,El Vergel,0129
+07,069,1641,Isla San José,0044
+07,069,1834,Unidad Puente de las Margaritas (Loma Bonita),0114
+07,069,1837,Nuevo Milenio Santa Cruz la Central,0063
+07,071,0009,Buenavista,0042
+07,071,0032,Cantón el Progreso,0038
+07,071,0042,Teziutlán,0042
+07,071,0045,Zacualpa,0038
+07,071,0221,Altamira Uno,0038
+07,071,0231,San Miguel,0038
+07,071,0252,La Luz de Dios,0038
+07,073,0007,Manzanillo Pinabeto,0028
+07,074,0012,Macayo 1ra. Sección (Las Mercedes),0010
+07,074,0014,Macayo 3ra. Sección,0010
+07,075,0036,San Mateo,0056
+07,075,0045,Zacualpa,0060
+07,075,0060,El Chipilinar,0060
+07,075,0067,San Antonio el Paraje,0060
+07,075,0104,Cruz Morales,0041
+07,075,0107,Nuevo Tepeyac,0041
+07,075,0242,Agua Buena,0041
+07,077,0094,El Tortuguero 1ra. Sección,0135
+07,077,0516,Primero de Enero,0084
+07,078,0039,Yashitinín,0113
+07,078,0062,La Candelaria,0096
+07,078,0067,Agua de Pajarito,0096
+07,078,0077,Guadalupe Shuncalá,0113
+07,078,0109,Río Arcotete,001A
+07,078,0121,Buenavista,0113
+07,078,0157,Campo Grande,0128
+07,078,0202,Las Rocas,0109
+07,079,0102,Tankah Pakbal,0036
+07,083,0046,Doctor Belisario Domínguez,0043
+07,083,0050,Nuevo Tamaulipas,0039
+07,083,0129,El Sabinal,0024
+07,083,0191,Miramar,0081
+07,083,0197,Tierra y Libertad,0081
+07,083,0210,San Pedro Pedernal,0081
+07,087,0011,Ignacio López Rayón,0061
+07,087,0023,General Manuel Ávila Camacho,0023
+07,087,0072,El Rosario V,0061
+07,087,0087,Los Tirado,0023
+07,089,0040,Acaxman,0282
+07,089,0094,Hermosillo,0259
+07,089,0102,Joaquín Miguel Gutiérrez (El Manzano),030A
+07,089,0115,Manga de Clavo,0263
+07,089,0165,San Cristóbal Buenavista,0297
+07,089,0203,Los Toros (Estación),0297
+07,089,0215,Cantón Victoria,0244
+07,089,0490,Lomas de Esmeralda,0259
+07,089,0871,Playa Linda,0297
+07,089,1018,Dorados de Villa,0297
+07,089,1110,El Rosario,0259
+07,093,0007,Chalam,0035
+07,094,0011,Flores Magón,0028
+07,094,0013,Los Llanitos,0047
+07,094,0016,Nuevo León,0047
+07,094,0134,Benito Juárez,0032
+07,094,0146,Nuevo Bethel,0032
+07,094,0170,Tierra Colorada,0047
+07,097,0002,Puerto Arista,0123
+07,097,0024,Huizachal,0104
+07,097,0039,Palo Blanco,0123
+07,097,0065,Vicente Guerrero,0123
+07,097,0071,General Lázaro Cárdenas (Vuelta Rica),0123
+07,097,0122,Francisco I. Madero,0212
+07,097,0494,Las Palmas,0138
+07,097,1447,Democrática Chiapaneca,0119
+07,097,1467,La Polkita,0138
+07,099,0221,San Caralampio Monte Pálido,0039
+07,099,0239,San Juan del Valle,0039
+07,099,0472,José Castillo Tiélemans,0096
+07,099,0683,Juan Sabines Gutiérrez,0221
+07,099,0684,Nuevo Villaflores,0240
+07,099,0685,Veinte de Abril,0221
+07,099,1018,Álvaro Obregón,0240
+07,099,1042,Nueva Esperanza,0096
+07,099,1044,Nuevo Paraíso,0096
+07,100,0063,Colonia Agua Azul,0046
+07,102,0003,Silvano Gatica,0021
+07,102,0012,1ra. Sección de Medio Monte,0036
+07,102,0014,Omoha,0036
+07,102,0025,1ra. Sección de Cahoa,0021
+07,103,0015,Nueva Tenochtitlán,0014
+07,103,0028,El Tarral,0014
+07,103,0047,Cantón Vega de Tepuzapa,0029
+07,104,0058,Francisco Villa,0045
+07,104,0088,Doctor Manuel Velasco Suárez,0045
+07,104,0110,Nueva Libertad,0026
+07,106,0169,Belisario Domínguez,0073
+07,106,0895,Fraccionamiento Trinidad Oquil,011A
+07,107,1371,Nuevo Mitontic (El Cimarrón),0259
+07,108,0328,Úrsulo Galván,0222
+07,108,0346,Josefa Ortiz de Domínguez,0171
+07,108,2321,Nueva Esperanza,0237
+07,109,0030,Lázaro Cárdenas,0037
+07,109,0233,El Recreo,0037
+07,110,0012,Laguna del Carmen,0023
+07,111,0026,Jechtoch,0020
+07,111,0030,Chactoj,0020
+07,111,0038,Jocotal,0020
+07,114,0058,Boca Lacantún,0075
+07,115,0026,Nuevo Rodulfo Figueroa,0053
+07,115,0035,Plan Santo Domingo,0049
+07,116,0003,Licenciado Adolfo López Mateos,0101
+07,116,0013,Nuevo Paraíso,007A
+07,116,0015,Playón la Gloria,0116
+07,116,0017,Quiringuicharo,0046
+07,116,0018,Reforma Agraria,0099
+07,117,0023,Laguna del Cofre,0058
+07,117,0032,Nuevo Milenio Toluca,0043
+07,117,0084,Nuevo Río Negro,0058
+07,118,0003,Jotolchén,0021
+07,124,0177,San Marcos,0071
+07,124,0197,Benito Juárez Villa Rural,0086
+08,001,0351,Villa Ahumada y Anexas,2231
+08,001,0354,Ejido Zaragoza,2316
+08,001,0796,Ejido Lucio Blanco,2551
+08,003,0045,Rancho Blanco,0390
+08,004,0004,San Guillermo (Santa Elena),0129
+08,004,0146,Praderas de San Antonio,0129
+08,006,0002,Abraham González,0157
+08,006,0011,Francisco I. Madero,0161
+08,006,0014,El Porvenir,0195
+08,006,0043,San Juan de los Ojos,0161
+08,007,0223,Puerto Tres Hermanos,0915
+08,010,0111,Primero de Mayo (San Francisco),1181
+08,010,0276,Colonia el Valle,1209
+08,011,0016,Alta Vista,2670
+08,011,0059,Floreño,2632
+08,011,0092,Maravillas,2632
+08,011,0116,Pascualeño,2670
+08,011,0129,Presilla Alta (Los Chizos),2685
+08,011,0138,Rancho Viejo,2685
+08,011,0155,San Ignacio,2632
+08,011,0642,Las Pilas,2685
+08,012,0025,Huahuachérare,0506
+08,012,0058,Norogachi de Mamorachi,0347
+08,014,0010,Conquista Agraria,0337
+08,017,0004,Allende,1337
+08,017,0013,Campo 1,1500
+08,017,0017,Campo 2A,1500
+08,017,0018,Campo 2B,1464
+08,017,0020,Campo 3B,1464
+08,017,0021,Campo 4,1464
+08,017,0030,Campo 9,1411
+08,017,0063,Campo 104,1394
+08,017,0068,Campo 109,1360
+08,017,0143,Campo 101,1356
+08,017,0144,Colonia Vianna,1356
+08,017,0158,Campo 6 1/2,145A
+08,017,0281,Campo 22 1/2,1500
+08,017,0342,Granjas el Venado,138A
+08,017,0357,Colonia Margarita Maza de Juárez (Las Margaritas),1375
+08,017,0517,Granjas Familiares Ejido Cuauhtémoc,1500
+08,017,0560,Kilómetro 5 Corredor Comercial Manitoba,1500
+08,017,0641,Kilómetro 16 Corredor Comercial Manitoba,145A
+08,017,0642,Kilómetro 17 Corredor Comercial Manitoba,145A
+08,017,0743,Kilómetro 10 Corredor Comercial Manitoba,1479
+08,017,0956,Green Apple,1464
+08,018,0026,Chopeque,0177
+08,018,0051,Colonia México (La Lagunita),0196
+08,018,0069,San Bernabé,0285
+08,018,0079,El Táscate,0266
+08,018,0114,Cerro Prieto (Cerro Prieto de Abajo),0177
+08,019,0245,Ciénega de los Padres,4586
+08,019,0277,Ejido Nuevo Delicias y Anexas (Tierras Nuevas),429A
+08,019,0279,Nuevo Majalca,4406
+08,019,0300,El Sauz,0441
+08,019,0329,Estación Ojo Laguna,4228
+08,019,0374,Rancho el Tarín,4529
+08,019,0490,San Isidro (Los Hoyos),4406
+08,019,0886,Ejido Rancho de Soto,4590
+08,019,1038,La Puerta de Chihuahua,5743
+08,019,1397,Granjas Sacramento,4463
+08,020,0450,Guasachi,0391
+08,021,0106,El Ochenta y Dos,0825
+08,021,0371,Colonia Terrazas,0793
+08,024,0009,Granillas,0117
+08,024,0021,Perales,0102
+08,024,0054,Nuevo Palomas,0032
+08,026,0017,El Nogalito,0041
+08,029,0541,El Bajío Largo de Atascaderos,1569
+08,031,0027,Calera,0836
+08,031,0061,Loya,0893
+08,031,0071,Pascual Orozco (San Isidro Pascual Orozco),0836
+08,031,0121,Tacuba,104A
+08,035,0431,Buenos Aires (Campo Dos),0892
+08,035,0432,Buenos Aires (Campo Tres),0892
+08,035,0433,Buenos Aires (Campo Cuatro),0892
+08,035,0464,Buenos Aires (Campo Dos y Medio),0892
+08,036,0075,Ejido Lote Ocho,1703
+08,036,0081,Miramontes,1559
+08,036,0286,El Predio,1811
+08,037,1094,Colonia Luis Rey,3054
+08,037,1178,El Saucal,3054
+08,037,1214,Los Abuelos,3177
+08,038,0005,Arenillas,0589
+08,038,0010,El Carrizo,0574
+08,038,0012,Colonia Esperanza,0574
+08,038,0041,La Regina,0574
+08,039,0007,El Cairo,0158
+08,040,0044,Las Varas (Estación Babícora),1195
+08,043,0009,Rancho San Rafael de Antillón,0108
+08,045,0007,Estación Consuelo,0348
+08,045,0009,Colonia Francisco Portillo (Los Jáquez),0352
+08,045,0030,Nuevo Loreto,0460
+08,045,0933,Colonia Dieciocho de Marzo,0460
+08,047,0078,El Pilar,0395
+08,048,0044,Nuevo Namiquipa,0890
+08,048,0062,Ejido Venustiano Carranza (Teseachi),0922
+08,048,0074,Nuevo Santa Clara,0744
+08,050,0051,Campo Tres (El Capulín),0723
+08,050,0053,Campo Cinco (El Capulín),0723
+08,051,0275,El Periquito (Ejido Santa Eduviges),028A
+08,052,0055,San Juan,1054
+08,052,0426,Nueva Holanda,1321
+08,054,0011,Campo Treinta y Cinco (El Saucito),0328
+08,054,0014,Campo Cuarenta y Uno,0328
+08,054,0022,Campo Cincuenta y Cinco (La Cordovana),0328
+08,054,0047,Campo Ochenta y Cuatro,0277
+08,054,0062,Jesús María de Loya (Ranchito de Loya),039A
+08,054,0097,Campo Treinta y Ocho y Medio,0332
+08,054,0150,Campo Cuarenta y Ocho,0309
+08,054,0178,La Nueva Paz,0277
+08,054,0184,Campo 33,0328
+08,055,0003,Barranco Blanco,0236
+08,055,0058,Loma Linda,0274
+08,061,0006,Los Ancones (Ignacio Allende),038A
+08,061,0074,San Juan Bautista,0356
+08,062,0003,Las Alvareñas,0565
+08,062,0004,Ancón de Carros,0565
+08,062,0008,Estación Conchos,064A
+08,062,0009,La Cuadra,0531
+08,062,0013,El Gomeño,0531
+08,062,0014,Gonzaleñas,0531
+08,062,0015,El Indio,0531
+08,062,0350,Ampliación Colonia Altamirano,0565
+08,063,0052,Rincón del Cañón,0613
+08,067,0009,El Campamento,0576
+08,067,0041,El Sepulvedeño,0557
+08,067,0077,El Toro (La Gallina),0576
+09,009,0161,Coametzu,0100
+09,009,0185,Zacazontlipac,0539
+09,013,0273,Zacazontlipac,0902
+10,001,0100,La Plazuela (El Rayo),0849
+10,001,0104,El Progreso (Los Pinos),075A
+10,001,0108,Manuel Jiménez (Rancho Seco),0800
+10,003,0007,Las Morenas (La Rosa),0171
+10,004,0015,Los Cuatillos (Hacienda de Pedriceña),0802
+10,004,0044,Pedriceña (Estación Pedriceña),0770
+10,005,0138,Belisario Domínguez,3274
+10,005,0149,Cinco de Febrero,3151
+10,005,0180,General Felipe Ángeles (Ejido),3359
+10,005,0187,Colonia Hidalgo,3039
+10,005,0194,José Refugio Salcido,3274
+10,005,0197,Juan B. Ceballos,2914
+10,005,0211,Minerva (Colonia),3359
+10,005,0222,Nueva Patria (Santo Domingo),3077
+10,005,0255,San Carlos,326A
+10,005,0264,San José del Molino,2914
+10,005,0279,Sebastián Lerdo de Tejada,333A
+10,005,0292,Veintiocho de Septiembre,3344
+10,005,0804,Ingeniero Pastor Rouaix,3289
+10,005,1108,Fraccionamiento el Pilar,333A
+10,005,1243,Los Chirimoyos [Fraccionamiento],3132
+10,005,1321,Fraccionamiento Campestre las Granjas Dos,301A
+10,005,1379,Fraccionamiento Campestre las Granjas Uno,301A
+10,005,1387,San Miguel [Granja],3344
+10,005,1398,Rancho la Purísima,3344
+10,005,1442,Potrero el Refugio,3344
+10,005,1687,Los Cedros [Fraccionamiento],301A
+10,005,1748,Las Aves,3344
+10,005,2104,María Esther [Fraccionamiento],3132
+10,006,0006,La Granja,0421
+10,006,0010,Oriente Aguanaval,0332
+10,006,0016,San Luis de Corea,0281
+10,006,0030,La Prontitud,0313
+10,007,0049,La Competencia,108A
+10,007,0087,Jolo (Diecinueve de Octubre),1060
+10,007,0107,Nazas (Las Lagartijas),1075
+10,007,0162,Vicente Nava,108A
+10,007,0183,La Luz,1041
+10,007,0194,San Martín,1075
+10,007,0302,El Barro 33 (El Treinta y Tres),1056
+10,008,0004,Felipe Carrillo Puerto (Tarabillas),0445
+10,009,0045,José María Morelos,089A
+10,009,0072,San Francisco de los Remedios (Las Pintas),0705
+10,011,0024,Rancho de Peña,0366
+10,011,0033,San Antonio del Cuervo (El Cuervo),0366
+10,012,0003,Los Ángeles,0838
+10,012,0022,Juan E. García,0819
+10,012,0026,La Mina (El Sarnoso),0791
+10,012,0027,Monterrey,0857
+10,012,0044,San Jacinto,0823
+10,012,0049,Sapioris,0861
+10,012,0193,Nazareno de Abajo,0908
+10,012,0465,Colonia Buenos Aires,0857
+10,012,0560,Dolores (La Borrega),0838
+10,012,0561,La Goleta,0838
+10,012,0606,Fortuna de Rancho Güero,0838
+10,013,0048,Francisco Montes de Oca (El Zorrillo),1439
+10,013,0177,Estación Yermo,1157
+10,014,0005,La Joya de Atotonilco (Atotonilco),0902
+10,014,0042,El Troncón,0921
+10,015,0019,Paso Nacional,0350
+10,016,0031,Lauro del Villar,0220
+10,016,0047,Revolución Social,0254
+10,017,0028,Ojos Azules (Campo Alegre),0618
+10,018,0011,Emiliano Martínez (Torres),0691
+10,018,0046,Santa Gertrudis (Tules),0545
+10,019,0135,Macho Bayo,0133
+10,019,0173,Bajío de Vacas (Bajío de Atocha),0203
+10,020,0014,General Lázaro Cárdenas,0276
+10,020,0020,Pánuco de Coronado,0261
+10,021,0015,Ignacio Zaragoza (San Pablo),0220
+10,021,0032,Yerbanís,0305
+10,022,0003,Los Ángeles,0247
+10,022,0006,Damián Carmona,0247
+10,022,0009,La Joya,0285
+10,023,0689,Estación Coyotes (José María Morelos),0969
+10,024,0021,Los Ladrillos,0237
+10,024,0026,Palmitos,0294
+10,026,0087,San Luis de Villa Corona,1085
+10,026,0444,Neveros,1193
+10,027,0004,La Barranca,0366
+10,027,0032,Santo Niño,0347
+10,028,0017,Pueblo Nuevo Francisco de Ibarra (El Crucero),0274
+10,028,0018,Francisco Primo Verdad (Menores de Abajo),019A
+10,028,0022,José María Patoni (Menores de Arriba),0236
+10,030,0032,Santo Domingo,0249
+10,032,0014,Atotonilco,0879
+10,032,0018,Lozano Zavala (La Campana),0296
+10,032,0044,El Encinal,0296
+10,032,0091,Providencia,0296
+10,032,0097,Rincón de Huajupa,0991
+10,032,0102,El Salvador,0296
+10,032,0119,San Julián,0915
+10,032,0142,San Pedro de Tenerapa,1218
+10,032,0382,El Pino,0915
+10,032,0707,Presa de la Máquina,0972
+10,034,0136,Chapotán,0750
+10,036,0009,Banco Nacional,0789
+10,036,0038,Morelos (La Loma Yermo) [Granja],0628
+10,036,0107,San Miguel del Real,0740
+10,036,0115,Nombre de Dios,0736
+10,036,0119,La Sierrita,076A
+10,038,0003,Graceros,0054
+10,038,0007,San Francisco Javier,0054
+10,038,0009,San José de las Corrientes,0139
+10,038,0012,Estación Vicente Guerrero,0143
+10,039,0011,Campo Limpio,0102
+10,039,0013,Valle de Flores (Cantarranas),0117
+10,039,0020,Esfuerzos Unidos,0140
+10,039,0022,Fuente del Llano (Santiaguillo),0121
+10,039,0027,Jardín de Flores,0117
+10,039,0037,Nueva Esperanza (Cuernavaca),0140
+10,039,0043,Patio de Flores,0102
+10,039,0064,Lugar de Rosas (El Toboso),0102
+10,039,0136,Corona del Valle (San Juan Nuevo),009A
+10,039,0144,Campo de Gracia,0102
+10,039,0184,Hogar de Flores,0102
+11,001,0040,Las Estacas,0078
+11,001,0056,Horta (San Antonio de Horta),0025
+11,001,0058,Estación Joaquín,0025
+11,001,0073,Marfil,0025
+11,001,0175,La Tinaja de Negrete,0078
+11,001,0221,San Rafael de Horta,0025
+11,001,0247,San José de González,0044
+11,001,0248,Miraflores,0044
+11,002,0003,Agua Caliente,0145
+11,002,0006,Arroyo de la Luna,0198
+11,002,0009,La Cañada,015A
+11,002,0012,La Concepción,0018
+11,002,0022,Los Fresnos,0075
+11,002,0023,Gaytán del Refugio,0037
+11,002,0028,Jaral del Refugio,0037
+11,002,0046,Pantaleón,0179
+11,002,0050,Las Partidas,0060
+11,002,0054,La Presa de Santa Inés,0198
+11,002,0056,Providencia de San Agustín,0018
+11,002,0063,San Agustín,0018
+11,002,0067,San Diego de Alcalá (Hacienda de San Diego),0060
+11,002,0088,La Soledad,0179
+11,002,0104,Puerto Ferrer,0018
+11,002,0106,Las Trancas (Los Milagros),0075
+11,003,0007,Alcocer,0227
+11,003,0015,Santuario de Atotonilco,0053
+11,003,0024,Begoña del Progreso,0208
+11,003,0035,Calderón,0212
+11,003,0055,El Carmen,0034
+11,003,0067,La Cieneguita,0053
+11,003,0070,Clavellinas (Clavellinas Coyotes),0157
+11,003,0077,Corral de Piedras de Arriba,0068
+11,003,0078,Corralejo de Arriba,0142
+11,003,0103,Fajardo de Bocas,0227
+11,003,0104,Fajardo de Támbula,0231
+11,003,0105,Flores de Begoña,0180
+11,003,0121,El Herrero,0246
+11,003,0132,Los Juárez,002A
+11,003,0141,Loma de Cocinas (San Andrés),002A
+11,003,0154,Marroquín de Abajo,0053
+11,003,0158,La Medina,002A
+11,003,0165,La Minita,0034
+11,003,0195,Pantoja,0180
+11,003,0210,Presita de Santa Rosa,0049
+11,003,0236,Rancho Viejo,0015
+11,003,0240,Los Ricos de Abajo,0015
+11,003,0274,San Isidro de la Cañada de la Virgen,0195
+11,003,0294,San Miguel Viejo,0053
+11,003,0368,Presa Allende,0208
+11,003,0376,San José de Allende,0161
+11,003,0539,Zirándaro [Fraccionamiento],0142
+11,003,0576,San Valente,0142
+11,003,0587,La Esperanza,0053
+11,003,0975,Otomí [Residencial],0053
+11,003,0991,San José de la Posta,0227
+11,003,0996,San Miguel [Polígono Empresarial],0142
+11,004,0014,Cerro Prieto,0065
+11,004,0024,El Espejo (Ex-Hacienda de Espejo),0012
+11,004,0036,Mandujano Atepehuacán,0012
+11,004,0081,El Talayote,0050
+11,004,0215,Bosques del Bicentenario,0012
+11,005,0011,Coachiti,0062
+11,005,0309,Amexhe [Parque Industrial],0062
+11,005,0313,El Grande [Parque Industrial],0077
+11,006,0010,El Durazno,0017
+11,006,0016,El Mezquital,0040
+11,007,0078,Los Aguirre,0014
+11,007,0082,Arreguín de Abajo,0315
+11,007,0091,La Cruz,0315
+11,007,0107,Jáuregui,0033
+11,007,0121,San José de Mendoza,0029
+11,007,0135,Presa Blanca,0014
+11,007,0155,San Isidro de Elguera,0029
+11,007,0156,San Isidro de la Concepción,0014
+11,007,0164,San Luis Rey,0029
+11,007,0176,Santa Rosa de Lima,032A
+11,007,0245,La Trinidad,0033
+11,007,0423,Condominio Campestre las Huertas,032A
+11,007,0704,Villas de Elguera [Fraccionamiento],0071
+11,007,0742,Cuadritos [Parque Industrial],0014
+11,007,0746,Ferropuerto del Bajío [Parque Industrial],032A
+11,008,0004,Ex-Hacienda de Atotonilquillo,0045
+11,008,0035,Charco Prieto,0030
+11,008,0056,Maravillas,0030
+11,008,0232,Santa María de Bolaños,0030
+11,008,0312,Rancho Nuevo de Cerritos,0079
+11,009,0012,Guadalupe (San Antonio de Guadalupe),0273
+11,009,0026,Nopalera,0038
+11,009,0029,Orduña de Abajo,0038
+11,009,0036,La Presa (Rancho de la Presa de los Olaldes),0127
+11,009,0042,San Jerónimo,0080
+11,009,0167,Viñedos de San Miguel [Fraccionamiento],0080
+11,010,0011,Piedra Larga,001A
+11,010,0027,El Espinazo (Loma Bonita),001A
+11,011,0017,Valencia de Fuentes,0017
+11,011,0022,El Huizache,0089
+11,011,0027,Manantiales,0017
+11,011,0043,San Isidro Culiacán,0089
+11,011,0050,Santa Fe de la Purísima,0021
+11,011,0056,El Zapote,0089
+11,012,0014,Ojo de Agua,0014
+11,012,0017,Platanar,0052
+11,012,0052,La Regalada,0052
+11,012,0054,Ejido Luz Mazas,0029
+11,012,0099,Colonia Linda Vista,0052
+11,012,0129,Unidad José Camacho,0029
+11,013,0032,Morisquillas,0030
+11,013,0038,Las Palmitas,0011
+11,013,0045,Puerto de Trojes (La Troja),0011
+11,013,0055,San Agustín,0030
+11,013,0056,San Rafael,0011
+11,014,0004,Adjuntas del Río,0201
+11,014,0015,Los Arcos,0023
+11,014,0032,La Cantera,0057
+11,014,0052,Cerrito de Esteban,0061
+11,014,0056,Cerro Blanco,0201
+11,014,0086,Don Sebastián,0150
+11,014,0089,La Erre,0201
+11,014,0100,El Gallinero,0057
+11,014,0101,Garabatillo,0038
+11,014,0109,Guanajuatito,0201
+11,014,0125,Jamaica (San Miguel de Jamaica),017A
+11,014,0133,Santa Teresa de Jiricuichi,0061
+11,014,0249,El Refugio de Trancas,0042
+11,014,0277,San Elías,0019
+11,014,0281,San Gabriel,0150
+11,014,0359,La Ventilla,0146
+11,014,0361,Las Yerbas,0023
+11,014,0674,Carboneras,0019
+11,014,0729,La Luz,0216
+11,014,0809,Carretera a Guanajuato Kilómetro Uno (El Panteón),0057
+11,014,0813,San Diego del Llanito,0146
+11,014,0871,Las Fuentes,0112
+11,014,0873,San Nicolás de la Presa,0057
+11,014,0880,Colonia el Cedro,0057
+11,014,0881,Ejido San José de Badillo,0061
+11,015,0026,Cajones,0266
+11,015,0104,San José del Rodeo,0270
+11,015,0261,Cerrito Frío,0251
+11,016,0017,Paso de Carretas,0032
+11,017,0119,Purísima de Temascatío de Arriba,0044
+11,017,0124,Ejido del Refugio (Los López),0294
+11,017,0154,San Juan Temascatío,0059
+11,017,0178,La Trinidad de Temascatío,0059
+11,017,0187,Vista Hermosa,003A
+11,017,0547,El Capulín de Yóstiro,0311
+11,017,0844,Las Presitas,0063
+11,017,0847,Apolo [Parque Industrial],0044
+11,017,0851,Castro del Río [Parque Industrial Castro del Río],0044
+11,017,0873,Los Pinos,0311
+11,018,0011,Los Llanitos (El Ranchito),0018
+11,019,0029,El Fresno,002A
+11,019,0053,Ojo de Agua de Mendoza,0053
+11,019,0073,El Rosario,0034
+11,019,0084,San Ignacio (San Ignacio Mártir),002A
+11,019,0087,San Juan de Peña,0049
+11,020,0267,Los Arcos,0942
+11,020,0335,Hacienda Arriba (San José de la Concepción),0035
+11,020,0340,Ibarrilla,004A
+11,020,0347,La Laborcita,0904
+11,020,0365,Malagana (San Antonio del Monte),0938
+11,020,0389,Ojo de Agua de los Reyes,004A
+11,020,0405,Las Presitas,0088
+11,020,0409,Puerta del Cerro,0088
+11,020,0410,Puerta de San Germán (Morelos),0088
+11,020,0412,El Ramillete,0088
+11,020,0424,San José del Resplandor (El Capricho),0942
+11,020,0453,San Judas,0938
+11,020,0529,Estación Trinidad,0942
+11,020,0682,Los Olivos (El Nuevo Paraíso),0957
+11,020,0990,Campo Verde,0957
+11,020,1112,Colonia Maravillas,0957
+11,020,1127,Punta Diamante (López Martínez),0942
+11,020,1131,Campestre Primavera,0957
+11,020,1222,San Isidro de las Colonias,0938
+11,020,1272,Valle Nuevo,0942
+11,020,1384,Fraccionamiento Campestre Lomas del Sur,0961
+11,020,1456,Advance Puerto Interior,0957
+11,020,1461,PILBA [Parque Industrial],0942
+11,020,1494,Balcones de Comanjilla,0904
+11,021,0014,Las Peñas,0013
+11,021,0021,La Soledad,0013
+11,022,0040,Jesús María,0063
+11,022,0048,El Mezquite,0025
+11,022,0083,La Tinaja,0078
+11,022,0244,San José del Carmen Sur,0114
+11,023,0073,Corrales de Rábago,015A
+11,023,0113,La Gavilana,015A
+11,023,0125,Guayabo de Ruiz,0018
+11,023,0167,Magallanes,0041
+11,023,0333,Viborillas de Suárez,0130
+11,023,0399,Tarengo de Parras,0056
+11,023,0402,San Rafael de Villaseñor,0075
+11,023,0492,Miravalle,015A
+11,025,0030,San Andrés (San Andrés de Jalpa),0046
+11,026,0015,El Escoplo,0039
+11,026,0053,San Clemente,0077
+11,026,0424,El Tejamanil,0039
+11,026,0446,Fraccionamiento Campestre Lomas del Sur,0039
+11,027,0035,Buenavista de Valtierra,0267
+11,027,0050,El Coecillo,0055
+11,027,0055,Cruces,0040
+11,027,0056,Cuatro de Altamira,0271
+11,027,0059,El Divisador,0483
+11,027,0067,El Estanco,0017
+11,027,0093,María Gómez,0055
+11,027,0099,La Ordeña,0036
+11,027,0114,Godoy,0248
+11,027,0117,Los Razos de Ancón,0021
+11,027,0136,San Juan de Razos,006A
+11,027,0143,Santa Catarina de Peña,0248
+11,027,0147,Santo Domingo,006A
+11,027,0151,Sotelo,0286
+11,027,0155,El Terrero,0055
+11,027,0156,La Tinaja,0267
+11,027,0159,Valencia de Cerro Gordo,0055
+11,027,0416,Ampliación San Vicente de Flores,006A
+11,027,0487,Rancho los Ramírez (Fracción el Divisador),0248
+11,028,0021,Gervacio Mendoza,0048
+11,028,0033,Ojo de Agua de Ballesteros,0160
+11,028,0076,Manríquez,0160
+11,028,0078,Presa de San Juan,0160
+11,028,0137,La Lomita de San José del Carmen,0090
+11,028,0140,El Marquesado,0086
+11,029,0024,El Colorado,0064
+11,029,0037,Ex-Hacienda la Jaula,0026
+11,029,0048,El Mirador,0079
+11,029,0051,Mulatos,0100
+11,029,0069,Pozo Ademado,0098
+11,029,0073,Príncipes,0083
+11,029,0076,Puerta de Marcial (San Isidro de la Cruz),0064
+11,029,0083,Ranchito de los Hernández,0079
+11,029,0134,Zacatequillas,0098
+11,029,0155,Ex-Hacienda Noria de Alday,0098
+11,029,0175,El Cerrito,0098
+11,030,0023,San José de los Barcos,0243
+11,030,0071,Chirimoya (Estación Chirimoya),014A
+11,030,0147,Las Negritas,0135
+11,030,0200,El Rosario (La Liebre),0224
+11,030,0219,San Isidro de Capellanía,0239
+11,030,0765,Ejido Hernández Álvarez,0135
+11,030,0767,La Esperanza,014A
+11,030,0787,El Vergel y Anexos,0258
+11,031,0006,Arroyo Seco,001A
+11,031,0009,California,0081
+11,031,0014,El Desagüe,0081
+11,031,0028,El Lindero (El Lindero Viejo),0081
+11,031,0041,La Muralla del Cadillal,0109
+11,031,0049,Plan Libertador (El Quemado),0081
+11,031,0050,Santa Rita (Puerta de Santa Rita),0081
+11,031,0058,San Antonio de Funes,0109
+11,031,0066,San Isidro de los Palominos,0109
+11,031,0068,San José de la Calera,0081
+11,031,0074,San Roque de Montes,001A
+11,031,0090,Fraccionamiento Pedregal de San Juan,0081
+11,031,0293,Cañada de Soto,001A
+11,031,0297,Santuario de Santa Rita [Residencial Campestre],0081
+11,032,0028,Cruz de la Maza,0021
+11,032,0031,Los Encinos,006A
+11,032,0032,La Escondida,0021
+11,032,0041,Guadalupe (Hacienda de Guadalupe),0040
+11,032,0045,El Huizache de Galomo,0017
+11,032,0061,Ojo de Agua del Refugio,0074
+11,032,0064,La Palmita del Cinco de Mayo,0021
+11,032,0078,El Colorado,0021
+11,032,0080,Rancho Nuevo,0055
+11,032,0152,Fátima,0040
+11,032,0284,Rancho Viejo,006A
+11,032,0322,Nuevo Cinco de Mayo,0017
+11,033,0075,El Jardín,0122
+11,033,0129,Nuevo Paso de Vaqueros,018A
+11,033,0131,El Patrocinio,0230
+11,033,0141,Los Pirules,0118
+11,033,0203,San Nicolás del Carmen,0207
+11,033,0266,El Charco,0226
+11,033,0394,Derramadero Segundo (Infiernillo),0230
+11,033,0433,La Laguna,0230
+11,033,0461,El Tepetate,0230
+11,033,0529,San Pedro,0118
+11,033,0778,San Ignacio,0207
+11,034,0021,Ortega,0026
+11,035,0008,El Carmen de Arriba,0038
+11,035,0014,Emiliano Zapata,0038
+11,035,0019,Las Fuentes,0038
+11,035,0023,Guadalupe,0080
+11,035,0027,Jaralillo,0042
+11,035,0035,San Antonio de Morales,0080
+11,035,0037,El Naranjillo,0023
+11,035,0041,Ojo de Agua de Otates,0038
+11,035,0062,San José de las Pilas,0038
+11,035,0080,La Tinaja,0023
+11,037,0074,El Paraíso,0013
+11,037,0086,San Francisco Puerta Grande,0121
+11,037,0089,El Refugio de los Sauces,0028
+11,037,0134,Vallejos,0032
+11,037,0227,Mangas de la Estancia,0013
+11,037,0489,San Francisco Puerta Grande (Granja Médico),0121
+11,037,0652,Lomas del Sur,0028
+11,037,0653,Condado de la Pila Segunda Sección [Fraccionamiento],0865
+11,037,0659,Fraccionamiento Rinconada el Palmar,0865
+11,037,0664,La Deportiva,0121
+11,037,0698,Las Colinas [Parque Industrial],0850
+11,037,0699,Puerto Interior,0028
+11,037,0701,Nesin [Parque Industrial],0032
+11,039,0002,El Acebuche,0060
+11,039,0012,La Cuesta,0060
+11,039,0014,La Esperanza,0060
+11,039,0020,Llano Grande,0022
+11,039,0023,La Nopalera,0022
+11,039,0026,Panales Jamaica (Cañones),0018
+11,039,0060,Providencia de la Esperanza,0056
+11,039,0081,El Fénix,0056
+11,039,0089,Loma Bonita (El Cerrito),0060
+11,041,0007,El Comal,0054
+11,041,0015,Lagunilla del Encinal,0054
+11,041,0061,Bugambilia,0054
+11,042,0007,El Borrego,0085
+11,042,0010,Cahuageo,0102
+11,042,0020,La Compañía,0032
+11,042,0069,Potrerillo de Torres,0102
+11,042,0074,Puerta de Andaracua,0102
+11,042,0083,Rancho Viejo de Torres,0102
+11,042,0108,San José de Araceo,0032
+11,042,0113,San Manuel Quiriceo,0028
+11,042,0115,San Nicolás Parangueo,009A
+11,042,0162,Ranchito de Paredones,009A
+11,042,0190,Puerto de Araceo,0102
+11,042,0225,Crucero de Mogotes,0028
+11,042,0239,Santiago Apóstol,0032
+11,042,0241,El Cerrito Colorado,0032
+11,042,0248,Estancia de San Diego,0013
+11,042,0325,Valle Esmeralda [Residencial],0102
+11,042,0337,Las Flores,0032
+11,042,0343,Sendai [Parque Industrial],0028
+11,043,0007,Álamos de Martínez,0025
+11,043,0045,Milpillas de Santiago,010A
+11,043,0058,Panales,0097
+11,043,0076,Salitrera,0097
+11,043,0084,Tasajillo,0097
+11,044,0095,Rivera del Río,0018
+11,045,0002,Adjuntas,0072
+11,045,0011,San Miguel de las Casitas,0068
+11,045,0019,La Laja,0049
+11,045,0029,Puerto de Milagro,0068
+11,046,0002,Agua Fría,0135
+11,046,0003,La Angostura,0031
+11,046,0007,Buenavista de la Libertad,0012
+11,046,0020,Cuerunero,0027
+11,046,0036,El Moral,0120
+11,046,0043,Palo Alto,0012
+11,046,0052,Puerto del Águila,0012
+11,046,0063,Colonia San Antonio,0120
+11,046,0076,Santa Mónica Ozumbilla,0120
+11,046,0078,San Vicente Ciénega,0027
+11,046,0090,El Tigre,0012
+11,046,0091,El Timbinal,0135
+11,046,0108,El Pastor,0012
+11,046,0127,La Cruz del Niño,0120
+12,001,0129,Los Órganos de San Agustín (El Quemado),1973
+12,001,0242,Bella Vista Papagayo,2045
+12,001,0297,El Arenal,1992
+12,001,0493,La Arena,2045
+12,001,0695,El Progreso de Cacahuatepec,1992
+12,003,0033,Nanche Colorado (El Nanche),033A
+12,003,0038,San Antonio de los Libres,0306
+12,003,0042,San Jerónimo el Grande,0325
+12,004,0003,Ahuejutla,0093
+12,004,0014,Petlacalancingo,0125
+12,006,0070,Pueblo Nuevo Santa María,0276
+12,007,0104,El Varal (El Brinco),0184
+12,007,0111,La Concordia,0201
+12,008,0041,San Juan Teocalcingo,0143
+12,009,0004,Cuautipan,0047
+12,010,0108,Vicente Guerrero,0137
+12,011,0004,Alcholoa,0308
+12,011,0030,El Huicón,0327
+12,011,0056,La Remonta (La Remonta Grande),0257
+12,011,0089,Junta de los Ríos (Las Juntas),0312
+12,011,0147,Colonia Vicente Guerrero,0327
+12,011,0336,Villa del Carmen,0280
+12,012,0092,Plan de Gatica,017A
+12,012,0163,Ciénega del Sauce,017A
+12,013,0049,Quetzalapa,0143
+12,014,0010,Llano de la Puerta,0085
+12,014,0011,Llano Real (El Dorado),009A
+12,017,0011,El Machito de las Flores,0091
+12,017,0014,El Municipio (Tijuanita),0087
+12,017,0055,Colonia Vicente Guerrero,0091
+12,018,0023,Las Peñas,0065
+12,021,0009,La Barra (La Barra de Coyuca),0408
+12,021,0027,El Espinalillo,0380
+12,021,0053,San Nicolás,0395
+12,021,0074,El Camalote,0376
+12,022,0473,Los Bayados,0710
+12,024,0014,Cuescomapa,0151
+12,025,0012,El Líbano,0197
+12,026,0013,San Luis,0090
+12,028,0036,Cuauhtenango,0288
+12,028,0168,El Pinoral,0288
+12,029,0026,Amojileca,0726
+12,029,0030,Carrizal de la Vía,0904
+12,029,0097,Colonia General Heliodoro Castillo (Chicahuales),0779
+12,029,0100,Omiltemi,0726
+12,032,0042,Izotepec,0350
+12,032,0057,Ojo de Agua (Ojo de Agua del Progreso),0350
+12,032,0075,Puerto Gallo [Campamento],0350
+12,034,0007,Atetetla,0228
+12,034,0043,Tlapala,029A
+12,035,0002,Ahuehuepan,0598
+12,035,0003,Colonia Álvaro Obregón,0634
+12,035,0015,Platanillo,0615
+12,035,0017,Rancho del Cura,062A
+12,035,0197,Colonia Ernesto Che Guevara (La Che Guevara),0598
+12,036,0002,Acalmani,0078
+12,036,0008,La Reforma,0082
+12,036,0012,La Victoria,0078
+12,036,0019,El Capulín,0082
+12,036,0024,Chimalapa,0063
+12,039,0044,San Juan del Reparo Norte (San Juan del Reparo),0205
+12,039,0045,San Juan del Reparo Sur (San Juan del Reparo),0205
+12,039,0056,Chacalapa de Bravos,0205
+12,040,0354,El Ranchito,0259
+12,041,0002,Alacatlatzala,0237
+12,041,0064,Ahuejuyo Viejo,0241
+12,041,0075,Xkua Xtuti,0222
+12,041,0124,San Juan de las Nieves,0222
+12,042,0017,Xicomulco,022A
+12,043,0010,Chilixtlahuaca,034A
+12,043,0015,Juanacatlán,0299
+12,044,0053,La Villita,021A
+12,045,0029,Las Juntas,0293
+12,048,0068,Coyuquilla Norte,0632
+12,048,0220,Barra de Potosí,0609
+12,048,0309,Puente del Tuzal,0613
+12,048,0645,Arroyo Verde,0632
+12,049,0016,Santa Teresa,0165
+12,050,0011,Placeritos,019A
+12,051,0010,Huehuecoyotla,0229
+12,052,0096,Mixtecapa,0387
+12,052,0106,Barrio de Guadalupe,0387
+12,052,0107,Cruz Alta,0387
+12,054,0113,El Remance,0292
+12,055,0040,San Miguel Guerrero (San Miguel),0374
+12,055,0050,Teacalco,0336
+12,055,0054,Temaxcalapa,0410
+12,055,0118,Minas Viejas,0389
+12,056,0052,El Zanate,0259
+12,058,0036,Cruz Blanca,0408
+12,058,0297,Miahuatepec,0412
+12,058,0324,Nueva Esperanza,0380
+12,059,0015,San Miguel Tecuiciapan,0316
+12,060,0037,Tepacoya,0177
+12,061,0019,Zoquiapa,0210
+12,062,0008,Jicayán de Tovar,0237
+12,062,0009,El Limón Guadalupe,0222
+12,062,0065,San José,0241
+12,064,0009,La Montaña,0265
+12,064,0018,El Tamarindo del Río,0265
+12,066,0003,Alpoyecancingo,0255
+12,066,0025,Tlatzala,0236
+12,066,0028,Tototepec (Yozononi),0255
+12,066,0030,Xalatzala,0255
+12,070,0005,Tehuaxtitlán,0224
+12,070,0006,Xihuitlipa,0192
+12,072,0005,Ayotoxtla,0271
+12,072,0064,Llano Pericón,0271
+12,072,0120,Villa de Guadalupe,0271
+12,073,0007,Alita,0442
+12,073,0105,Pandacuareo,0508
+12,073,0113,La Parota,0438
+12,073,0136,La Quiringucua,0442
+12,074,0017,Topiltepec,0238
+12,075,0002,Ahuelicán,0358
+12,075,0105,Azteca,0447
+12,076,0010,Barranca Pobre,0020
+12,076,0041,Xilotlancingo,0020
+12,076,0043,Zontecomapa,0020
+12,076,0046,Agua Fría,0020
+12,076,0048,El Capulín,0020
+12,076,0052,Loma Maguey,0020
+12,076,0056,Zilacayota,0020
+12,076,0060,Barranca Mina,0020
+12,076,0065,Lázaro Cárdenas,0020
+12,076,0069,El Mirador,0020
+12,076,0070,Puerto Buenavista,0020
+12,076,0072,Tierra Colorada,0020
+12,076,0078,El Tejocote,0020
+12,076,0113,Yerba Santa,0020
+12,076,0139,Laguna Seca,0020
+12,077,0007,La Ceniza (Loma de Romero),009A
+12,081,0025,San José Vista Hermosa,0020
+12,081,0041,13 de Septiembre,0020
+13,001,0002,Agustín Olvera Sección I [Colonia],0039
+13,001,0004,Almoloya,0039
+13,001,0008,Chauténco,0039
+13,001,0015,Metepec Primero,0024
+13,001,0016,El Milagro San Simón,0024
+13,001,0023,Totoapa el Grande,0024
+13,001,0030,Las Palmas,0024
+13,001,0031,Metepec Segundo,0024
+13,001,0036,Lagunicatlán,0039
+13,001,0051,El Transformador,0024
+13,001,0061,El Cerrito,0039
+13,001,0066,Agustín Olvera Sección II [Colonia],0039
+13,002,0012,San Pedro Tlachichilco,0017
+13,002,0018,Tlaltegco (Venta Quemada),0040
+13,002,0021,Tlamimilolpa,0017
+13,002,0027,Canales,0017
+13,002,0034,San Martín,0017
+13,002,0045,Tlatzintla,0017
+13,003,0004,Boxaxni,0029
+13,003,0007,Cañada Chica Antigua,0029
+13,003,0011,Dajiedhi,0029
+13,003,0015,La Loma,0090
+13,003,0019,El Palomo,0090
+13,003,0020,La Peña,0033
+13,003,0026,Xideje,0029
+13,003,0044,Cuarta Manzana Chicavasco (La Ladera Chicavasco),0090
+13,003,0052,El Porvenir,0033
+13,004,0002,Ejido de Agua Blanca (Cerro Alto),0026
+13,004,0004,Calabazas Primera Sección,0026
+13,004,0005,Calabazas Segunda Sección,0011
+13,004,0008,Chichicaxtle,0026
+13,004,0012,Milpa Vieja (Apulco),0026
+13,004,0013,El Palizar,0011
+13,004,0014,Ejido de Loma Ancha,0011
+13,004,0015,Plan Grande,0026
+13,006,0006,Cebolletas,004A
+13,006,0007,Cerro Azul,004A
+13,006,0009,Deca,0016
+13,006,0027,La Salitrera,0035
+13,006,0029,San Antonio Corrales,004A
+13,006,0030,San Antonio Tezoquipan,0016
+13,006,0031,San Francisco Sacachichilco,0020
+13,006,0037,La Vega,0020
+13,006,0040,Xothé,004A
+13,006,0044,Zozea,0020
+13,008,0051,Lomas del Pedregal,0025
+13,009,0003,Chimilpa,0018
+13,009,0004,Fray Francisco,0018
+13,009,0006,El Meje,0018
+13,009,0008,El Rincón,0018
+13,010,0030,Atitalaquia [Parque Industrial],0324
+13,010,0032,Tula [Parque Industrial],0324
+13,012,0004,Cieneguillas,0066
+13,012,0009,La Estancia,0066
+13,012,0011,Montecillos,0066
+13,012,0015,Paso de Amajac,0032
+13,012,0022,Los Sabinos,0013
+13,012,0038,Agua Limpia,0066
+13,012,0039,Tiltepec,0013
+13,012,0071,Cumbre de Santa Catarina,0066
+13,013,0002,San José Acoculco,0044
+13,013,0009,El Pedregal,0044
+13,013,0018,Praderas del Potrero,0044
+13,013,0027,Santa Cruz del Tezontle,0010
+13,014,0011,Pezmatlán,0037
+13,014,0020,Tula,0018
+13,015,0004,El Bingú,0015
+13,015,0006,El Boxo,0015
+13,015,0017,Piedra Chica,0015
+13,015,0019,Pozuelos,0072
+13,015,0020,San Andrés Daboxtha,0053
+13,015,0021,San Antonio Sabanillas,0053
+13,015,0022,San Clemente,0015
+13,015,0025,San Miguel Jigui,0015
+13,015,0027,Santuario (Santuario Mapethé),0015
+13,015,0028,El Sauz (Juxmaye),0053
+13,015,0031,El Vithe,0015
+13,015,0038,La Vega,0015
+13,015,0039,Barrio Quixpedhe,0053
+13,015,0040,Los Peña,0053
+13,015,0087,Cerro Blanco (El Fraile),0049
+13,015,0115,Palacios,0015
+13,016,0010,Chacalapa,0027
+13,016,0012,Guadalupe Victoria,0205
+13,016,0024,Las Puentes,0027
+13,016,0028,San Lorenzo Sayula,0205
+13,016,0035,Tezoquipa,0205
+13,016,0114,Arboledas,0027
+13,017,0005,Bathi,0024
+13,017,0012,San José el Marqués (Escandón),0039
+13,017,0013,Nueva Santa Lucía,0039
+13,017,0015,San Juan el Sabino,0024
+13,017,0022,Zimapantongo,0024
+13,022,0004,El Guajolote,001A
+13,022,0010,El Nopalillo,001A
+13,022,0019,San Miguel Nopalapa,0024
+13,022,0037,San José Chavarría,001A
+13,022,0073,El Pinillo,001A
+13,022,0091,Xochihuacán [Fraccionamiento],0024
+13,022,0092,El Rialejo,001A
+13,023,0005,Dengantzha,0017
+13,023,0006,Doctor José G. Parres,0017
+13,024,0002,Aguacatitla (El Campamento),0029
+13,024,0017,El Peral,0033
+13,024,0022,San Bartolomé (San Bartolo),0014
+13,024,0025,San José Ocotillos,0014
+13,024,0027,San Miguel Regla,0048
+13,024,0034,Santo Domingo Agua Zarca,0048
+13,024,0035,Santo Tomás Allende,0014
+13,024,0036,San Lorenzo el Zembo,0048
+13,024,0038,Tlaxocoyucan,0033
+13,024,0042,San Miguel Cacaloapan,0048
+13,024,0088,San Juan Tlaxocoyucan,0033
+13,025,0018,Chalingo,0011
+13,025,0028,La Mesa,0045
+13,025,0040,Tecoluco Calpan,0011
+13,025,0060,La Puerta,0011
+13,025,0069,La Loma,0045
+13,026,0039,Tlamamala,0019
+13,026,0041,La Ceiba,0019
+13,027,0020,Juntas Chicas,0020
+13,027,0050,Río Beltrán,0020
+13,028,0028,Cochiscuatitla las Chacas,0013
+13,028,0030,Contépec,0047
+13,028,0031,La Corrala,0013
+13,028,0035,Cruztitla,0013
+13,028,0045,El Chote,0051
+13,028,0062,Machetla,0047
+13,028,0075,Poxtla Coacuilco,0047
+13,028,0076,Buena Vista,0047
+13,028,0106,Xochitzintla,0013
+13,029,0005,Boye,003A
+13,029,0022,La Sabinita,0044
+13,029,0084,Santa Bárbara,0078
+13,030,0002,El Alberto,0045
+13,030,0003,Arenalito,0030
+13,030,0011,Cuesta Colorada,0011
+13,030,0014,El Dexthi San Juanico,0026
+13,030,0016,Dios Padre,005A
+13,030,0019,La Estación,0030
+13,030,0031,Nequeteje,0030
+13,030,0032,El Nith,0026
+13,030,0033,El Olivo,0030
+13,030,0046,El Tablón,005A
+13,030,0050,Cañada Chica,005A
+13,030,0051,Chalmita,0030
+13,030,0096,Ex-Hacienda de Ocotza,005A
+13,030,0097,General Felipe Ángeles [Colonia],0026
+13,030,0146,Colonia del Valle Remedios,0030
+13,030,0153,La Joya [Colonia],0026
+13,031,0009,Coñecito,0042
+13,031,0011,Los Duraznos,0019
+13,031,0020,Minas Viejas,0057
+13,031,0033,San Nicolás,0042
+13,035,0005,Cañada de Flores,0018
+13,035,0006,El Casco,0018
+13,035,0007,Acocul Cebolletas,0022
+13,035,0017,Estación de Apulco,0018
+13,035,0022,Tortugas,0022
+13,035,0024,La Victoria,0022
+13,035,0026,Palo Gacho,0018
+13,035,0028,El Sabino,0018
+13,035,0031,Colonia Nueva Ex-Hacienda de Apulco,0018
+13,035,0041,Ex-Hacienda de Apulco Parte Alta,0018
+13,036,0015,Tuzanapa,0015
+13,036,0023,Apartadero,0034
+13,036,0028,El Enzuelado,0015
+13,036,0030,Llano de las Palmas,0034
+13,037,0003,San Pedro Amajatlán (Amajatlán),0050
+13,037,0031,El Pedregal de Zaragoza (El Pedregal),0027
+13,037,0032,El Pirú Tepozotlán (El Pirú),0099
+13,037,0044,Santa Mónica Autempa,0116
+13,037,0069,San Antonio Tlaxco,0027
+13,038,0024,Benito Juárez,001A
+13,038,0032,La Laguna [Barrio],001A
+13,039,0003,Ciénega Larga,0017
+13,041,0007,Morelos (El Nueve) [Colonia],0015
+13,041,0011,Tepeitic,0119
+13,041,0046,El Colorado,0015
+13,042,0007,Cuxhuacan,0012
+13,042,0012,Malila,0027
+13,042,0020,Tenango,0012
+13,042,0026,Molocotlán,0027
+13,044,0005,El Fresno (Casas Viejas),0017
+13,044,0007,Los Cerritos,0021
+13,044,0008,Cuaxithi,0017
+13,044,0013,El Jagüey,0036
+13,044,0015,Loma Colorada,0021
+13,044,0030,San Sebastián Tenochtitlán,0017
+13,044,0031,La Siempreviva,0036
+13,044,0033,San Sebastián de Juárez,0036
+13,044,0077,Puerto Dañu,0021
+13,044,0132,El Mogote,0036
+13,045,0002,Agua Fría,0014
+13,045,0012,Vicente Guerrero,0014
+13,045,0019,Puentecillas,0014
+13,045,0023,Santa Elena,0014
+13,045,0029,Venta de Guadalupe,0014
+13,046,0016,Cuamecaco,0030
+13,046,0099,El Carrizal,0030
+13,047,0006,Canoas,0038
+13,048,0149,Camelia (Barrio la Camelia),0016
+13,048,0248,Colonia del Valle,0020
+13,052,0004,La Concepción,0023
+13,052,0005,Chapultepec de Pozos,0080
+13,052,0010,San Isidro Llano Largo,0019
+13,052,0014,Santa Catarina,0023
+13,052,0020,San Miguel Tornacuxtla,0023
+13,052,0037,Palos Blancos,0023
+13,052,0050,El Chamizal,0019
+13,052,0052,Nueva Tlaxiaca,0038
+13,052,0070,La Loma,0023
+13,052,0077,Paseo de los Solares,0023
+13,053,0009,Calintla,004A
+13,054,0013,Lagunilla,0013
+13,054,0017,Poxindeje de Morelos,0117
+13,054,0024,Tothie de Rojo Gómez,0121
+13,054,0036,Chichimecas,0051
+13,054,0039,El Mothé,0051
+13,054,0040,Xuchitlán,0051
+13,054,0054,Pacheco Leandro Valle,0121
+13,055,0004,Cerritos,0010
+13,055,0009,Hermosillo Monte Noble,0025
+13,055,0013,Patria Nueva,0044
+13,055,0014,Santa Mónica,0059
+13,055,0015,El Sitio,003A
+13,055,0016,Xitzo,0059
+13,055,0018,Zaragoza,0059
+13,055,0021,Ejido del Mezquital,0044
+13,056,0004,Los Romeros,015A
+13,056,0007,Tilhuacán,015A
+13,056,0008,Ventoquipa,015A
+13,056,0035,Emiliano Zapata,0145
+13,057,0002,Alfajayucan,002A
+13,057,0007,La Comunidad,002A
+13,057,0008,Cuatro Palos,002A
+13,057,0022,Segundas Lajas,002A
+13,057,0024,El Susto,002A
+13,057,0026,El Cebadal,002A
+13,057,0033,Texcaltitla,0053
+13,057,0060,Las Palomas,0015
+13,057,0176,Arboledas,0015
+13,057,0185,Las Palomas Segunda Sección,0015
+13,058,0004,Caltimacán,0027
+13,058,0009,Danghu,0031
+13,058,0017,Portezuelo,0031
+13,058,0024,Santiago Ixtlahuaca,0031
+13,058,0025,Tetzhú,0031
+13,059,0007,Bomanxotha,0077
+13,059,0009,Bothé,0077
+13,059,0011,Cuamxhi,0024
+13,059,0019,La Mesilla,0077
+13,059,0020,Ninthí,0058
+13,059,0028,El Salto,0058
+13,059,0029,San Antonio,0043
+13,059,0033,San Miguel Caltepantla,0024
+13,059,0059,Joñhé,0077
+13,059,0086,El Crucero,0077
+13,059,0100,La Cruz de Piedra,0024
+13,060,0026,Peña Blanca,0025
+13,060,0034,San Nicolás,0010
+13,061,0003,Los Cides,0022
+13,061,0009,Palo Hueco,0018
+13,061,0029,20 de Noviembre [Colonia],0037
+13,062,0015,El Naranjal,0034
+13,062,0034,Ixtlapalaco,002A
+13,062,0061,Soyuco,0034
+13,063,0004,Cañada de Madero,0012
+13,063,0008,Ojo de Agua,0012
+13,063,0015,Santa María Magdalena,0012
+13,063,0017,Santiago Tlapanaloya,0027
+13,063,0018,Santiago Tlautla,0027
+13,063,0025,Benito Juárez,0031
+13,063,0047,Presa Escondida 2da. Sección Hacienda la Nopalera,0031
+13,063,0052,Presa Escondida,0031
+13,063,0099,Amanali,0031
+13,063,0101,Tepeji [Parque Industrial],0031
+13,064,0003,General Pedro María Anaya,001A
+13,064,0006,La Loma,0024
+13,064,0014,El Retiro,0024
+13,065,0002,Juandhó,0017
+13,067,0004,Santa María Batha,0011
+13,067,0012,Tenango,0011
+13,067,0013,El Tinaco,0011
+13,068,0028,Oxpantla,0038
+13,069,0068,Andalucía Residencial [Fraccionamiento],0016
+13,073,0027,Peyula,0023
+13,074,0004,Teocalco,0016
+13,075,0009,Las Pintas,0013
+13,076,0004,Xiteje de Zapata,0010
+13,076,0018,San Francisco Bojay Pueblo,0025
+13,076,0021,San Lucas Teacalco,0063
+13,076,0061,Nueva Santa María [Colonia],0063
+13,076,0074,Jardines de San Miguel,0063
+13,076,0087,Cerrito del Tepeyac,0063
+13,076,0101,El Crestón,0044
+13,077,0002,Acocul la Palma,0145
+13,077,0071,Pedregal de San Francisco,0164
+13,077,0113,Tollancingo,0164
+13,081,0003,Atopixco,0059
+13,081,0005,La Cumbre de Alumbres,0010
+13,082,0028,Plan de Guadalupe,0018
+13,083,0015,San Agustín Zapotlán,002A
+13,083,0130,El Mirador Sexta Sección,0068
+13,083,0135,Nueva Esperanza,0072
+13,083,0140,El Carril Ancho,0072
+13,084,0002,Las Adjuntas,0027
+13,084,0003,El Aguacatito,0101
+13,084,0004,Aguas Blancas,0084
+13,084,0005,Álvaro Obregón (Temuthe),0101
+13,084,0012,El Cerrote,0116
+13,084,0027,Lázaro Cárdenas (Remedios),0065
+13,084,0039,Plutarco Elías Calles (Santiago),0084
+13,084,0042,Puerto Juárez,0116
+13,084,0090,El Álamo,0050
+13,084,0099,Cruz Pinta,0084
+13,084,0132,Tlalpan,0065
+13,084,0133,El Tule,0065
+13,084,0180,Los Pilares,0084
+14,001,0002,Agua Prieta (Tepetates),0014
+14,001,0036,Las Motas,0052
+14,001,0063,Tierras Coloradas,0052
+14,002,0065,Centro Logístico de Jalisco [Parque Industrial],0026
+14,006,0027,Labor de Solís,0082
+14,006,0059,La Villita,0097
+14,008,0026,Bajío Seco,0087
+14,008,0283,Santiaguito (Santiaguito de Velázquez),0091
+14,009,0043,Santa Sofía,0012
+14,011,0024,Soyatlán del Oro,0044
+14,011,0029,Trigo de Alteñas,0025
+14,011,0030,Yerbabuena,0025
+14,014,0020,Poncitlán,0027
+14,014,0028,Tultitán,007A
+14,015,0055,Mezquitán (San Francisco de Abajo),0024
+14,015,0081,Tecomatlán,0081
+14,016,0052,Los Once Pueblos,0040
+14,016,0055,Palo Blanco,0055
+14,017,0097,San Pedro,0029
+14,017,0103,Santa Rosalía,0048
+14,018,0032,San Francisco de Rivas,0045
+14,020,0020,Chacala,0024
+14,029,0086,San Nicolás de los Esteves,0015
+14,030,0054,Tres Cañadas (El Estrellón),0035
+14,031,0069,Tepizuac,0066
+14,032,0016,Jalpa,003A
+14,033,0072,El Refugio de Vázquez,0075
+14,033,0095,El Terrero de Villareño (Terrero de Carmen),0075
+14,035,0300,La Trinidad,0050
+14,036,0025,La Mazata,001A
+14,038,0045,Llano Grande,0029
+14,040,0085,La Venta de Mochitiltic,0031
+14,042,0015,La Estancia de Arriba,0040
+14,042,0037,Salitre de Abajo,006A
+14,042,0043,San Nicolás de Acuña,0089
+14,042,0173,Colonia las Granjas,006A
+14,043,0030,La Conchita,0090
+14,043,0062,La Manzanilla,0211
+14,043,0081,Las Pilas,0086
+14,043,0165,La Mesa,0033
+14,044,0003,Buenavista,0026
+14,045,0008,Agua Rica,0076
+14,045,0141,Las Trancas,0080
+14,045,0142,Trejos,0095
+14,048,0128,San José de la Paz,0044
+14,049,0091,Huichitila,0111
+14,049,0195,Tazumbos,0130
+14,050,0014,San Pedro Tesistán,0061
+14,053,0028,Buenavista (San Miguel),0241
+14,053,0065,La Cruz,0294
+14,053,0079,La Escondida,0148
+14,053,0095,La Isla,0190
+14,053,0135,La Merced (La Chona),0148
+14,053,0161,Las Palomas,0260
+14,053,0224,San Antonio de Buenavista,0133
+14,053,0275,Santa Inés,0237
+14,053,0309,Torrecillas (El Lindero),0241
+14,053,0324,La Virgen,0241
+14,053,0582,El Torreón,003A
+14,053,0721,Dieciocho de Marzo,0167
+14,053,0772,La Palma,0256
+14,053,0923,Valle de los Reyes (Rancho Jl) [Fraccionamiento],0415
+14,055,0004,Lo de Guevara (La Loma),0068
+14,055,0006,Ojo Zarco,0034
+14,057,0003,Las Cuevas,0039
+14,058,0131,La Plata,0125
+14,059,0012,La Cofradía,0033
+14,059,0032,Los Guayabos,0033
+14,059,0047,Puerta del Zapatero,0033
+14,059,0116,Paso de los Arrieros,0014
+14,061,0190,San Andrés Cohamiata,0205
+14,061,1103,Mayehekwa Pueblo Nuevo 2,021A
+14,062,0012,La Laja,0024
+14,063,0122,Linda Vista (Paso Blanco),0144
+14,065,0003,El Agostadero,005A
+14,065,0035,Huizaches,005A
+14,065,0052,El Naranjo,005A
+14,065,0069,El Quemado,0098
+14,066,0002,Agua Caliente,0023
+14,066,0037,La Zapotera,0023
+14,067,0014,El Colorado,0035
+14,067,0057,El Zancudo,0020
+14,067,0178,Colonia los Robles,1404
+14,068,0023,Carreón,0102
+14,068,0040,La Eca,0102
+14,068,0069,Mezcales,009A
+14,068,0076,La Nancita,0102
+14,068,0084,Pabelo,0102
+14,068,0451,Nueva Galicia,0155
+14,070,0011,El Muey,140A
+14,070,0095,CIMEG [Parque Industrial el Salto],140A
+14,073,0003,Agua de Obispo,0102
+14,073,0229,El Torque (El Agostadero),0013
+14,077,0010,Labor de Medina,0031
+14,077,0017,San Isidro Palo Verde,0050
+14,077,0020,Santa Cruz de las Flores,0065
+14,080,0014,El Carrizo,0056
+14,080,0021,Copales (Los Copalitos),0094
+14,081,0002,Las Ánimas,0015
+14,083,0005,Cuxpala,0081
+14,083,0010,Las Navajas,0077
+14,083,0017,San Juan de los Arcos,0077
+14,083,0219,Ventura Flores Navarro,001A
+14,084,0033,La Cañada,0036
+14,084,0066,La Cuesta,0214
+14,084,0077,Desmoronado (El Real),0110
+14,085,0089,Las Vallas,0141
+14,085,0153,San Vicente,0141
+14,085,0156,Soyatlán de Afuera,0071
+14,085,0477,La Divina Providencia,0156
+14,086,0030,San Antonio (San Antonio de Padua),0045
+14,087,0008,Ahuijullo,0165
+14,088,0005,Ayotitlán,0105
+14,088,0025,Quila,0020
+14,090,0008,Colotitlán,0052
+14,093,0341,Los Sauces,0177
+14,093,0794,Paleta Chica,0228
+14,094,0140,San Pedro Analco,009A
+14,094,0767,La Explanada,0225
+14,097,0045,El Cortijo,2416
+14,097,0854,Villa las Flores,0015
+14,098,0125,Potrero el Zalate [Parque Industrial],0243
+14,099,0074,Nuevo Zopoma (El Bolitar),0024
+14,100,0053,Gargantillo (La Hacienda),0084
+14,100,0092,El Naranjo,0173
+14,100,0100,Las Partidas,0101
+14,102,0010,Coatlancillo,0021
+14,104,0020,Cartagena,0030
+14,106,0007,El Camichín,0035
+14,108,0031,Montelongo,0129
+14,108,0041,Platanar,0097
+14,108,0295,Miseria y Ánimas,0059
+14,109,0071,Pedrito [Estación],008A
+14,110,0034,La Piñuela,0023
+14,111,0065,Puerta de Macias,004A
+14,113,0023,La Guadalupe,0063
+14,116,0006,Arroyo Seco de Arriba,0031
+14,116,0018,Custique,007A
+14,116,0028,Los Mimbres,0050
+14,116,0044,San Juanico de Abajo,007A
+14,116,0045,San Juanico de Arriba,0050
+14,116,0109,Laguna de Mirasoles,0050
+14,117,0065,Temacapulín (Temaca),0024
+14,118,0056,Huisquilco (Huiscuilco),0040
+14,118,0137,El Tulillo,0021
+14,118,0225,Agua Colorada,0074
+14,119,0006,El Briseño (Los Briseño),0029
+14,120,0129,El Mesón de Cópala,0034
+14,120,0279,Lomas de Montechelo (El Pedregal),0034
+14,120,0356,Ejido Copalita,0123
+14,120,0460,San José del Astillero [Parque Industrial],0142
+14,120,0568,Milpillas Mesa de San Juan,002A
+14,120,0772,Colinas de San Isidro,0087
+14,122,0039,Telcruz,0024
+14,123,0003,Ahuatlán,0021
+14,123,0034,Rancho Nuevo,0017
+14,124,0125,Ocote de Nuño,0071
+14,124,0168,San José de las Flores (Gallinas de Arriba),0033
+15,003,0056,El Mogote,0140
+15,003,0092,Santa Ana Matlavat Primera Manzana,016A
+15,003,0094,Gunyo Centro,0155
+15,004,0016,Sexta Manzana,0063
+15,005,0129,El Tepetatal,0338
+15,006,0002,Colonia Loma Linda,0034
+15,007,0018,San Sebastián el Grande,0050
+15,007,0021,Polvillos (San Bartolo Quinta Sección),0050
+15,009,0007,Santa Isabel Chalma,0074
+15,009,0120,Nexatenco,0074
+15,010,0027,Ejidos de Santa María,0041
+15,010,0030,Colonia Ermita,0041
+15,013,0113,Rancho Blanco Ejido de Espíritu Santo,1889
+15,014,0017,Dolores la Joya,0182
+15,016,0015,San Pablo Xuchitl,0115
+15,016,0020,Zacatepec,0100
+15,018,0005,San Diego la Huerta,0088
+15,018,0020,Colonia Francisco Villa,0073
+15,018,0038,Hacienda de las Fuentes [Fraccionamiento],0088
+15,021,0007,El Cedrito,0079
+15,026,0026,Tenjay,0111
+15,026,0037,Xhote,0111
+15,026,0038,La Soledad (El Mogote),0126
+15,032,0011,San Francisco Mihualtepec,0053
+15,032,0014,Ranchería de San Martín Obispo,0053
+15,032,0018,Santiago Huitlapaltepec,0049
+15,032,0030,Nueva Colonia Tres Puentes,0053
+15,035,0011,San Miguel de los Jagüeyes,0093
+15,036,0011,Tianguistongo,0090
+15,037,0002,Agua Bendita,0172
+15,037,0007,Ignacio Allende,0168
+15,037,0012,Llano Grande (San Miguel Llano Grande),0168
+15,037,0080,Paraje la Pera,0172
+15,039,0017,Zoquiapan,0711
+15,039,0095,El Pozo del Venado,1527
+15,039,0148,Santa Ana,1527
+15,040,0010,Plan de San Miguel,006A
+15,040,0013,El Salitre,006A
+15,045,0004,Aldama,0174
+15,045,0010,Danxho,0244
+15,045,0016,Las Huertas,0189
+15,045,0027,San Miguel de la Victoria,0155
+15,047,0007,Loma de Endotzi (Manzana Sexta),0145
+15,047,0010,Ejido Loma de Malacota (Loma de Malacota),0107
+15,047,0013,Ejido de Mañi,0130
+15,047,0023,San Martín Morelos,0145
+15,048,0033,San José Boqui,0227
+15,050,0019,Barrio Santa Rosa de Lima,0085
+15,051,0013,Zacamulpa Huitzizilapan,0148
+15,052,0008,Chalma,0094
+15,052,0014,Pachuquilla,0107
+15,052,0019,El Puentecito,0094
+15,052,0021,San Andrés Nicolás Bravo,0111
+15,052,0036,La Loma de San Felipe,0094
+15,052,0049,Club de Golf Malinalco,0094
+15,052,0051,Las Paredes,0094
+15,056,0007,San Marcos Tlazalpan,0110
+15,056,0016,Barrio Primero (La Calavera),0106
+15,056,0021,La Cofradía,0106
+15,057,0260,La Cuesta,1065
+15,057,0270,La Rosa,107A
+15,057,0273,Barrio de Batha,1065
+15,057,0316,La Unidad Huitzizilapan,1065
+15,059,0016,San Mateo Acuitlapilco,0076
+15,060,0068,Joya del Tejocote,0490
+15,060,0084,Barrio de Guadalupe,0486
+15,060,0096,Ampliación el Rosario,0490
+15,063,0010,Chalmita,0098
+15,063,0017,Pueblo Nuevo,0098
+15,063,0022,Santa Lucía,0083
+15,063,0024,Santa Martha,0083
+15,063,0042,Los Manantiales (El Río Chiquito),0098
+15,064,0009,La Concepción (La Concepción Segunda),0061
+15,064,0020,Presa Brockman,0076
+15,064,0027,Santiago Oxtempan,0057
+15,067,0002,La Concepción de Hidalgo,0133
+15,071,0006,Encinillas,0066
+15,074,0126,Ejido del Tunal Nenaxi,0195
+15,074,0232,Ampliación de San Antonio la Ciénega,0180
+15,075,0007,San Antonio de las Palmas,0116
+15,075,0008,San Pablo Ixquitlán,0120
+15,075,0010,Santiago Tepetitlán,0120
+15,075,0013,Santa María Tezompa,0116
+15,078,0042,Frontón Vivero,0067
+15,079,0002,El Divisadero de Zapata,005A
+15,079,0009,San Juan Daxthi,0045
+15,081,0007,San Juan Pueblo Nuevo,0490
+15,081,0082,Monte Carlo [Fraccionamiento],0471
+15,082,0141,Rincón del Guayabal,0322
+15,082,0171,Tenería (Pueblo Nuevo),0252
+15,083,0033,Paraíso,0033
+15,085,0037,Santa Rosa Solís,0108
+15,087,0040,Llano de la Y,0155
+15,088,0007,Colonia Guadalupe Victoria,010A
+15,088,0010,Ejido de Tenería (El Llano),010A
+15,088,0019,San José Tenería (Tenería),0148
+15,090,0079,La Hacienda,0108
+15,095,0043,Granjas Hogar y Petrohuertos Delegación,0123
+15,095,0066,Tierras Blancas del Sur,0142
+15,097,0051,Las Lágrimas,0081
+15,101,0013,San Lorenzo Huehuetitlán,0118
+15,101,0052,Colonia Campesina,0118
+15,103,0002,San Antonio Tlaltecahuacán,0112
+15,105,0047,Palmar Grande,016A
+15,106,0107,San Carlos Autopan,1305
+15,106,0143,Barrio Bordo Nuevo,1288
+15,106,0145,Xicaltepec,1288
+15,110,0031,Santa María Pipioltepec (Pipioltepec),0140
+15,110,0083,Atesquelites (Tres Quelites),0174
+15,111,0033,Barrio de San Miguel,0063
+15,111,0038,Barrio de Santiago,0078
+15,113,0002,Buenavista,0091
+15,114,0009,Ejido el Hospital,0188
+15,114,0012,Laguna Seca Propiedad,021A
+15,114,0024,San Agustín Canohillas Segunda Sección,021A
+15,114,0033,Sansón,021A
+15,114,0144,Barrio el Ocote,0169
+15,118,0013,El Contadero de Matamoros (San José),0191
+15,119,0002,Guadalupe Ahuacatlán,0057
+15,123,0177,El Reparo de Nanchititla (El Reparo),0098
+15,124,0093,El Salto la Venta,0057
+16,001,0007,La Campana,0047
+16,001,0020,San Andrés Coapa,0013
+16,002,0070,El Charapo (Palo Alto),0025
+16,003,0008,Emiliano Zapata,0022
+16,003,0026,Tzintzimeo,0018
+16,003,0036,Chehuayo Chico (Chehuayito),0022
+16,004,0006,Santiago Conguripo,0015
+16,004,0007,La Estancia del Río,0049
+16,004,0027,San José del Maluco,002A
+16,005,0010,La Salud,0012
+16,006,0002,Santiago Acahuato,001A
+16,006,0033,Chandio (Ejido la Concha),0043
+16,006,0055,Loma de los Hoyos,0077
+16,006,0108,Presa del Rosario,0058
+16,006,0125,San Juan de los Plátanos,0039
+16,006,0222,Los Laureles,0147
+16,008,0043,La Cofradía de Ostula,0033
+16,008,0052,Cruz de Campos,0048
+16,008,0110,Motín del Oro,0118
+16,008,0141,Pomaro,0122
+16,008,0146,Pueblo Nuevo,0014
+16,008,0193,El Atrancón,0245
+16,009,0009,Araparícuaro,0045
+16,009,0012,La Barrita (La Barra Chica),0064
+16,009,0042,Las Escobillas,0064
+16,009,0076,La Playa de Guadalupe,0083
+16,009,0079,El Potrero de Pablo Cuin (Altito de Pablo Cuin),0030
+16,009,0110,Urapa,0064
+16,009,0114,Zatzio,0030
+16,009,0136,Los Tumines (Poblado de los Ates),0064
+16,009,0139,La Barra (La Barra Grande),0030
+16,010,0102,Las Juntas,0101
+16,010,0152,La Parota de Cuevas,0173
+16,010,0317,Las Cañas,0027
+16,012,0006,La Angostura,0017
+16,012,0019,Cinco de Mayo (El Limón),0021
+16,012,0051,La Luna,0017
+16,013,0055,Los Ejes,0048
+16,013,0066,El Guayabo del Carmen,0052
+16,013,0218,Juntas de Chapacarícuaro,0090
+16,014,0119,Ojo de Agua de San Telmo,0064
+16,016,0002,Agua Caliente,0162
+16,017,0020,Mogotes,0013
+16,017,0025,Salto de Tepuxtepec,0032
+16,017,0044,El Milagro,0028
+16,020,0009,Doctor Miguel Silva (San Guillermo),0019
+16,020,0010,Jeruco,0019
+16,020,0012,La Palma,0061
+16,022,0022,Jaripeo,0047
+16,022,0034,Pontezuelas,0032
+16,022,0046,Zurumbeneo,0013
+16,022,0082,La Galera (La Resinera),0032
+16,025,0006,Huecato,0053
+16,026,0021,Barranca Seca de Larios,0050
+16,026,0138,Salitre de Copala,0065
+16,028,0020,El Sabino,0036
+16,029,0013,La Candelaria,0052
+16,029,0060,Ojo de Agua de Poturo,0014
+16,029,0089,San Martín de la Luz,0122
+16,030,0006,Colesio,0015
+16,031,0014,Molinos de Caballero,0050
+16,031,0023,La Paz,0031
+16,031,0043,Emiliano Zapata (Pueblo Nuevo),0046
+16,031,0057,Yereje Cabezas,0031
+16,031,0075,Fracción Salitrillo [Ejido Nuevo Coroneo],0027
+16,031,0109,Temazcales (Bellotal Loma de en Medio),0031
+16,032,0005,Colonia Lázaro Cárdenas,001A
+16,032,0007,San Miguel Nocutzepo,0039
+16,032,0014,Yotátiro,001A
+16,034,0058,José María Morelos (Ziripeo),0086
+16,034,0121,La Venta de San Andrés,0048
+16,034,0129,Estanco de San Matías,0052
+16,034,0133,San Pedro Jácuaro (Las Joyas),0048
+16,034,0143,La Teja,0052
+16,034,0202,El Retranque (La Presa de Pucuato),0071
+16,034,0373,Tierras Coloradas de San Pedro,0014
+16,034,0527,Magallanes (Los Pinos),0052
+16,035,0008,Arronjadero (La Cuesta),0153
+16,035,0012,Bellas Fuentes (Nuevo Centro),0172
+16,035,0034,Cuimbo,0064
+16,035,0061,Manga de Cuimbo,0064
+16,035,0087,Potrerillos de Rentería (Cupuancillo),0115
+16,035,0088,Pueblo Viejo,0153
+16,035,0089,Puerta de la Playa,005A
+16,035,0098,San Pedro Barajas,0172
+16,035,0110,Zapote de Jorullo,005A
+16,035,0150,Los Ciriancitos (Lázaro Cárdenas),0204
+16,035,0152,La Gallina (Vista Hermosa),0115
+16,035,0199,Oropeo,0191
+16,035,0225,La Galera,005A
+16,035,0314,La Puerta del Ciruelo,0030
+16,036,0002,Capacho,0019
+16,037,0009,Jesús María,0054
+16,038,0010,Arua,0225
+16,038,0014,Arroyo Seco,0193
+16,038,0023,Buenavista Tres,0140
+16,038,0066,Los Hornos (La Cacamicua),0121
+16,038,0084,El Ocuaro,0032
+16,038,0089,La Parota,0070
+16,038,0106,La Quetzería (La Quesería),016A
+16,038,0116,Sanchiqueo,009A
+16,038,0128,Santa María,0013
+16,038,0143,Las Trincheras,0066
+16,038,0144,Turitzio,0225
+16,038,0377,Pinzanangapio,023A
+16,038,0524,La Cuchilla,023A
+16,041,0023,San José de Magallanes,0023
+16,044,0012,Huandacuca (Mariana),0010
+16,044,0016,Tumbio,0063
+16,044,0017,El Zapote,0044
+16,045,0003,Las Ánimas,0287
+16,046,0056,Las Mesitas,002A
+16,047,0011,El Carrizal,0012
+16,047,0029,Huanguitío,0046
+16,050,0003,Apeo,0056
+16,050,0006,Campo Hermoso,008A
+16,050,0012,La Coyota,0111
+16,050,0022,Huajumbarito,0018
+16,050,0059,Santa Elena,008A
+16,050,0100,San Ramón,0111
+16,050,0213,El Centenario,008A
+16,050,0220,Lomas de Maruati [Fraccionamiento],0022
+16,051,0019,El Sabino,0049
+16,051,0020,San Miguel,0049
+16,052,0007,Los Amates,0050
+16,052,0057,Los Coyotes,0099
+16,053,0141,Santiago Undameo,0151
+16,053,0171,Zajo Grande,0024
+16,054,0003,La Cruz del Niño,0021
+16,054,0009,Jururemba,0021
+16,055,0012,Estación Nueva Italia,0029
+16,056,0004,Colonia Emiliano Zapata,0011
+16,057,0031,Las Cocinas,0038
+16,057,0198,Los Brasiles (Puerto los Brasiles),0061
+16,059,0034,La Cebadilla (Las Pitas),0032
+16,061,0008,Manzana la Cofradía,0011
+16,061,0015,Manzana el Mortero de San Cristóbal,0026
+16,061,0020,Manzana del Centro de San Cristóbal,0026
+16,061,0021,San Juan,0011
+16,061,0025,El Soldado Anónimo,0011
+16,061,0026,Manzana el Tejocote,0026
+16,061,0033,Ojo de Agua,0011
+16,061,0035,Los Tepetates,0011
+16,061,0040,Manzana la Cantera,0026
+16,061,0042,Manzana el Paso de San Cristóbal,0026
+16,062,0002,El Cometa,0042
+16,062,0014,Tecomatán,0042
+16,062,0020,Las Malvinas (El Salate),0042
+16,063,0025,La Piedad Chiquita,0035
+16,064,0026,Piedra Parada,0070
+16,064,0033,Uspero (Reynosa),0051
+16,065,0003,Aranza (Arantzán),0025
+16,065,0007,Pomacuarán (Pomocuarán),0010
+16,066,0033,San Miguel Charahuén,0041
+16,066,0034,San Pedro Pareo,0041
+16,066,0035,Santa Juana,0056
+16,066,0039,Las Trojes del Durazno,0022
+16,066,0040,Tzentzénguaro,0018
+16,066,0119,Llano de San José,0018
+16,066,0133,Fraccionamiento Bosques de Pátzcuaro,0018
+16,067,0021,La Luz,0015
+16,067,0036,San Isidro,0049
+16,067,0045,Ziquítaro,0049
+16,067,0046,El Nuevo Vado Blanco (Tijuanita),0015
+16,068,0007,Corona,0031
+16,069,0037,El Fuerte (San Juan del Fuerte),0024
+16,069,0040,Tanque de Peña,001A
+16,069,0045,El Zapote,0043
+16,070,0004,Villa Mendoza,0010
+16,071,0016,La Excusa,008A
+16,071,0020,El Granjenal,0094
+16,071,0024,Isaac Arriaga (Santa Ana Mancera),0018
+16,071,0054,Santa Clara,008A
+16,071,0063,Nuevo Progreso (Casas Viejas),0056
+16,073,0007,Sanambo,0065
+16,075,0019,San José de Gracia,0074
+16,078,0004,Huacao,0019
+16,078,0007,La Lobera,0023
+16,079,0008,Caratzitumbio,0054
+16,079,0009,El Carmen,0020
+16,079,0020,Cuangatzio,0054
+16,079,0027,Españita,0054
+16,079,0034,Iramuco,0020
+16,079,0048,Paramuén,0054
+16,079,0050,Paso del Muerto,0069
+16,079,0056,El Querendal,0020
+16,079,0060,Santa Ana,004A
+16,079,0066,El Tarascón,0016
+16,079,0071,Turián Bajo (Turián el Bajo),0016
+16,079,0072,Turirán,0069
+16,079,0073,Tzintzamba (La Sizamba),0054
+16,079,0075,Zirahuén,0016
+16,080,0003,El Calabozo Segunda Fracción,0017
+16,080,0066,Tupátaro,0021
+16,080,0084,Cuartel Tercero (Tupátaro),0021
+16,081,0026,La Loma (Los Hoyos),0014
+16,081,0048,El Tanque,0014
+16,081,0051,El Tremesino,0033
+16,082,0013,Buenavista,0079
+16,082,0042,San Jerónimo Arroyo de Apo (Huatzanguío),0098
+16,082,0100,Santas Marías,005A
+16,082,0151,El Gigante,0083
+16,082,0205,Plan de Ornelas (Aguatibia),0045
+16,082,0207,La Guardia,0011
+16,083,0004,Aguacate del Sur,0080
+16,083,0017,Condémbaro,0061
+16,083,0053,Santa Catarina,0076
+16,083,0058,El Tizate,0080
+16,084,0006,El Cerezo,0016
+16,084,0018,Querénguaro,0020
+16,084,0023,Los Hucuares,0035
+16,085,0020,San Antonio Ocampo,0047
+16,085,0024,Tengüecho,0028
+16,086,0002,El Calvario (El Barreno),003A
+16,086,0003,Las Cieneguitas,003A
+16,086,0004,Los Charcos,0025
+16,086,0018,Colonia Ejidal Agua Gruesa,003A
+16,088,0008,El Carrizal,0015
+16,088,0014,El Cuitzillo Grande,0053
+16,088,0019,Colonia Miguel Hidalgo,0034
+16,088,0024,Mesón Nuevo,0034
+16,088,0027,Peña del Panal,0015
+16,088,0036,Santa María,0015
+16,089,0010,Carapuato,0050
+16,089,0012,La Ciénega,0046
+16,089,0015,El Colomo,0065
+16,089,0043,Pinolapa,0031
+16,089,0051,Tepemezquites,0031
+16,091,0030,Patamburapio,003A
+16,093,0021,El Real (El Real de Arriba),0049
+16,093,0040,Los Trejo (Santo Niño),0015
+16,093,0059,Zapateros,0015
+16,093,0072,Rosa de Castilla,0015
+16,094,0008,Gil,0012
+16,097,0065,Chiquito el Grande,0048
+16,098,0058,Cofradía de San José,0030
+16,099,0009,Arroyo Seco,0095
+16,099,0022,El Cascalote del Salitre (El Salitre),0076
+16,099,0043,Chiragangueo,0108
+16,099,0061,Las Juntas del Tanque,0076
+16,099,0062,Las Juntas,0076
+16,099,0071,Mendoza y Cuirindales,0112
+16,099,0080,El Olivo,0042
+16,099,0082,Organista y Potrerillos,0095
+16,099,0093,Los Pinzanes,0095
+16,099,0115,Taracatío,0042
+16,100,0027,Colonia Lázaro Cárdenas,0011
+16,101,0137,Paso Ancho,0061
+16,102,0067,Las Cocinas,0069
+16,102,0081,Jicalán (La Pinerita),1090
+16,102,0082,Jucutácato,0124
+16,102,0113,Tanaxhuri,0124
+16,102,0213,El Puerto,0124
+16,104,0008,Cerrito Colorado,0044
+16,104,0024,Nicolás Romero,003A
+16,104,0033,El Salitre,0010
+16,106,0009,Monteleón,002A
+16,106,0010,Munguía,002A
+16,106,0011,El Refugio,002A
+16,107,0004,Buenavista,0031
+16,107,0012,David Franco Reyes,0101
+16,107,0013,Colonia Eréndira,0027
+16,107,0014,La Escondida,0027
+16,107,0019,Morelos,0031
+16,107,0026,La Virgen,0031
+16,107,0028,La Yesca,0084
+16,107,0051,Pueblo Viejo (Jacarandas),0027
+16,108,0002,Aquiles Serdán (Santiaguillo),0058
+16,108,0012,La Ladera,0058
+16,108,0013,El Llano,001A
+16,108,0021,El Sauz de Abajo,001A
+16,108,0200,Canindo,0787
+16,110,0017,La Galera (San Joaquín Jaripeo),0107
+16,110,0018,Huajúmbaro (Huajúmbaro de Guadalupe),0056
+16,110,0020,El Jaral (El Jaral Lagunillas),008A
+16,110,0045,Taimeo el Chico (La Yerbabuena),0107
+16,110,0056,San José del Rincón (El Rincón de Taimeo),0037
+16,110,0072,Los Trigos,0107
+16,110,0103,Colonia Pino Cerdón,0056
+16,110,0112,Colonia Ejidal Eusebio Luna (Zócalo),008A
+16,111,0005,El Fresno,002A
+16,111,0011,Zirimícuaro,0015
+16,112,0006,Camémbaro,0065
+16,112,0015,San Francisco Curungueo,0012
+16,112,0020,Colonia Emiliano Zapata (San Juan Zitácuaro),0099
+16,112,0021,La Encarnación,0065
+16,112,0027,Kilómetro Once,0099
+16,112,0031,Macho de Agua (Quinta Manzana de Crescencio Morales),0099
+16,112,0040,La Palma,007A
+16,112,0052,San Felipe los Alzati (Colonia Nueva),0012
+16,112,0054,Silva de Abajo,0099
+16,112,0056,La Soledad (Cuarta Manzana de Francisco Serrato),0046
+16,112,0080,Linda Vista (El Bosque),0065
+16,112,0081,La Y Griega,007A
+16,112,0118,La Colonia de Aputzio,007A
+16,112,0154,La Mojonera,0099
+16,112,0158,Valle Verde,0012
+16,112,0207,Zitácuaro [Parque Industrial],0099
+16,112,0213,Tercera Manzana de Manzanillos (El Rancho),0099
+16,113,0017,Tafolla (José María Tafolla),0058
+16,113,0020,Zapote de Parras,0058
+17,002,0039,Rancho Temecatitla,0034
+17,004,0017,Palo Blanco,0147
+17,004,0132,Agua Salada,0147
+17,012,0002,Chisco,0172
+17,015,0006,Palpan de Baranda,0070
+17,015,0010,El Rodeo,009A
+17,017,0010,El Zapote,0164
+17,017,0065,Colonia Valle Bonito (Los Arcos Caídos),0130
+17,018,0025,Santa Cruz Milpillas,0335
+17,018,0031,Colonia Santa Úrsula,0335
+17,020,0111,Camino Antiguo a Tepoztlán,0085
+17,020,0113,Lomas del Pedregal,0085
+17,021,0014,Colonia Sonora,003A
+17,021,0024,Colonia el Charco,003A
+17,023,0003,El Vigía (San Nicolás del Monte),0053
+17,024,0004,Barranca Honda,0135
+17,024,0133,Colonia Niños Héroes,039A
+17,024,0134,Fraccionamiento Bonanza (Condominios Pontevedra),039A
+17,025,0004,Coaxitlán,0128
+17,026,0003,Cuauhtempan (San Andrés Cuauhtempan),0036
+17,026,0004,Los Laureles (San José de los Laureles),0036
+17,026,0007,El Ahuehuete,0036
+17,026,0008,Las Vivianas,0036
+17,026,0010,Jardines de Tlayacapan,0036
+17,026,0017,Colonia Texalo (La Cerámica),0036
+17,026,0019,Valle de Oaxtepec,0036
+17,026,0022,Unidad Habitacional Lázaro Cárdenas,0036
+17,026,0034,Colonia Joyas del Astillero,0036
+17,026,0048,Colonia el Partidor,0036
+17,026,0059,Colonia el Partidor (El Capulín),0036
+17,029,0007,Ignacio Bastida (Santa Catarina Tlayca),0771
+17,029,0108,Tabachines,024A
+17,029,0115,Curva Melón Zacate,0860
+17,029,0117,El Fortín,0220
+17,029,0158,Emiliano Zapata (Casahuates),0860
+17,030,0021,Adolfo López Mateos,0062
+17,030,0098,Cerro del Temecate,0077
+17,033,0004,Popotlán (Barrio Santo Tomás),0030
+18,001,0016,El Tejón (El Cantón),0027
+18,001,0089,San Dieguito de Abajo,0116
+18,001,0102,El Tigre,0031
+18,002,0009,Las Cebollas,0058
+18,002,0016,La Gloria,001A
+18,002,0034,Santa Isabel,001A
+18,002,0038,Tetitlán,001A
+18,002,0039,Uzeta,001A
+18,004,0089,Juan Escutia (Borbollón),0086
+18,004,0093,Lima de Abajo,0141
+18,004,0111,El Molote,0141
+18,004,0132,Las Piedras,0141
+18,004,0315,Buenavista,0141
+18,004,0564,El Refilión,0086
+18,006,0040,San José de Gracia (El Pueblito),0131
+18,008,0004,Aquiles Serdán,0028
+18,008,0021,Testerazo,0028
+18,008,0129,Crucero de Camichín,0047
+18,008,0161,Valles del Nayar,0047
+18,009,0069,Las Higueras,0453
+18,009,1195,Ciénega del Mango,0646
+18,010,0036,El Tamarindo,0365
+18,011,0010,Heroico Batallón de San Blas (La Noria),0023
+18,011,0015,Juan Escutia,0023
+18,011,0024,Puerta de Platanares,0061
+18,012,0006,Boca del Asadero,0016
+18,012,0013,La Culebra,0020
+18,012,0039,Playa de los Cocos,0092
+18,012,0045,Tecuitata,0092
+18,013,0011,Puerta del Río,0013
+18,013,0015,Tepetiltic,0013
+18,014,0006,Colonia el Ahualamo,010A
+18,015,0022,El Corte (El Tuchi),0234
+18,015,0028,Gavilán Chico,0234
+18,015,0054,El Puente,0234
+18,015,0406,Reynosa,0126
+18,016,0004,Antonio R. Laureles,0157
+18,016,0006,El Arrayán,0161
+18,016,0043,Río Viejo,0049
+18,016,0050,Tierra Generosa,0161
+18,016,0079,El Macho (Pozo de Higueras II),0157
+18,017,0106,Bellavista,0830
+18,017,0121,La Fortuna,0830
+18,017,0126,El Izote,0173
+18,017,0283,La Corregidora,0417
+18,017,0437,Roseta (La Tristeza),0826
+18,017,0698,La Pirámide,1491
+18,019,0155,El Pinal,0318
+18,020,0046,Lo de Marcos,0022
+18,020,0091,Los Sauces,0018
+18,020,0581,Los Peña,0126
+19,001,0046,Colinas del Fraile,0017
+19,004,0014,Lazarillos de Abajo,0019
+19,004,0022,Los Sabinos (Sabinos de Abajo),0038
+19,004,0050,Atongo de Abajo (Atongo Allende),0038
+19,006,0005,Agua Fría,0634
+19,007,0019,La Escondida,0468
+19,007,0076,La Trinidad,0171
+19,007,0170,Las Juanas,0025
+19,009,0002,Las Abras de Abajo,0087
+19,009,0014,El Barranquito,0104
+19,009,0015,El Barranquito,0119
+19,009,0031,Los Cerritos,0119
+19,009,0085,Palmitos (Hacienda Palmitos),0091
+19,009,0114,San Bartolo (Puerto Rico),0053
+19,009,0124,San Juan (El Calvario),0068
+19,009,0125,San Juan de los Garza (San Juanito),0049
+19,009,0127,San Lorenzo,0091
+19,009,0129,San Miguelito,0091
+19,009,0132,San Rafael,0087
+19,009,0144,El Saucito (El Sauz),0049
+19,009,0145,La Senda,0087
+19,009,0157,Hacienda las Trancas,0104
+19,009,0234,Hacienda del Cielo,0049
+19,009,0586,San Rafael,0049
+19,009,0619,El Barranquito (Campestre),0104
+19,009,0665,Misión Antigua,0049
+19,009,0674,Las Palmas,0087
+19,009,0688,Las Palmas,0123
+19,010,0113,Emiliano Zapata,0016
+19,012,0227,Las Americas [Parque Industrial],0010
+19,014,0002,Acuña,0354
+19,014,0017,Boquillas,0890
+19,014,0021,Capaderito,0354
+19,014,0037,La Chiripa,0890
+19,014,0059,La Lajita,0852
+19,014,0088,Presa de Guadalupe,0706
+19,014,0104,Rancho Largo,0903
+19,014,0129,San Gregorio,0890
+19,014,0134,San José de Flores,0941
+19,014,0153,San Vicente de la Puerta,0903
+19,015,0027,Francisco I. Madero,0031
+19,017,0002,Los Adobes,0159
+19,017,0026,La Concha,0125
+19,017,0048,Laguna de Labradores,0939
+19,017,0054,Margaritas,1123
+19,017,0080,La Paz,0801
+19,017,0104,La Primavera (El Charco),102A
+19,017,0114,Refugio de los Ibarra,1053
+19,017,0115,El Refugio (Refugio de los Ranchos),006A
+19,017,0132,San Joaquín,0799
+19,017,0142,San José de Raíces,1015
+19,017,0163,Santa Fe,052A
+19,018,0015,El Durazno,0207
+19,018,0021,La Gloria,018A
+19,018,0043,Los Elotes (Villa de García),0175
+19,018,0081,San Isidro,0090
+19,022,0008,Ampliación de la Laguna,0055
+19,022,0025,Las Brisas,0341
+19,022,0070,Dolores,0360
+19,022,0114,La Laguna,0106
+19,025,0214,Parque Tecnológico Monterrey [Parque Industrial],0023
+19,025,0295,Portal de Zuazua,0023
+19,029,0044,La Laja,0022
+19,030,0014,La Colorada,0023
+19,031,0071,San José,0213
+19,031,0257,Carricitos,0035
+19,032,0046,Ranas,0329
+19,033,0008,Los Álamos,0928
+19,033,0010,Los Álamos,0928
+19,033,0056,El Caracol,0218
+19,033,0152,El Fresno,0913
+19,033,0187,Río Verde (Lampazos),0788
+19,033,0216,Hacienda de Moras,0078
+19,033,0277,El Popote (El Poblado),0792
+19,033,0306,La Reforma,0311
+19,033,0430,La Parrita (Los Terreros),0881
+19,033,0437,El Troncón,0218
+19,033,0767,Nuevo Cerro Prieto,0805
+19,033,1108,Las Carolinas,0862
+19,035,0050,Bicentenario,0091
+19,036,0004,Cerros Blancos,0239
+19,036,0008,Jesús María del Terrero (El Lindero),0188
+19,036,0015,La Presita de Cerros Blancos (La Presita),0224
+19,037,0026,Espinazo (Espinazo Nuevo León),0541
+19,038,0016,El Alto,0163
+19,038,0041,Congregación Calles,0040
+19,038,0042,Canoas,0040
+19,038,0070,Valle Hidalgo (El Cueral),0017
+19,038,0107,El Fraile,0017
+19,038,0202,Las Palomas (La Curva),0093
+19,038,0239,Rancho Escondido,0021
+19,038,0310,El Toro,0144
+19,038,0377,El Nogalito (El Barranco),0021
+19,038,0378,Hacienda de Enmedio,0036
+19,038,0671,El Consuelo (Echavarría),0055
+19,038,0871,Mil Encinos,0055
+19,038,0892,Country Hill,0093
+19,038,0893,Privanzas,0106
+19,038,0914,Country Hill,0093
+19,038,0934,El Faro 2,0017
+19,038,0961,Vista Encinos,0074
+19,040,0008,Cinco de Mayo,0195
+19,040,0010,Charco Blanco,0250
+19,041,0040,La Providencia,0046
+19,041,0063,Francisco Villa,0031
+19,042,0028,Los Ébanos,0236
+19,042,0061,La Posada,0077
+19,042,0074,San Benito,0024
+19,042,0294,El Ayancual [Deportivo],0077
+19,044,0424,Graciano Bortoni,0086
+19,044,0452,Sabinas Hidalgo [Parque Industrial],0758
+19,049,0027,Potrero de Serna (La Nogalera),0398
+19,049,0168,Misión Antigua,035A
+19,050,0002,El Álamo (Hacienda el Álamo),0399
+19,050,0012,Los Colorados de Abajo,0168
+19,050,0022,Fresnillo,0384
+19,050,0034,Palo Alto (Palo Alto y Ayaleño),0350
+19,050,0039,El Recuerdo (Los Vera),0401
+19,051,0002,El Álamo [Estación],0095
+20,002,0005,Aserradero Segundo,0055
+20,002,0020,La Junta,0055
+20,002,0058,Colonia Josefa Ortiz de Domínguez,0125
+20,002,0117,Buenos Aires,0089
+20,002,0210,Los Huertos [Fraccionamiento],006A
+20,005,0054,Quinta Sección,0127
+20,005,0057,Tecnológico [Barrio],0127
+20,006,0014,Santiago Mitlatongo,0069
+20,006,0102,El Carrizal,0020
+20,009,0012,Plan Juan Martínez,0022
+20,009,0013,San José Mano Marqués,0022
+20,010,0004,Cuajinicuil,0019
+20,010,0006,Lachigoló,0023
+20,010,0009,Los Nanches,0023
+20,010,0010,Nizaconejo,0042
+20,010,0012,Rincón Vaquero,0057
+20,010,0013,Río Grande,0023
+20,010,0018,La Haciendita,0042
+20,010,0042,El Sardinero,0023
+20,010,0048,Llano Redondo,0023
+20,010,0058,Llano de la Soledad,0042
+20,010,0067,San Isidro,0042
+20,011,0002,San Antonio o las Mesas,0016
+20,012,0026,El Alacrán,0013
+20,015,0004,Las Salinas,0034
+20,015,0005,Tepehuaje,002A
+20,016,0007,La Trinidad,0012
+20,016,0018,Lázaro Cárdenas,0012
+20,016,0025,Cerro Hidalgo,0012
+20,021,0003,Colonia Agrícola Miguel Hidalgo,0031
+20,021,0005,Morelos,0027
+20,021,0008,Rancho Tablas Reyes,0027
+20,021,0031,Rancho Tablas de Reyes Carrizal (San Miguel),0027
+20,023,0010,Manzano,0017
+20,023,0031,Libramiento a Jalpan,0017
+20,023,0032,El Zompantle [Parajes Unidos],0017
+20,023,0034,Lomas de San Juan,0017
+20,023,0038,Paraje Zavaleta,0017
+20,023,0041,Los Huertos [Colonia],0017
+20,023,0044,Rancho Areche [Paraje],0017
+20,023,0047,Los Mangales,0017
+20,026,0009,Iturbide,0038
+20,027,0003,La Concepción,0016
+20,028,0002,El Arrogante Justo Benítez,0051
+20,028,0008,La Noria de Ortiz,0032
+20,028,0011,Los Ocotes,0047
+20,028,0017,San Matías Chilazoa,0032
+20,028,0018,Santa Cruz Nexila,0032
+20,028,0020,El Saúz,0051
+20,028,0042,La Escalera,0066
+20,031,0007,Tierra Blanca,0019
+20,031,0008,Tierra Caliente,0019
+20,033,0003,La Capellanía,0013
+20,033,0004,La Resurrección [Paraje],0013
+20,036,0017,El Porvenir,0034
+20,037,0020,La Soledad,0027
+20,039,0002,Acatlima,0055
+20,039,0007,El Castillo,0055
+20,039,0009,Dolores,0055
+20,039,0012,La Junta,0089
+20,039,0016,Rancho Ramírez,0055
+20,039,0019,San Miguel Papalutla,0074
+20,039,0034,Las Campanas,006A
+20,039,0038,FIDEPAL (Colonia Lázaro Cárdenas del Río),006A
+20,039,0051,El Tatoto (Palo de Flor),006A
+20,039,0055,San Sebastián Progreso,0089
+20,039,0063,Reforma Agraria,0055
+20,039,0064,San Francisco Yosocuta,0074
+20,039,0065,Saucitlán de Morelos,0074
+20,041,0124,Santa Catarina Buenavista,0034
+20,042,0002,La Josefina,0012
+20,043,0025,Playa San Vicente,0202
+20,043,0152,Colonia San Isidro,0202
+20,043,0153,Colonia San Vicente,0185
+20,043,0208,10 de Abril [Colonia],0185
+20,043,0222,Las Palmas [Fraccionamiento],0185
+20,044,0009,Desparramadero,0110
+20,044,0022,Santa Sofía Monte Rosa,0093
+20,044,0030,San Benito Encinal,006A
+20,044,0068,Santa Sofía Río Playa,0093
+20,044,0090,Arroyo la Palma,0089
+20,045,0003,San Isidro Catano,0014
+20,045,0006,La Libertad Xochimilco (Segunda Sección),0014
+20,045,0008,Ex-Hacienda Catano [Fraccionamiento],0014
+20,052,0004,Las Majadas,0023
+20,052,0009,Colonia Marilú,0038
+20,052,0033,Lázaro Cárdenas,0057
+20,057,0009,Colonia Gabriel Ramos Millán,0161
+20,057,0019,El Paguital,0138
+20,057,0026,Donají,0123
+20,057,0210,Barrio Nuevo,0227
+20,058,0003,Agua Duende,0027
+20,059,0003,Agua de Sol,0039
+20,059,0005,Cerro Gordo,0077
+20,059,0011,San Felipe Yegachín,0058
+20,059,0012,San Guillermo,0039
+20,059,0021,El Tecolote,0062
+20,059,0041,El Zompantle,0043
+20,059,0046,La Estancia,0043
+20,059,0100,La Labor del Rosario,0062
+20,059,0108,Parada San Antonio,0062
+20,059,0115,Sitio de Lachidoblas,0081
+20,059,0120,Colonia Nuevo Amanecer,0077
+20,059,0130,La Raya,0062
+20,059,0144,Colonia San Isidro,0077
+20,059,0145,Colonia Pajaritos,0062
+20,059,0148,El Llano,0062
+20,061,0002,Santa María Velató,0018
+20,061,0007,Los Pocitos Monjas,0018
+20,063,0002,Lomas de Nazareno,0027
+20,068,0003,La Chilaíta,0038
+20,068,0004,San Cristóbal Ixcatlán,0038
+20,068,0007,San Jacinto Chilateca,0038
+20,068,0015,San Pedro Guegorexe,0038
+20,068,0022,Ex-Hacienda Tocuela,0038
+20,072,0002,Lachilana,0011
+20,072,0005,El Porvenir,0011
+20,073,0116,El Carrizal de Galeana,0080
+20,073,0119,San Jorge Río Frijol,0023
+20,073,0120,San Miguel Copala,0057
+20,073,0124,Llano Aguacate,0057
+20,077,0003,San Lázaro Etla,0018
+20,079,0030,Colonia la Brecha,0116
+20,083,0007,El Ranchito,0015
+20,085,0010,Quelové,001A
+20,085,0011,San Francisco Loxicha,0043
+20,085,0034,El Recuerdo,0043
+20,091,0003,14 de Febrero (El Monchón),0017
+20,097,0003,Santo Domingo Yojovi,0010
+20,098,0013,Colonia Constitución,0022
+20,098,0027,Guadalupe (Barrio Guadalupe),0018
+20,102,0003,San Isidro,0012
+20,103,0002,Lachicuvica,0024
+20,105,0006,San Miguel Monteverde,0014
+20,105,0007,San Isidro Monteverde,0014
+20,110,0002,Buenavista,0014
+20,110,0006,Yosocahua,0014
+20,114,0003,San Jerónimo Zoochina,0013
+20,115,0012,La Colorada [Paraje],0010
+20,121,0006,La Unión Reforma,0018
+20,123,0003,San Jerónimo Tititlán,0027
+20,124,0018,Tierra Blanca,0062
+20,126,0004,San Lorenzo Mixtepec,0033
+20,127,0003,Cabeza del Río,0011
+20,130,0002,Huamúchil,0021
+20,133,0002,Benito Juárez,0019
+20,133,0004,Mier y Terán,0019
+20,133,0007,Ndoyonoyuji (Ciénega de Flores Amarillas),0019
+20,138,0002,San Miguel Cajonos,0015
+20,141,0003,Puerto Estero,0097
+20,141,0075,Colonia 12 de Abril,0059
+20,141,0085,Colonia Villanueva,0044
+20,141,0099,Santa Rita,0114
+20,141,0100,El Vergel del Maíz,0044
+20,141,0101,Primera Sección,0044
+20,141,0106,Puerto Grande,0114
+20,143,0063,Cachimbo,0049
+20,145,0006,El Pocito [Paraje],0077
+20,154,0003,La Reforma,0019
+20,165,0003,San Rafael,0012
+20,166,0004,Arroyo Frijol,001A
+20,166,0010,Cerro Flores,001A
+20,166,0015,La Guadalupe,0039
+20,166,0017,Leyes de Reforma,0024
+20,166,0068,Roberto Olivares Arellano,0024
+20,169,0005,El Tepeyac,0030
+20,171,0040,Cerro Palmera,0024
+20,174,0003,El Zapotillo,0011
+20,175,0003,Zoquiápam Boca de los Ríos,0038
+20,176,0003,Estancia,0035
+20,176,0004,Río Blanco,0016
+20,177,0007,San José del Chilar,0066
+20,178,0002,Asunción Etla,0010
+20,178,0004,San Miguel Etla,0010
+20,178,0011,Santa Catarina [Paraje],0010
+20,184,0035,Mundo Nuevo,0094
+20,184,0039,El Paraíso Zacatal,0179
+20,184,0042,Paso Rincón,0060
+20,184,0048,Rodeo Arroyo Pepesca,0145
+20,184,0055,San Miguel Obispo,0111
+20,184,0071,Zacate Colorado,0075
+20,184,0087,Fuente Villa,0111
+20,184,0117,Pueblo Nuevo Ojo de Agua,0183
+20,184,0122,Soledad Macín Chico,0126
+20,184,0123,La Unión,0164
+20,184,0393,Raúl Ferrer [Colonia],0126
+20,184,0404,Emiliano Zapata [Colonia],0094
+20,185,0008,La Culebra,002A
+20,188,0020,La Soledad,0017
+20,190,0002,Arroyo Carrizal,0049
+20,190,0017,Nuevo Cerro Mojarra,0104
+20,190,0020,El Porvenir,0053
+20,190,0168,Arroyo Venado,0142
+20,198,0005,Boca del Monte,0117
+20,198,0011,Estación Mogoñé,0070
+20,198,0013,Ocotal,009A
+20,198,0014,Paso Real de Sarabia,0051
+20,198,0025,Brena Torres,0028
+20,198,0089,La Zacatera,0117
+20,198,0110,Arroyo Lirio,0028
+20,198,0112,Nuevo Brena Torres,0028
+20,198,0117,Plan de San Luis,0136
+20,201,0002,Las Delicias,0010
+20,205,0002,Arroyo Blanco,0039
+20,205,0005,Arroyo Plátano,0024
+20,205,0011,Monte Negro,0039
+20,205,0012,Colonia Morelos,001A
+20,205,0017,San Jorge el Porvenir,0062
+20,205,0018,San José Río Manzo,001A
+20,205,0022,San Miguel (La Paz),0039
+20,205,0023,San Pedro Tres Arroyos,0062
+20,205,0025,Santiago Jalahui,0081
+20,205,0027,Yogope,0039
+20,205,0030,San Juan Evangelista,0039
+20,205,0037,Santa Cecilia de Madero,0039
+20,205,0048,Santa María la Nopalera,0077
+20,205,0066,José López Portillo,0043
+20,206,0002,Contlalco,0021
+20,206,0008,Ciénega,0021
+20,206,0009,Barrio Santiago,0021
+20,207,0006,La Mixtequita,0086
+20,207,0010,San José de las Flores,0014
+20,207,0024,12 de Julio,0029
+20,207,0025,San José de los Reyes el Pípila,0029
+20,207,0030,La Esperanza,0029
+20,207,0034,La Nueva Esperanza,0156
+20,207,0049,Tierra Nueva,0071
+20,207,0050,Lázaro Cárdenas,0086
+20,207,0079,La Palestina,0086
+20,207,0081,Los Raudales,0029
+20,207,0088,La Soledad,0086
+20,208,0009,Mesón de Guadalupe Primera Sección,0026
+20,208,0065,Yosonduu,0064
+20,208,0083,Mesón de Guadalupe,0026
+20,210,0004,Sabinillo,001A
+20,210,0008,San Pedro Ñumí,0043
+20,210,0009,Santo Domingo Yosoñama,0024
+20,210,0012,San Pedro Yosoñama,0024
+20,210,0015,San Isidro Yosoñama,0024
+20,210,0025,Pueblo Nuevo,0024
+20,213,0002,Cieneguilla,005A
+20,214,0002,Maninaltepec,0023
+20,217,0003,Monte Frío,0010
+20,227,0002,Guadalupe Hidalgo,0036
+20,229,0005,Río de Talea,0030
+20,230,0003,San Jerónimo Nuchita,0012
+20,232,0019,Cerro de Oro,0040
+20,234,0013,Peña Blanca,0011
+20,242,0006,Guadalupe,0028
+20,242,0049,La Joya Peras (Tivaá),0032
+20,244,0013,Inspectoría Independencia Guadalupe,0018
+20,248,0005,La Reforma,0017
+20,249,0003,Boca del Río San Mateo,0014
+20,255,0003,San Isidro (Agua de Lobo),0011
+20,259,0002,La Luz Tenexcalco,0010
+20,261,0022,Guadalupe Villahermosa,0019
+20,262,0002,Cuajimoloyas,0020
+20,262,0003,Llano Grande,0020
+20,265,0035,Benito Juárez (El Trébol),0022
+20,266,0010,Copalita la Hamaca,0053
+20,266,0014,El Granadillo,0053
+20,266,0016,Llano Jícara,002A
+20,266,0121,Santa Catarina Jamixtepec,0015
+20,269,0006,Madero,0036
+20,269,0009,Ignacio Zaragoza,0036
+20,271,0003,Barranca Fierro,0015
+20,274,0005,Río Minas,0017
+20,275,0003,Santa Cruz Condoy,0014
+20,275,0024,Pueblo Nuevo (Buenavista),0014
+20,275,0025,Margarita Huitepec,0029
+20,277,0008,Gulera,0061
+20,277,0016,Nachihuí,0061
+20,277,0019,San Isidro Ojo de Agua,0095
+20,277,0031,San Cristóbal,0112
+20,277,0035,San Sebastián de las Grutas,0076
+20,277,0045,Yoganita,0076
+20,277,0061,El Común,0131
+20,277,0068,El Carrizal,0108
+20,278,0006,La Candelaria,0088
+20,278,0020,Las Margaritas,0088
+20,278,0034,Playa de Jícama,004A
+20,278,0051,Cerro de Agua Platanar,0020
+20,278,0068,Playa Lecuona,0020
+20,278,0095,Loma Coyol San Martín,0073
+20,283,0002,Nata,0020
+20,289,0003,Bramaderos San Nicolás,001A
+20,290,0006,San Pedro Salinas,0010
+20,291,0005,San Isidro Comitlán,0037
+20,293,0004,San Sebastián,0027
+20,293,0009,La Borcelana,0027
+20,297,0009,San Lucas Redención,0011
+20,298,0004,Unión Zapata (Loma Larga),0038
+20,301,0002,Colonia Guadalupe,0054
+20,307,0009,Morro Ayuta,0109
+20,307,0012,Río Seco,0109
+20,307,0018,Santa María,0043
+20,308,0006,Colonia San Diego,0017
+20,310,0002,Rancho de los Audelo,0015
+20,310,0003,Buena Vista,0015
+20,310,0005,La Loma (Loma Grande),0015
+20,310,0009,Loma Bonita [Colonia],0015
+20,310,0010,El Vergel,0015
+20,310,0013,Arboleda,0015
+20,310,0017,Las Razas,0015
+20,310,0019,Jardines del Tepeyac,0015
+20,310,0020,Piedras Negras [Colonia],0015
+20,310,0033,Jazmines,0015
+20,310,0044,Cañada Grande [Colonia],0015
+20,310,0046,Wenceslao Victoria Soto,0015
+20,310,0050,25 de Mayo,0015
+20,310,0051,Los Sabinos,0015
+20,318,0005,San Andrés Copala,0013
+20,318,0007,Los Limones,0032
+20,318,0010,La Reforma,0028
+20,318,0012,El Salitre,0028
+20,318,0042,Puente San José,0032
+20,324,0010,San José Chacalapa,003A
+20,324,0011,Chepilme,003A
+20,324,0029,San Isidro Apango,0044
+20,324,0030,San Miguel Figueroa,003A
+20,324,0033,Santa María Limón,003A
+20,324,0037,Xonene,0025
+20,324,0039,Arroyo Zapote,003A
+20,324,0050,Corcovado Petaca,0044
+20,324,0052,El Piste,003A
+20,324,0084,Playa Zipolite,0063
+20,324,0098,La Lima [Barrio],003A
+20,324,0124,Palotada (San Juan Palotada),0078
+20,324,0125,Carnizuelo,0010
+20,324,0137,Nueva Chapingo [Colonia],0044
+20,324,0191,Barrio Nuevo Chapingo,0044
+20,324,0195,La Ciénega II,0044
+20,324,0208,Lomas de San Pedro [Fraccionamiento],0025
+20,324,0230,El Paraíso,0190
+20,324,0235,Los Naranjos Esquipulas,0010
+20,324,0237,San Pedro Cafetitlán,0190
+20,325,0023,La Mancornada,0075
+20,325,0038,San Pablo Lachiriega,0018
+20,325,0042,Unión Juárez,008A
+20,327,0006,Rincón Juárez,0099
+20,327,0009,Conchalito,0173
+20,327,0023,Trejo,0116
+20,327,0050,Pesquería Rancho Salinas,0116
+20,327,0051,Pesquería Puerto Paloma,0116
+20,327,0196,El Veintiocho,0116
+20,330,0012,Santo Domingo del Río,0022
+20,330,0024,Los Pinos [Colonia],0018
+20,333,0015,San José de Gracia,0043
+20,334,0009,La Cañada,006A
+20,334,0026,La Soledad,0125
+20,334,0030,La Pastoría,0144
+20,334,0035,San Felipe,0055
+20,334,0037,San Francisco de Arriba,0021
+20,334,0044,Santa Rosa de Lima,0106
+20,334,0133,Los Llanos del Espinal,0144
+20,336,0016,San Martín Buenavista,0011
+20,338,0003,Santo Domingo Barrio Alto,0020
+20,338,0006,Moctezuma [Colonia],0020
+20,338,0008,Santo Domingo Barrio Alto [Parque Industrial],0020
+20,339,0027,Santo Domingo Tlachitongo,0028
+20,340,0003,San Francisco Huapanapan,0014
+20,340,0006,San Miguel Ixtápam,0048
+20,342,0012,Rancho Viejo [Paraje],0019
+20,347,0002,Cieneguilla,0015
+20,348,0008,Guadalupe Nundaca,0046
+20,348,0016,San Mateo Tunuchi,0012
+20,351,0002,Río Anona,0018
+20,351,0008,La Estancia,0018
+20,351,0010,Barrio Oriente,0018
+20,351,0011,La Labor,0018
+20,358,0004,Rincón de Tlapacoyan,0019
+20,360,0003,San Isidro Zegache,0021
+20,364,0014,Pie del Cerro,0073
+20,364,0022,Santa María Yolotepec,0020
+20,365,0002,Benito Juárez,0028
+20,377,0003,Guerrero,0029
+20,377,0022,El Chamizal,0033
+20,378,0002,Emiliano Zapata,0011
+20,378,0003,San Mateo Mixtepec,0011
+20,381,0002,San José de la Pradera,0017
+20,383,0002,La Estancia,0011
+20,385,0003,Arrazola,0020
+20,385,0007,San Francisco Javier,0020
+20,385,0008,San Isidro Monjas,029A
+20,385,0046,Los Puentes Cuaches,029A
+20,385,0066,Los Nogales [Colonia],0020
+20,385,0094,Rancho Quemado [Paraje],0020
+20,386,0008,El Cucharal,0028
+20,386,0015,El Portillo,0032
+20,386,0081,La Conchita,0051
+20,387,0002,La Barda Paso de Piedras,0025
+20,388,0002,El Carmen,0018
+20,388,0005,La Lobera,0018
+20,392,0016,Moctezuma,0025
+20,396,0002,Llano de Agua,001A
+20,396,0003,San Agustín Nuevo,001A
+20,397,0003,Campo de Aviación,0055
+20,397,0004,Cañada María (Primera Sección),0036
+20,397,0008,Guadalupe Hidalgo,0021
+20,397,0009,San Juan las Huertas,0055
+20,397,0012,La Lobera,0055
+20,397,0013,Llano de Guadalupe,0089
+20,397,0016,Nueva Reforma,0036
+20,397,0023,Barrio de San Pedro,0074
+20,397,0032,Barrio de San Diego,0021
+20,397,0035,Licenciado Adolfo López Mateos,0021
+20,397,0048,Los Ángeles,006A
+20,397,0053,Ejido Ojo de Agua (El Vergelito),0074
+20,397,0068,El Capulín,0021
+20,397,0101,Cruz Llorada,0036
+20,397,0102,Arboleda,0036
+20,397,0105,Mexicalcingo de los Granados,0055
+20,397,0108,San Felipe Tindaco,0089
+20,397,0109,San Pedro Yosotatu,0089
+20,397,0110,Santo Domingo Huendío,0089
+20,397,0111,La Unión,0074
+20,397,0125,Colonia del Valle,0055
+20,397,0126,Guadalupe [Colonia],0074
+20,397,0136,San José Patriarca,0089
+20,398,0002,Guegovela,0029
+20,399,0002,Montealbán,0026
+20,399,0006,La Soledad,0026
+20,399,0008,La Cañada,0026
+20,399,0023,Loma de la Virgen [Paraje],0026
+20,399,0028,La Cañadita,0026
+20,399,0029,Perla de Antequera,0026
+20,399,0040,La Cazahuatera,0026
+20,401,0002,El Bajo,0026
+20,401,0018,El Tomatal,005A
+20,401,0020,Valdeflores,005A
+20,401,0021,Ventanilla,0045
+20,401,0025,San José el Quequestle,0011
+20,401,0061,El Salitrero,0030
+20,401,0099,Nuevo Amanecer San Jacinto [Colonia],0026
+20,403,0003,Paraje Loma de Lucero,0016
+20,403,0008,Proyecto 2000 [Fraccionamiento],0016
+20,403,0012,Paraje Campo Lucero,0016
+20,404,0002,San Agustín Montelobos,0013
+20,406,0004,Benito Juárez,0037
+20,406,0038,Zongolica,0041
+20,406,0061,Río Sapo,0056
+20,406,0120,El Naranjo,0037
+20,407,0008,Santa Inés,0392
+20,407,0018,Chalchijapa,0212
+20,407,0024,San Francisco la Paz,0072
+20,407,0041,Río Hamaca,0104
+20,407,0064,Dos Arroyos (La Paz),0034
+20,409,0002,Güendulain,001A
+20,413,0005,Arroyo Súchil,0031
+20,413,0007,Bajos del Arenal,0050
+20,413,0050,Huatunalco (Barra de Huatunalco),0050
+20,413,0054,El Faisán [Fraccionamiento],0027
+20,413,0114,Arroyo Chahué,0046
+20,413,0116,Colonia Vicente Guerrero,0031
+20,413,0119,Río Tangolunda (La Jabalina),0031
+20,413,0154,El Parajito 1,0046
+20,414,0009,Santa María Chicometepec,0043
+20,417,0063,El Manantial,0011
+20,418,0005,Llano Vería,0042
+20,418,0008,San Cristóbal,0095
+20,418,0020,Pochotillo,0095
+20,418,0039,El Marqués [Fraccionamiento],0095
+20,420,0009,Rincón Hacienda Vieja,0017
+20,420,0010,Loma Larga,0017
+20,421,0003,Kilómetro 10 Nizzapipi (San Antonio),0033
+20,421,0016,Santa Teresa de Jesús,0033
+20,426,0002,San José Contreras,0044
+20,426,0016,El Manzanito Tepantepec,003A
+20,426,0035,Cañada de Espina,003A
+20,427,0002,Buenavista,0022
+20,427,0006,La Princesa (El Polvorín),0018
+20,427,0025,El Bajío,0111
+20,427,0026,Las Flores,0111
+20,427,0031,Llano Suchiapa,0022
+20,429,0004,Santa Rosa Matagallinas,0012
+20,435,0005,Mosquito Blanco,001A
+20,439,0006,Cerro Gordo,0057
+20,439,0024,San Francisco Cozoaltepec,0019
+20,439,0034,Rincón Alegre,0061
+20,439,0042,Frutilla,0061
+20,439,0056,Villa Unión,0038
+20,439,0060,La Culebra [Barrio],0023
+20,439,0066,Palma Larga,0023
+20,439,0092,Santa Elena el Tule,0023
+20,439,0120,Arroyo Tres,0061
+20,441,0041,Nueva Vida [Colonia],0021
+20,447,0003,San Felipe Atotonilco,0010
+20,447,0004,San Juan Cabeza del Río,0044
+20,447,0007,Coyul Grande,0044
+20,447,0018,San Juan Viejo,0025
+20,447,0019,San Miguel,0078
+20,452,0003,San Sebastián Ocotlán,0025
+20,453,0011,Barra de la Cruz,0018
+20,453,0012,Zimatán,0018
+20,455,0003,Santa Catarina Estancia,0012
+20,459,0011,Barrio Santa Lucía,005A
+20,459,0040,Maninaltepec,005A
+20,460,0004,San Juan del Río,0065
+20,466,0004,El Carasol,004A
+20,466,0008,La Humedad,0035
+20,466,0010,Llano Verde,0054
+20,466,0011,El Mosco,0054
+20,467,0006,Charco Nduayoo,0066
+20,467,0011,La Humedad,0085
+20,467,0014,Piedra Ancha,0085
+20,467,0023,La Tuza,0136
+20,467,0028,Emiliano Zapata (Chiapas),0085
+20,468,0012,Plan Martín Chino,0010
+20,468,0013,Plan Mata de Caña,0025
+20,468,0014,Playa Limón,0025
+20,468,0033,El Ojo de Agua,0044
+20,469,0009,Concepción Carrizal,0060
+20,469,0018,La Brama Paraje Pérez,0107
+20,469,0025,La Sabana,0107
+20,469,0029,San Juan Copala,0107
+20,469,0042,Tinuma de Zaragoza,0022
+20,469,0066,La Luz Llano de Nopal,0094
+20,469,0070,Paso de Águila Copala,0094
+20,469,0081,Agua Fría Copala,0060
+20,469,0106,Laguna Guadalupe Yucunicoco,0060
+20,469,0116,Santo Domingo del Progreso,0022
+20,477,0003,Coquito,001A
+20,481,0007,Yucubey de Cuitláhuac,0012
+20,483,0002,Santa Cruz Lachixolana,0021
+20,484,0005,Santa Ana Rayón,0014
+20,485,0009,San Isidro,0026
+20,491,0002,Buena Vista,0023
+20,491,0003,El Frijol,0019
+20,491,0005,San Isidro Llano Yerba,0023
+20,491,0007,Recibimiento de Cuauhtémoc,0038
+20,492,0024,Guadalupe Llano de las Avispas,0035
+20,494,0002,El Portezuelo,0025
+20,494,0066,Santiago Huaxolotipac,0025
+20,498,0018,Santa María Yaveo,0077
+20,507,0016,Lagunillas,0010
+20,509,0009,San José Piedras Negras,002A
+20,509,0010,Cañada Brava,002A
+20,509,0013,Las Pilas,002A
+20,509,0015,Piedra del Sol,0015
+20,509,0017,Bajos de Santo Domingo,0015
+20,510,0010,Reyes Ixcatlán,0016
+20,513,0007,El Tejón,0037
+20,513,0014,El Campanario,0041
+20,515,0005,Concepción Bamba,0188
+20,515,0051,Colonia San Luis,0116
+20,515,0114,Santa María Nativitas Coatlán,0328
+20,516,0004,El Hoyo,001A
+20,517,0003,Río Ramal,0017
+20,517,0009,Loma Larga,0017
+20,520,0004,San Juan Reyes,0012
+20,520,0026,Vista Hermosa Lázaro Cárdenas,0012
+20,525,0005,Huanacastal,0080
+20,526,0032,Cañada de los Matus,0035
+20,526,0099,El Paraíso,0035
+20,526,0101,San Isidro Campechero,004A
+20,534,0003,San Isidro la Cañada,0018
+20,537,0019,Santiago Patlanalá,0062
+20,545,0003,San Bernardino,0030
+20,545,0004,Vigastepec,0030
+20,549,0003,Guadalupe de Cisneros,003A
+20,549,0008,San Andrés Yutatío,0025
+20,549,0009,San Isidro Zaragoza,0063
+20,553,0024,Santa Catalina de Sena,0028
+20,554,0002,San José Chinantequilla,003A
+20,555,0003,Santa María Roaló,0018
+20,555,0009,Las Flores [Paraje],0018
+20,557,0033,14 de Febrero [Colonia],007A
+20,559,0021,Paso Nuevo la Hamaca,006A
+20,559,0056,Miguel Hidalgo,006A
+20,559,0069,La Trinidad (Hondura de Nanche),0036
+20,565,0002,Emiliano Zapata,0048
+20,565,0015,San Pedro la Reforma,0048
+20,565,0037,Ninguno,0048
+20,566,0008,El Sabino,0030
+20,567,0003,Guadalupe del Recreo,0038
+20,567,0007,Santa Cruz Vista Hermosa,0023
+20,567,0012,San Miguel Hidalgo,0023
+20,570,0002,La Raya,0090
+20,570,0003,San Nicolás Quialana,0103
+20,570,0006,San Sebastián Río Dulce,0071
+20,570,0008,Santa María Vigallo,0103
+20,570,0011,Valdeflores,0226
+20,570,0012,Las Juntas,0071
+20,570,0013,Las Huertas,0071
+20,570,0020,La Cumbre Clavellinas,0086
+20,570,0096,San José Guelatová de Díaz,0226
+21,003,0017,Tetelcingo,0080
+21,003,0019,La Trinidad (Los Hobos),0095
+21,008,0008,Tenejaque,0015
+21,010,0002,San Sebastián Alcomunga,0085
+21,010,0038,Moyotepec,0066
+21,015,0055,Haras Ciudad Ecológica,0062
+21,015,0094,Edgardo Amilcar Campos [Colonia],0058
+21,016,0015,El Terrero,0017
+21,016,0020,Pachuquilla,0017
+21,019,0052,La Sabana (San Juan la Sabana),0199
+21,019,0071,San Juan Tejaluca,0752
+21,031,0006,Zaragoza,0028
+21,034,0020,Curitiba,0034
+21,035,0003,Chichiltepec,0065
+21,036,0016,Xocotla,001A
+21,043,0039,Zacatipan,0029
+21,044,0032,Texcal,0134
+21,045,0015,Guadalupe Sabinal,0095
+21,047,0026,Centeocala,0244
+21,047,0033,Cruz Verde,0066
+21,049,0014,San Lorenzo Tlaxipehuala,0022
+21,051,0002,Ahuehuetzingo,0088
+21,051,0021,San Miguel la Toma,0073
+21,051,0025,San Miguel Tecolacio,0088
+21,051,0053,La Palma (El Trinquete),0088
+21,053,0005,Atlamaxac,0097
+21,053,0018,Loma Alta,0097
+21,053,0150,Lázaro Cárdenas (Tzitla),0082
+21,058,0015,San Miguel Calixitla (Miguel Hidalgo),0021
+21,058,0037,Teteltitla,0036
+21,058,0038,Barrio del Corazón de Jesús Tercera Sección,0021
+21,063,0015,San Manuel la Puerta,0036
+21,065,0009,San José Buenavista,0030
+21,069,0004,Champusco (Secundaria Técnica Número 4) [Escuela],003A
+21,069,0012,El Progreso,003A
+21,069,0015,San Juan Bautista,003A
+21,069,0022,Soledad Morelos,003A
+21,070,0009,Quetzalapa (San Baltazar Quetzalapa),0011
+21,070,0011,Tepanacitla (Guadalupe Tepanacitla),0026
+21,070,0013,Tochmatzintla,0026
+21,070,0031,Barranca San Miguel,0026
+21,071,0011,Cuautlita,0428
+21,071,0015,Ixhuacatla,0428
+21,071,0017,Mesa de Capulines,0076
+21,071,0021,Papatlatla,0428
+21,071,0032,Texcapa,0057
+21,071,0033,Tlacomulco,0428
+21,071,0061,Colonia PEMEX (Hueyatlagco),0428
+21,074,0071,Los Volcanes,0097
+21,074,0103,Emiliano Zapata,0218
+21,074,0112,Primer Barrio,0097
+21,075,0004,La Aurora,0018
+21,082,0007,Santa Cecilia Clavijero,0027
+21,083,0006,Las Barrancas,0043
+21,083,0059,Minillas (La Garita),0062
+21,085,0003,El Aguacate,0137
+21,085,0009,San José las Bocas,0067
+21,085,0010,San Pedro Calantla,0067
+21,085,0032,San Martín la Flor (La Flor Colorada),018A
+21,087,0005,Santiago Mitepec,0076
+21,087,0009,Teutla,0061
+21,093,0023,San Isidro,004A
+21,094,0029,San José la Libertad,0028
+21,098,0005,San Luis Tehuizotla,0027
+21,099,0010,Llano Grande Ixtapa,0077
+21,099,0011,Puerta Cañada,0043
+21,099,0012,San Antonio Soledad,0043
+21,106,0002,Santiago Coltzingo,0054
+21,110,0007,Encrucijada Primera Sección,0061
+21,111,0009,Cayhuapan,0069
+21,111,0026,San Antonio,004A
+21,113,0014,Loma Bonita,0059
+21,114,0129,Los Ángeles Tetela,1069
+21,114,0405,Conjunto Campestre Haras,1088
+21,114,0412,Ojocotla,104A
+21,114,0418,San Miguelito,1035
+21,114,0440,Santa Clara la Venta,1054
+21,114,0447,Agua Santa,1073
+21,114,0513,San Miguel la Venta,1321
+21,115,0007,Guadalupe Enríquez,0053
+21,115,0026,Ejido Palmarito,0053
+21,120,0002,Colonia Cuitlaxtepec,002A
+21,123,0007,Pachoc,0017
+21,141,0006,San José Agua Zarca,0015
+21,147,0003,La Concepción,0042
+21,150,0002,San Agustín Ahuehuetla,0029
+21,152,0008,San Mateo Soltepec,0019
+21,152,0015,Colonia Benito Juárez,0019
+21,153,0008,Santa Cruz Ajajalpan,0016
+21,153,0013,Aquiles Serdán,0035
+21,154,0047,Rancho el Laurel (El Laurel),0066
+21,155,0007,Quicayán,0025
+21,156,0099,Quebradora Santa Mónica,0412
+21,156,0100,Colonia Guadalupe,0268
+21,156,0171,Cristo Rey,0234
+21,156,0216,Colonia 18 de Marzo,0249
+21,157,0007,Los Hornos de Zaragoza,0068
+21,157,0012,San José Hidalgo (Tehuixtle),0034
+21,158,0004,Colonia Morelos,0012
+21,164,0007,San Bartolomé Hueyapan,0077
+21,164,0015,San Lorenzo Joya de Rodríguez,0081
+21,166,0010,Xoyatla,0014
+21,166,0015,El Pedregal,0029
+21,166,0021,El Paraíso,0029
+21,169,0018,Tula,0035
+21,170,0007,Itzoteno (San Miguel),006A
+21,174,0045,Sección 23,043A
+21,175,0003,San Baltazar Atlimeyaya,0028
+21,176,0007,Zolonquiapa,0010
+21,177,0018,San Francisco Esperilla,0056
+21,177,0021,Tecaltzingo,0287
+21,177,0024,Tlacuitlapan (La Estación y los Carrasco),0287
+21,177,0028,Tecoxtle,0376
+21,185,0002,Santo Domingo Ayotlicha,0024
+21,186,0026,Pezmatlán,0036
+21,186,0061,Ilita,0036
+21,191,0003,Guadalupe Tulcingo,0021
+21,191,0007,Zaragoza de la Luz,0021
+21,194,0070,Las Palmitas,0038
+21,205,0013,Llano Grande,0052
+21,206,0014,El Rosario Xochitiopan,0011
+21,208,0009,Cuacuila,0092
+21,208,0022,Nanacamila,004A
+21,208,0069,Las Lajas Primera Sección,004A
+21,208,0072,Metepec Primera Sección,004A
+21,211,0004,San José Buenavista,0026
+21,212,0021,Rosa de Castilla,0023
+21,212,0027,El Tepeyac,0023
+21,213,0013,Ocomantla,0016
+22,001,0009,El Carmen (Santiago Mexquititlán Barrio 6to.),0076
+22,001,0020,La Ladera,0080
+22,001,0025,Mesillas,0061
+22,001,0040,San José Ithó,0057
+22,001,0041,San Juan Dehedó,0057
+22,001,0056,San Nicolás de la Torre,0076
+22,001,0060,La Cruz (San Bartolo),0038
+22,001,0084,La Beata,0019
+22,001,0093,Loma de las Víboras (Santiago Mexquititlán Barrio 6to.),0076
+22,001,0159,Nuevo Amanecer,0038
+22,002,0245,La Tinaja,0105
+22,004,0015,Boyé,010A
+22,004,0065,La Mesa Providencia,010A
+22,004,0104,Santa Bárbara,0097
+22,004,0127,Villa Nueva,010A
+22,004,0215,La Presa (La Nueva Presita),0133
+22,005,0008,La Carbonera,0060
+22,005,0021,El Lindero,0075
+22,005,0057,Viborillas,0107
+22,005,0103,El Nuevo Rumbo,0075
+22,005,0172,La Esperanza [Fraccionamiento],0107
+22,005,0258,Aerotech [Parque Industrial],0107
+22,006,0020,Pita,0049
+22,006,0021,La Poza,0049
+22,006,0027,Purísima de San Rafael,0049
+22,007,0002,Barreras,0031
+22,007,0029,Los Ramírez,0031
+22,007,0033,San Antonio,0031
+22,007,0040,Sombrerete,0046
+22,007,0102,Los Sánchez,0031
+22,007,0135,La Nueva Unidad,0031
+22,007,0229,Sindical [Colonia],0012
+22,007,0254,Las Flores,0012
+22,007,0265,Piedras Negras,0031
+22,007,0286,Cadereyta [Parque Industrial],0012
+22,007,0312,Las Trojes,0046
+22,008,0007,Capula,0043
+22,008,0013,El Granjeno,0024
+22,008,0018,El Milagro,001A
+22,008,0035,Las Taponas,0039
+22,008,0135,La Ceja,0039
+22,008,0157,PyME [Parque Industrial],001A
+22,010,0050,Tres Lagunas,0022
+22,010,0052,Valle de Guadalupe,0018
+22,011,0002,Agua Azul,0072
+22,011,0013,El Carmen,0119
+22,011,0022,Coyotillos,0119
+22,011,0038,Las Lajitas,002A
+22,011,0042,Matanzas,002A
+22,011,0249,La Laborcilla,027A
+22,011,0449,Ejido San Vicente,002A
+22,011,0485,La Noria [Parque Industrial],0119
+22,011,0509,La Griega [Polígono Empresarial],0119
+22,011,0513,Beta la Griega [Parque Industrial],0119
+22,011,0517,Advance Querétaro [Parque Industrial],0072
+22,012,0019,La Purísima,0046
+22,013,0009,El Álamo,0062
+22,013,0041,La Ordeña,0058
+22,013,0052,San Juanico,0081
+22,013,0061,La Vega (Las Vegas),0081
+22,013,0088,La Estación,0077
+22,013,0138,El Ardillero,0077
+22,014,0071,Ojo de Agua,0017
+22,014,0078,Pinto,0036
+22,014,0082,Corea,0036
+22,014,0087,Rancho Largo,0021
+22,014,0106,Santa Catarina,0036
+22,014,0180,El Rincón de Ojo de Agua,0017
+22,014,0588,Querétaro [Parque Industrial],0017
+22,016,0004,Barranca de Cocheros,0045
+22,016,0005,Buenavista,012A
+22,016,0036,El Mirador,0030
+22,016,0038,Ojo de Agua,005A
+22,016,0041,Palmillas,0878
+22,016,0063,Santa Lucía,012A
+22,016,0064,Santa Matilde,0026
+22,016,0067,El Sitio,0115
+22,016,0083,San Sebastián de las Barrancas Sur,0134
+22,016,0087,Buenavista Palma de Romero,0134
+22,016,0100,Pedregal del Río,0030
+22,016,0173,El Porvenir [Residencial],0026
+22,016,0197,El Carrizo [Ejido],0863
+22,016,0248,Villas de San José,0863
+22,016,0355,San Antonio la Labor,005A
+22,016,0359,El Sabino [Fraccionamiento],0878
+22,017,0204,Real del Ciervo [Fraccionamiento Campestre],0023
+22,018,0012,El Cerrito Parado,004A
+22,018,0036,El Patol,0073
+22,018,0043,Sabino de San Ambrosio,0069
+22,018,0119,El Tule,004A
+23,002,0108,Noh-Bec,0792
+23,002,0243,Tabi,0608
+23,003,0475,La Victoria,0183
+23,004,0050,Laguna Guerrero,123A
+23,004,0119,San Pedro Peralta,1193
+23,004,0163,Lázaro Cárdenas Segundo,1189
+23,004,1987,Las Palomas,1969
+23,004,3259,Alovera,1244
+23,004,3260,El Triunfo,1244
+23,008,0217,Punta Maroma,0118
+23,008,0416,Guadalupano,0457
+23,008,0829,Nuevo Noh-Bec,0461
+23,008,0924,Los Pájaros,0461
+23,008,0926,Valle Encantado,0461
+23,008,0950,Monte Sinahí,0086
+23,010,0022,Buenavista,0313
+23,010,0106,Guadalupe Victoria,0296
+24,003,0064,El Rosario,0084
+24,007,0006,La Boquilla,0098
+24,007,0009,La Cruz,0100
+24,007,0156,Fraccionamiento Llanos de San Gabriel,012A
+24,010,0034,La Encarnación,052A
+24,010,0062,Colonia Agrícola Ollitas de las Vacas,006A
+24,010,0077,Puerto de San Juan de Dios,0021
+24,011,0003,Barrio de Guadalupe,0033
+24,011,0013,Ojo de Agua de Solano,0033
+24,013,0241,Villa Fierro,0339
+24,013,0360,La Calera,0324
+24,013,0562,Ampliación la Hincada,0076
+24,014,0077,Plan de los Jobos Segunda Sección,0016
+24,016,0003,Estación Auza,0044
+24,017,0013,Domingo Gámez,0041
+24,017,0014,Entronque de Matehuala (El Huizache),0179
+24,017,0030,Norias del Refugio,0126
+24,020,0275,Las Heroínas Mexicanas,0136
+24,021,0004,El Arbolito,0044
+24,024,0037,El Jabalí,0188
+24,024,0046,La Muralla,0116
+24,024,0059,Pastora,0065
+24,024,0316,Las Magdalenas,0313
+24,025,0021,Palma Pegada,0132
+24,028,0256,Fracción Milpillas,0100
+24,028,0262,Peñasco,0079
+24,028,0370,La Manta,0026
+24,030,0029,Morenos,0039
+24,032,0077,Enramadas,0245
+24,032,0420,Fracción Uno Ex-Hacienda Santo Domingo,0156
+24,044,0011,La Punta (San José de la Punta),0227
+24,045,0126,Los Trejos,0154
+24,046,0055,Puerto Espino,0024
+24,047,0019,Santa Rosa la Masita,0106
+24,047,0040,San Antonio de los Regalado,0017
+24,047,0051,Santa Rita de los Hernández,0074
+24,049,0039,Sauz de Calera,0100
+24,050,0019,Ejido Gogorrón (Ex-Hacienda de Gogorrón),007A
+24,050,0034,Palomas,007A
+24,050,0050,San Miguel,0116
+24,050,0053,Saucillo,0050
+24,050,0099,La Rinconeña,0116
+24,051,0007,Corcovada,0151
+24,054,0223,El Rincón,005A
+24,056,0015,Guardarraya,0016
+24,056,0018,La Lajita,0020
+25,001,0129,Dieciocho de Marzo,1557
+25,001,0147,Goros Pueblo,1504
+25,001,0243,Bolsa de Tosalibampo Uno,1434
+25,001,0475,Cuchilla Vieja,1523
+25,001,0530,Choacahui,1491
+25,001,0701,Camayeca,1504
+25,001,0703,Cinco de Mayo,1561
+25,001,0917,La Chicura Uno,1415
+25,001,0942,Macapul [Almacenes],1542
+25,001,1331,Topolobampo [Parque Industrial],1557
+25,002,0044,Estación Acatita,0306
+25,003,0279,Saca de Agua,0835
+25,003,0743,La Majada de Arriba,0888
+25,003,0845,Jurisdicción de Arriba,0820
+25,003,0856,San Nicolás del Sitio (Sitio de Arriba),077A
+25,005,0249,El Portezuelo,0435
+25,006,0015,Villas Splash,2621
+25,006,0096,Agua Blanca,2528
+25,006,0132,La Anona,2424
+25,006,0330,La Estancia de Abajo,2871
+25,006,0364,Ejido Francisco Villa,2903
+25,006,0397,Las Higueras,2458
+25,006,0421,Jesús María,4473
+25,006,0495,Monte Verde de Villa (El Verde),2693
+25,006,0578,El Pozo,2532
+25,006,0640,San Francisco,2689
+25,006,0687,Santa Loreto,2693
+25,006,0739,Los Vasitos,2706
+25,006,1063,Las Milpas Número Dos (Las Milpas),2744
+25,006,1225,Tierra y Libertad Uno,2797
+25,006,1305,Carboneras,259A
+25,006,1336,La Chilla,2814
+25,006,1684,La Platanera (El Pizal),2566
+25,006,2282,Comunidad Diego Valadez,2829
+25,006,3134,Guadalupana la Piedra,2636
+25,006,3141,Bachigualatito,2621
+25,006,3373,El Álamo [Campestre],2570
+25,007,0249,El Vado (El Cerrito),0590
+25,007,0382,Güillachapa,0603
+25,008,0020,Ejido la Ventana (El Carrizo),0418
+25,008,0031,Emiliano Zapata,0390
+25,008,0043,Ibonía,0352
+25,008,0072,El Roble,0460
+25,008,0164,Celestino Gazca Villaseñor,0507
+25,008,0404,Playa Ceuta,0437
+25,008,0409,Colonia Buenos Aires,0390
+25,010,0025,Bamicori,076A
+25,010,0033,Buena Vista,0914
+25,010,0051,La Carrera,0844
+25,010,0072,Chinobampo,0789
+25,010,0119,Llano de los Soto,0740
+25,010,0128,El Mezquitalito,0914
+25,010,0216,Zozorique,0793
+25,010,0227,La Genoveva,0990
+25,010,0559,Taxtes Viejos (La Cuera),0990
+25,010,0625,Téroque Viejo,0990
+25,010,1398,La Arrocera,101A
+25,011,0043,Las Américas,1002
+25,011,0069,Callejones de Tamazula,1074
+25,011,0085,Casa Blanca,1089
+25,011,0095,El Crucero,1093
+25,011,0106,Cuesta de Arriba,1074
+25,011,0107,La Cuestona,1074
+25,011,0111,Chino de los López,1055
+25,011,0115,La Chuparrosa,1040
+25,011,0120,El Dorado Número Uno,1040
+25,011,0168,Miguel Alemán,0979
+25,011,0251,San Rafael (General Miguel Valle Dávalos),1002
+25,011,0281,El Toruno,095A
+25,011,0291,El Zopilote,0964
+25,011,0358,Ladrilleras de Ocoro,0945
+25,011,0370,Las Crucecitas,1040
+25,011,0480,La Entrada Vieja,1040
+25,011,0714,Sector la Cruz,0945
+25,011,0912,Agua Blancona,1040
+25,011,0963,Colonia Paul,1002
+25,012,0197,Los Gavilanes,1211
+25,012,0210,El Habal,1160
+25,012,0357,La Urraca Nueva,1211
+25,012,0483,Las Higueras del Conchi,1207
+25,012,1185,La Mora Escarbada,2120
+25,012,1189,El Vainillo,2120
+25,013,0019,Alhueycito,0441
+25,013,0053,Caimanero,0615
+25,013,0132,Higuera de los Vega,0441
+25,013,0157,Los Letreros,0422
+25,013,0179,Mazate de los Sánchez,0441
+25,013,0256,Potrero de los Sánchez (Estación Techa),0579
+25,013,0282,Estación Retes,0615
+25,014,0013,Copales,0472
+25,014,0029,Loma del Zorrillo,0504
+25,014,0057,El Tablón Número Dos,0400
+25,014,0287,El Matadero,0449
+25,014,0435,Tablón Viejo,0400
+25,015,0003,Álamo de los Montoya,0605
+25,015,0006,Las Cabezas,0662
+25,015,0008,Caitime,061A
+25,015,0009,Carricitos,0605
+25,015,0043,Terrero de los Guerrero,0624
+25,017,0076,Cubiri de la Cuesta,0949
+25,017,0141,La Loma de Lugo,1025
+25,017,0197,La Playa,0934
+25,017,0206,Potrerillos,1006
+25,017,0216,La Presita,0987
+25,017,0244,Ruiz Cortines Número Tres,0915
+25,017,0271,Santa Ana,0775
+25,017,0337,Agua Caliente de Cebada (La Churea),0737
+25,017,0511,Sanaria,1025
+25,017,0552,El Macapule,1025
+25,017,0581,Campo Seis,092A
+25,017,0638,Alfredo V. Bonfil (Siete Ejidos),103A
+25,017,0847,Naranjo Segundo,092A
+25,017,1002,Tierra Blanca,0991
+25,017,1450,Colonia 6 de Mayo,1025
+25,018,0003,Aguapepito,0607
+25,018,0006,Altata,0503
+25,018,0017,Bariometo,0490
+25,018,0036,Campo Cinco Hermanos (Emiliano Zapata),0522
+25,018,0045,Cofradía de Navolato (Cofradía de los Rocha),0490
+25,018,0054,Dautillos,0518
+25,018,0068,El Limoncito,0486
+25,018,0070,Lo de Reyes,0522
+25,018,0084,Patagón,0522
+25,018,0098,Rosa Morada,0607
+25,018,0107,Santa Fe,0490
+25,018,0190,Buenos Aires,0556
+25,018,0199,Campo Balbuena,0556
+25,018,0227,Ciudad de los Niños,0541
+25,018,0239,La Curva (La Curva de San Pedro),0541
+25,018,0349,San Luis,0560
+25,018,0494,Alto del Vergel,0522
+25,018,0511,Monte Calvario,0537
+25,018,0523,Constituyentes de Sinaloa,0433
+25,018,0527,Ejido el Caimancito,0452
+25,019,0033,El Conchal,0182
+25,019,0043,El Robalar,0159
+25,019,0092,Portaceli,0178
+25,019,0108,Soyatita (Cruz Segunda),0182
+25,020,0038,El Amapal,0164
+26,001,0003,La Estancia,0093
+26,001,0007,San Pablo (San Pablo de Aconchi),0089
+26,003,0174,Osobampo,0952
+26,003,0187,Piedras Blancas,1185
+26,003,0256,Tapizuelas,126A
+26,003,0283,El Zapote,1221
+26,017,0037,Rodolfo Campodónico,1814
+26,017,0309,Josefa Ortiz de Domínguez,2066
+26,017,0398,Adolfo Orive de Alba,1814
+26,017,0898,Poblado San Felipe,1833
+26,017,1335,Ninguno [Ejido Ampliación Frontera],1994
+26,018,0076,Antonio Rosales,1756
+26,018,0084,Benito Juárez,1722
+26,018,0138,México (Grupo México),1722
+26,018,0391,Ejido Tepeyac (Campo Dos),1703
+26,018,0393,Nueva Casa de Teras,1807
+26,018,0526,Zona de Granjas (Granjas Mica),1690
+26,021,0107,Rancho la Virgen,0429
+26,023,0025,Ojo de Agua,032A
+26,025,0037,La Palma,0396
+26,025,0069,Úrsulo Galván,0396
+26,026,0077,La Vasconia (Del Apellido Vasco),043A
+26,026,0128,Siete Leguas,0393
+26,027,0043,Adolfo Ruíz Cortínez,048A
+26,029,0179,Palo Verde,1656
+26,029,0631,El Renacimiento,1904
+26,029,1263,Lomas de Colosio,1923
+26,029,1637,Villa Bemela,1904
+26,029,1704,Campestre San Alberto,1938
+26,029,1708,Campestre Corceles,1904
+26,030,0115,Real del Alamito [Fraccionamiento Campestre],3812
+26,030,0281,La Habana Número Dos,4435
+26,030,0347,Mineros de Pilares,4469
+26,030,0403,Plan de Ayala,4628
+26,030,0608,El Saucito,3812
+26,030,0783,Fructuoso Méndez,3954
+26,030,0866,Suaqui de la Candelaria,4026
+26,030,0928,La Galera,4098
+26,030,1214,El Choyudo (Los Japoneses),4806
+26,030,1862,El Crucero (Cero Norte),4308
+26,030,1967,Narciso Mendoza,4539
+26,030,2056,Ejido Nuevo San Miguel,4331
+26,030,3004,Campestre Ejido la Yesca,4223
+26,030,3025,Corrales San Juanero,4079
+26,030,3095,La Habana Tres,4331
+26,030,3816,Real del Molinito [Campestre],3827
+26,030,3903,El Ocotillo [Fraccionamiento],3795
+26,030,3996,Río Azul Esmeralda [Campestre],4219
+26,030,4029,La Polka,4026
+26,030,4033,Nueva Europa,4219
+26,030,4072,Río Azul Sección Zafiro,3795
+26,033,0028,La Cuchilla de San Antonio,0383
+26,033,0040,Francisco Sarabia,0468
+26,033,0056,Estación Luis,0449
+26,033,0077,La Primavera,0379
+26,033,0086,Sonora Sinaloa (Bamocha),0472
+26,033,0088,El Tábare,0379
+26,033,0103,Totoliboqui,0472
+26,033,0106,Lucio Blanco,0449
+26,033,0107,10 de Abril,0453
+26,033,0110,Álvaro Obregón,0472
+26,033,0115,Playa los Baños,0491
+26,033,0210,El Riíto,0400
+26,033,0285,Faustino Félix Serna,0519
+26,042,0126,Tetapeche,0895
+26,042,0136,Sapomora,0908
+26,042,0244,Kutantaka,0880
+26,042,0735,San Francisco,0908
+26,043,0239,Cíbuta,0712
+26,043,0428,Ejido Cibuta [Sector Número Uno],0712
+26,043,0485,Campestre el Potrero,0708
+26,048,0245,Agua Zarca,1825
+26,048,0272,Playa Dorada (Playa Norte),1948
+26,050,0020,La Paz (La Paz de Rayón),0204
+26,051,0015,Cedros,0644
+26,055,0039,El Fronterizo,1410
+26,055,0147,Los Tornero,1406
+26,055,0364,El Barrote,1302
+26,057,0206,Batuc Viejo,0351
+26,064,0028,Los Fresnos,038A
+26,066,0026,La Estancia,0488
+26,066,0030,Guadalupe (Guadalupe de Ures),0488
+26,066,0077,San Rafael,0488
+26,066,0082,El Sauz (Sauz de Ures),0469
+27,001,0044,Mactún,0365
+27,003,0331,Caparroso,0209
+27,004,0024,Acachapan y Colmena 4ta. Sección,0333
+27,004,0035,Anacleto Canabal 3ra. Sección,0386
+27,004,0090,Estancia Vieja 1ra. Sección,0422
+27,004,0150,Plátano y Cacao 4ta. Sección,0371
+27,004,0152,Plátano y Cacao 2da. Sección (La Isla),0371
+27,004,0179,El Zapotal,0329
+27,004,0188,Gaviotas Sur (El Cedral),0456
+27,004,0272,Lagartera 2da. Sección,0352
+27,004,0286,Alvarado Santa Irene 2da. Sección (El Taizal),0475
+27,005,0067,Tránsito Tular,0063
+27,006,0017,Cumuapa 1ra. Sección,0075
+27,006,0055,Reforma,0022
+27,007,0008,Gregorio Méndez Magaña (Pénjamo),0123
+27,008,0123,Gregorio Méndez,0351
+27,008,0129,Unidad Modelo Sábana Larga,0332
+27,009,0010,Chichonal 1ra. Sección,0062
+27,010,0023,Mecoacán,0044
+27,014,0010,Las Flores 2da. Sección,0043
+27,014,0054,Chiltepec (Sección Pénjamo),0062
+27,015,0100,División del Norte,0021
+27,017,0002,Acatlipa,0172
+27,017,0054,Nueva Esperanza,0168
+28,001,0110,Delicias,0425
+28,002,0163,Paso Hondo,0598
+28,002,0183,Real de Alamitos,0028
+28,002,0256,El Pichijumo,0494
+28,002,0388,Cinco de Febrero,0314
+28,002,0634,La Gloria,0634
+28,003,0105,Maclovio Herrera (Miradores),0114
+28,003,0112,Mata del Abra,010A
+28,003,0176,Ricardo Flores Magón,1004
+28,003,0355,Las Prietas (La Curva),0129
+28,003,0761,Nuevo Benito Juárez,0152
+28,003,0875,Altamira Servicios de Infraestructura (ASISA) [Parque Industrial],0152
+28,005,0079,El Mulato,027A
+28,006,0026,San Miguel de Waldo,0205
+28,007,0006,El Azúcar,0043
+28,007,0012,Estación Camargo,0024
+28,007,0050,Congregación Ochoa,0217
+28,007,0469,Santa Gertrudis,0058
+28,008,0010,Los Ángeles (Felipe Ángeles) [Ejido],0341
+28,008,0137,San Vicente,0360
+28,008,0208,Diecinueve de Abril,0182
+28,008,0473,Campo Número Tres,0229
+28,010,0062,Tres Palos,034A
+28,011,0064,El Nacimiento,0046
+28,011,0067,Nuevo Pensar del Campesino,0120
+28,011,0116,San Pedrito,0120
+28,012,0083,Magiscatzin,0734
+28,012,0128,San Antonio Rayón,0363
+28,012,0393,López Rayón,0344
+28,012,1017,Francisco I. Madero Dos,1075
+28,013,0005,El Alamito,0233
+28,013,0028,La Diana,0229
+28,013,0089,La Parrita,0055
+28,013,0110,El Roble,0233
+28,016,0011,Benito Juárez (Monfort),0362
+28,016,0044,La Esperanza,0343
+28,016,0099,El Pensamiento Libre,0305
+28,017,0010,El Carrizo,0302
+28,018,0014,El Encinal,0297
+28,018,0058,Benito Juárez (El Tepeyac),0333
+28,018,0198,Juan Báez Guerra,0390
+28,019,0035,Emiliano Zapata,010A
+28,019,0043,Francisco Villa,0167
+28,019,0087,Porvenir del Campesino (La Purísima),0398
+28,020,0029,José María Pino Suárez,0026
+28,021,0003,El Abra,0076
+28,021,0011,Arturo Benítez,0061
+28,021,0015,Los Aztecas,0964
+28,021,0037,Dieciséis de Septiembre (El Nueve),0042
+28,021,0043,Emiliano Zapata,0061
+28,021,0089,El Naranjo,145A
+28,021,0112,La Reforma,0979
+28,022,0098,Cinco de Mayo,1921
+28,022,0178,La Libertad Número Dos,0340
+28,022,0226,Palo Blanco,0020
+28,022,0262,Quijano,0302
+28,022,0387,La Tijerita,0124
+28,022,1420,Los Ranchitos (El Crucero),1902
+28,022,1919,La Higuera,0158
+28,022,2123,Las Ventanas [Parque Industrial],1103
+28,023,0248,Mártires del Campo,0278
+28,023,0250,El Moquetito,0263
+28,025,0026,El Ranchito (Cerro Azul),0569
+28,025,0027,El Ranchito (Salitrillo),0569
+28,025,0084,El Nogalito,0569
+28,026,0016,Servando Canales (La Arena),027A
+28,027,0308,América,0101
+28,029,0004,Adolfo López Mateos (Chamal Nuevo),0125
+28,029,0014,Práxedis G. Guerrero (Callejones),0356
+28,029,0113,Rancho Nuevo,0341
+28,030,0047,Nuevo San Juan,0037
+28,032,0994,Buenavista,014A
+28,033,0277,Mario Souza,0132
+28,033,0373,Ampliación Río Bravo,0058
+28,034,0009,El Barranco Azul,0163
+28,035,0006,Águila Azteca,0156
+28,035,0428,El Barrancón del Tío Blas (El Barrancón),1046
+28,035,0460,Punta de Alambre (Puente de Alambre),0993
+28,035,0493,Alfredo V. Bonfil (Luis Echeverría),0052
+28,035,0545,Punta de Piedra,0993
+28,037,0131,La Pesca,0841
+28,039,0040,Lucio Vázquez (El Charquito),0545
+28,039,0048,Caudillos del Sur (Palos Altos),0193
+28,039,0050,Pedro Ruiz Molina,0494
+28,039,0053,La Presa de Ramos,0121
+28,039,0054,Guadalupe Victoria (Rancho Nuevo),0189
+28,039,0061,San Antonio de Nahola (San Antonio),0475
+28,039,0083,Tierras Blancas (Cinco de Mayo),0121
+28,039,0084,El Refugio (La Unión),0155
+28,039,0099,La Cardoncita,0174
+28,039,0166,Las Cruces,0545
+28,039,0184,Francisco I. Madero,0244
+28,039,0205,El Sauz (Mi Ranchito),0085
+28,040,0053,Empalme,0014
+28,040,0056,Ignacio Manuel Altamirano,0014
+28,040,0182,"Magueyes (Pozo 4) [Colonia Agrícola, Carretera Estatal 53, entre Sur 73 y Sur 78]",0635
+28,041,0070,Estación Caballeros,1448
+28,041,0090,La Libertad,1467
+28,041,0098,Miguel Hidalgo,1448
+28,041,0100,La Misión,1467
+28,041,0106,El Olivo,1467
+28,041,0124,Rancho Nuevo,1452
+28,041,0129,El Sabino,1452
+28,041,0149,Santa Ana,1433
+28,041,0157,Santa Librada,0100
+28,041,0669,Los Olivos,0064
+28,041,0940,Miguel Hidalgo [Colonia],1448
+28,041,0976,Valle Soleado [Colonia],0100
+28,042,0040,Garza Valdez,031A
+28,042,0045,Guadalupe Victoria,0269
+28,042,0068,Miguel Hidalgo,0343
+29,003,0031,Villa de las Flores,0015
+29,004,0006,La Garita,0027
+29,005,0003,Guadalupe Texcalac,0236
+29,006,0012,San Felipe Sultepec,0040
+29,009,0003,San Lorenzo Xaltelulco,0019
+29,013,0012,Colonia Cuauhtémoc,0098
+29,031,0017,José María Morelos y Pavón,0039
+29,034,0084,Tecomalucan,0064
+29,034,0086,San José Tepeyahualco,0045
+30,003,0012,Esperanza Malota,0022
+30,003,0014,El Hato,0075
+30,003,0027,San Ángel,0018
+30,003,0033,Tecuanapa,0183
+30,003,0034,Tierra Colorada,0056
+30,004,0034,Paso del Cedro,0072
+30,004,0035,Paso de la Milpa,0091
+30,005,0004,Atzizintla,0012
+30,006,0003,Aguachinola,0039
+30,006,0017,Tecamalucan,0039
+30,009,0018,Cerrillos de Díaz,0064
+30,009,0183,La Yerbabuena,0030
+30,010,0015,Lerdo de Tejada,0050
+30,010,0047,Colonia Ejidal Guadalupe Victoria,0012
+30,010,0105,Xocotla,0050
+30,010,0118,Colonia el Establo,0050
+30,012,0018,Boca del Río,0017
+30,012,0019,Los Pinos (Buena Esperanza),0017
+30,014,0035,Ignacio Zaragoza,0026
+30,014,0050,Rancho Trejo,0026
+30,014,0051,Colonia San Francisco,0045
+30,015,0107,Arroyo Grande de Arriba (Colonia Francisco I. Madero),0057
+30,015,0310,Fraccionamiento los Idolos,0038
+30,016,0010,La Posta,0016
+30,019,0007,Choapa,0018
+30,020,0002,Acultzinapa (San Miguelito),0019
+30,020,0039,Terrero,0019
+30,023,0014,El Campamento,003A
+30,023,0127,La Noria (Arrieral),0059
+30,025,0014,El Triunfo,0049
+30,032,0041,Matalcalcinta,0043
+30,032,0076,Barra de Sontecomapan,0147
+30,032,0084,Perla de San Martín,0147
+30,033,0002,Barra de Cazones,0040
+30,034,0006,Colonia Morelos (El Veinticinco),0086
+30,035,0004,La Ceiba,0026
+30,035,0007,El Crucero,0011
+30,035,0013,Rancho Nuevo,0011
+30,038,0236,Hacienda los Cafetales,0013
+30,039,0166,Colonia Veracruz,0203
+30,040,0009,Furberos,0030
+30,043,0022,Paso Pimienta,0070
+30,044,0052,San José de Tapia,0241
+30,044,0117,Santa Teresita (Segunda Manzana del Barreal),0237
+30,044,0118,La Palma (Tercera Manzana del Barreal),0237
+30,044,0166,Colonia las Margaritas,0237
+30,044,0217,Los Lienzos,0237
+30,045,0185,El Coyol (Kilómetro 11),0145
+30,045,0395,El Cerrito,0766
+30,049,0007,La Aurora,0040
+30,049,0123,La Tinaja,0089
+30,051,0007,La Lima,002A
+30,053,0048,La Pitahaya (La Luz),001A
+30,053,0053,San José de Abajo,001A
+30,054,0003,Arroyo del Soldado (Arroyo del Obispo),0110
+30,054,0043,Arroyo Claro,0040
+30,055,0012,Chapopote Chico (Tlachinolapa),0048
+30,055,0029,Zapotitla,0014
+30,058,0005,Ahuateno,0069
+30,058,0010,Ahuimol Tzimpiasco,0088
+30,058,0043,Francia Nueva,0054
+30,058,0070,Monte Grande,0020
+30,058,0079,Pastoría,0016
+30,058,0112,Tlaquextla Tenextitla,0105
+30,058,0128,Zonámatl,0073
+30,058,0133,Alaxtitla Morenotlán,0035
+30,058,0145,Nuevo Tecerca,0020
+30,058,0279,Ejido las Vegas,0069
+30,058,0306,Tecuapa,0088
+30,058,0339,Lindero Achupil,0088
+30,059,0206,El Manantial [Centro de Población Agrícola y Ganadera],0028
+30,061,0007,Cuauhtémoc Pedregal,0134
+30,061,0024,San José del Carmen,0045
+30,061,0043,Alto Uxpanapa (El Amate),0153
+30,061,0173,Licenciado Benito Juárez,0346
+30,061,0324,Pueblo Viejo,0242
+30,061,0327,Rafael Murillo Vidal,0327
+30,061,0378,El Sahuayo,0030
+30,061,0580,El Azufre,0346
+30,061,0745,Malpaso (Malpasito),0261
+30,061,0876,Las Piedras,0079
+30,061,1269,Cuauhtémoc Kilómetro 17,0596
+30,063,0048,Tamalcuatitla,0069
+30,065,0008,Cerro Gordo,0044
+30,065,0073,La Cumbre,0078
+30,065,0210,Colonia Gobernadores,0129
+30,066,0009,El Ermitaño,0056
+30,066,0022,Poza Larga Zapotal,0018
+30,068,0014,Santa Lucía Potrerillo,0031
+30,068,0029,Palo Alto,0046
+30,069,0005,Carrillo Puerto (Santa Rosa),0024
+30,069,0019,Paguas de Coronado,0024
+30,069,0065,Ejido Soto y Gama,0024
+30,069,0124,Nuevo Renacimiento 2000,0170
+30,070,0018,Ignacio Allende el Grande,0326
+30,071,0004,Amatiopa (Mesa Limón),0037
+30,071,0031,Tlamatoca,0037
+30,071,0032,Tlavictepan,0022
+30,072,0005,El Batda,0034
+30,072,0011,Cruz de Ataque,0053
+30,072,0022,Palo Bendito,0049
+30,072,0036,Viborillas,0049
+30,073,0017,La Gloria,0116
+30,073,0090,Nacaxtlito,0120
+30,074,0002,Donato Guerra,001A
+30,075,0026,Pozo de Arena,0055
+30,077,0012,El Carrizo,0030
+30,077,0031,Garza Blanca,0079
+30,077,0056,Viloria Viejo,0026
+30,077,0233,Palma de Oro,0079
+30,078,0022,Tancuban,0042
+30,078,0023,Tzicuatitla,0023
+30,079,0009,Buenavista,004A
+30,079,0011,Caltzontepec,004A
+30,080,0005,Ixcapantla,0036
+30,080,0024,Matlaquiáhuitl,0036
+30,082,0054,El Túnel,0026
+30,083,0010,Cacahuatengo,0023
+30,083,0024,Huexotitla,0023
+30,083,0037,Llano Enmedio,0023
+30,083,0044,Naranjo Dulce,0080
+30,083,0055,La Pita,0019
+30,083,0058,Poza Grande,0057
+30,084,0018,Pachuca,004A
+30,084,0062,Las Cuatas,0054
+30,087,0027,Xoloxtla,0431
+30,087,0124,La Haciendita,0287
+30,087,0157,Humberto Aguirre Cruz,0821
+30,087,0158,La Cúspide,0287
+30,089,0019,San Lorenzo,0012
+30,090,0033,El Rincón,0028
+30,091,0085,Juan de la Luz Enríquez,0171
+30,091,0457,Fidel Herrera Beltrán,0097
+30,093,0007,El Pueblito (Garbanzal),0015
+30,100,0059,Curva del Paso Real,0011
+30,101,0007,Loma Grande,0095
+30,101,0046,La Loma,0108
+30,102,0067,La Unión Paso Largo,0336
+30,102,0071,Villanueva,011A
+30,105,0030,Ixcoalco,0022
+30,105,0040,Mata Ortiz,0018
+30,105,0049,Paso Colorado,0022
+30,105,0061,Rancho del Padre,0018
+30,105,0299,Colonia Clara Córdoba Morán,0018
+30,108,0037,La Concepción,0683
+30,108,0056,San Cristóbal,0058
+30,108,0070,Otapa,0039
+30,108,0107,Emiliano Zapata,0077
+30,108,0144,La Reforma,0166
+30,111,0011,Nuevo Teapa,0015
+30,112,0094,Fraccionamiento de los 4 Soles,0046
+30,115,0019,Taza de Agua Ojo Zarco,0014
+30,116,0023,Ojapa,0011
+30,117,0028,Paso Amapa,0042
+30,117,0037,Tecoloteplán (Estación Omealca),0019
+30,121,0022,Alto del Tigre,0172
+30,121,1524,Las Margaritas,0153
+30,122,0011,Minzapan,0057
+30,122,0028,Nuevo Mangal,0038
+30,123,0007,Jopoy,0069
+30,123,0039,Ex-Hacienda Chintón (La Quina),0266
+30,123,0089,Vega de Otates,0285
+30,123,0251,Antonio J. Bermúdez,0213
+30,123,0501,Ejido Tancoco,0196
+30,123,0609,Pánuco (La Pitahaya) [Nuevo Centro de Población],0270
+30,124,0006,Ignacio Allende,0140
+30,124,0018,Caristay,0013
+30,124,0020,Las Casitas,0032
+30,124,0039,Francisco I. Madero,0140
+30,124,0042,Gildardo Muñoz,0117
+30,124,0065,Ojital Viejo,0102
+30,124,0100,San Lorenzo,0117
+30,124,0101,San Pablo,009A
+30,124,0110,Tenixtepec,0066
+30,124,0112,Totomoxtle,009A
+30,124,0119,Veinte de Noviembre,0189
+30,124,0400,Zapotal Santa Cruz,0102
+30,126,0040,El Tejón,0041
+30,126,0135,Colonia el Cocuíte (La Santísima),0041
+30,126,0138,Yucatán,0018
+30,128,0006,El Frijol Colorado,0012
+30,128,0010,Libertad,0065
+30,130,0093,Vicente Guerrero,010A
+30,130,0573,La Nueva Esperanza,0152
+30,131,0022,Cerro del Mesón,1092
+30,132,0018,Úrsulo Galván,0015
+30,132,0031,El Llanillo Redondo,0015
+30,134,0029,Remudadero,0039
+30,134,0033,Tamarindo,0024
+30,136,0002,Piletas,0014
+30,141,0036,Francisco I. Madero,0086
+30,141,0050,Matacapan,0086
+30,141,0174,Vista Hermosa II,0137
+30,141,0281,Ampliación Caravaca (Kilómetro 30),0067
+30,142,0006,Bellaco,0098
+30,142,0027,Ejido Monte Verde,012A
+30,142,0066,Tizamar,0083
+30,143,0020,El Espinal,0019
+30,143,0022,Francisco I. Madero,0076
+30,143,0030,Medellín,0131
+30,143,0048,Río Grande,0131
+30,143,0070,Tibernal,0061
+30,143,0340,Santa Elena,0131
+30,143,0346,Valle Verde,0038
+30,144,0132,San Antonio,0054
+30,148,0080,Puerta de Mata Anona,002A
+30,149,0018,Mirador Saltillo,0099
+30,149,0051,Hilario C. Salas,007A
+30,150,0036,Rancho Nuevo,0051
+30,151,0020,La Encarnación,0082
+30,151,0065,Tantálamos,0044
+30,151,0075,Estero de Milpas,0063
+30,151,0088,La Guásima,0063
+30,154,0007,La Ceiba Ocampo,0012
+30,155,0084,Cucharas,0081
+30,155,0160,Moralillo,0382
+30,155,0164,Nuevo Laredo,0166
+30,155,0178,El Sabroso Uno Crucero Palmito,0166
+30,155,0209,Sombrerillo,0132
+30,155,0215,San Juan Chijolar,0039
+30,155,0247,La Tinaja San Gabriel,0132
+30,155,0710,La Unidad,0166
+30,157,0025,Teayo,0029
+30,157,0030,Nueva Reforma,0014
+30,159,0010,Xopilapa,0019
+30,160,0002,Aguacate de Vinazco,0128
+30,160,0005,Alajuela,0058
+30,160,0011,Aquiles Serdán (El Nueve),0147
+30,160,0025,La Camelia (Palo Blanco),0096
+30,160,0084,Monte Verde,001A
+30,160,0275,Tumbadero,0113
+30,161,0006,Corozal,0144
+30,161,0044,Pochuco,0144
+30,161,0091,Llano Grande,0214
+30,161,0248,Guayalitos,0125
+30,166,0012,Vicente Guerrero (Tepetates),0013
+30,169,0032,La Guadalupe,0072
+30,172,0007,Emiliano Zapata,0010
+30,173,0018,Laguna Chica (Pueblo Nuevo),008A
+30,173,0019,Las Limas,0111
+30,173,0032,Puente Chilapa,0111
+30,174,0002,El Amate,0104
+30,174,0039,Huixcolotla,0034
+30,174,0117,El Tamarindo,0015
+30,174,0430,Roberto Barrios,0157
+30,174,0550,Nuevo Laguna Escondida,0176
+30,174,0560,Loma de la Villa,002A
+30,175,0030,La Isla (Kilómetro 10),0050
+30,175,0042,Nuevo Progreso (Kilómetro 12),0050
+30,175,0066,San Nicolás,0169
+30,175,0171,Los Pinos,0031
+30,175,0357,Fernando Gutiérrez Barrios,0154
+30,180,0022,La Pahua,0012
+30,181,0054,El Moste,0081
+30,181,0099,La Tranca,0113
+30,181,0212,Colonia Fernando Gutiérrez Barrios,0151
+30,181,0361,Colonia las Flores (La Boca),0151
+30,181,0400,Colonia Leandro Valle,0043
+30,183,0018,San Isidro,0014
+30,183,0070,La Granja,0014
+30,187,0006,Piedras Grandes,0013
+30,189,0047,Juana Moza,0056
+30,189,0480,Ampliación Fraternidad Antorchista,0041
+30,191,0009,El Limoncito,0016
+30,193,0083,San Julián,0010
+30,196,0017,Los Mangos,0012
+30,202,0007,La Candelaria,0011
+30,205,0072,Cuve de los Marcos,0225
+30,206,0050,Democracia y Libertad,003A
+30,209,0025,Peña Hermosa,0065
+30,210,0019,Bajo Grande,016A
+30,210,0060,Francisco Villa Dos,0189
+30,210,0078,Jorge L. Tamayo (Poblado Dos),0259
+30,210,0087,Los Liberales,0066
+30,210,0108,Paso del Moral,0193
+30,210,0113,Plan de Arroyo,0259
+30,210,0121,Rafael Murillo Vidal,0117
+30,210,0211,Nuevo Paraíso,0206
+30,210,0212,Manantiales,0136
+30,211,0026,El Faisán,0218
+30,211,0116,Vega de San Marcos,0186
+30,211,0121,Fidelidad,0190
+30,212,0020,Ejido Sergio Vera Cervantes,008A
+30,212,0037,General Lázaro Cárdenas,0041
+30,212,0061,Nuevo Ideal de Arriba,0094
+31,002,0010,Tepich Carrillo,0053
+31,002,0011,Ticopó,0053
+31,002,0014,Dzitiná,0053
+31,004,0010,Tixkuncheil,0039
+31,006,0002,X-Bec,0122
+31,009,0003,San Antonio Xiat,0069
+31,013,0006,X-Cuyum,0057
+31,014,0013,Chebalam,0035
+31,014,0040,X-Akabchén,0035
+31,015,0003,Chunkanán,0051
+31,015,0005,Eknakán,0051
+31,017,0014,X-Bohom,0075
+31,017,0083,Muchucuxcáh,008A
+31,021,0022,Chan X-Cail,0078
+31,021,0024,Nuevo X-Habín,0063
+31,021,0033,Chan Pich,0059
+31,026,0035,San Benito,006A
+31,030,0076,Yaxché,0096
+31,033,0003,Cuch Holoch,0100
+31,034,0003,Sahcabá,0042
+31,036,0012,San Isidro Ochil,0070
+31,040,0004,Cuauhtémoc,0162
+31,043,0006,Dzeal,0056
+31,046,0065,Nuevo San Juan,0062
+31,048,0007,Granada (Chican Granada),0175
+31,048,0010,Kanachén,018A
+31,048,0018,Santa Cruz,018A
+31,050,0090,Dzununcán,2057
+31,050,0140,Yaxché Casares,2038
+31,050,0158,La Ceiba,2038
+31,050,0268,Oncán,2038
+31,051,0006,Tekat,0043
+31,052,0015,Kaxatah,0110
+31,052,0018,Tanyá,0110
+31,056,0149,Huntochac,0158
+31,063,0004,San Antonio Tedzidz,0063
+31,067,0046,Holactún,0043
+31,076,0002,Chinkilá,0076
+31,076,0003,Itzincab,0076
+31,076,0007,Oxtapacab,0076
+31,076,0011,Sotuta de Peón,0076
+31,081,0011,X-Cocmil,0057
+31,084,0003,Chenché de las Torres,0078
+31,085,0178,Ekbalam,0130
+31,092,0004,Ekpedz,0101
+31,093,0010,Ruinas de Aké,0081
+31,094,0005,Chicán,0055
+31,096,0070,Tezoco Nuevo,0740
+31,096,0377,Santa María,0628
+31,098,0039,Xcobiakal (Xcobilakal),0177
+31,099,0080,San Lorenzo,0051
+31,101,0006,Hotzuc,0155
+31,101,0012,San Antonio Chum,0140
+31,101,0013,San Antonio Mulix,0155
+31,101,0016,Ticimul,0155
+31,102,0149,X-Cohuó,0171
+31,102,0481,X-Bacab,0171
+31,102,0631,Bolmay,0222
+31,102,0655,Santa Eleuteria,0186
+32,001,0030,Los Llamas (San Isidro),0027
+32,001,0034,Media Luna,0012
+32,001,0056,El Tule,0027
+32,003,0010,El Durazno,0017
+32,003,0019,Salisflor,0021
+32,005,0015,Noria de Agostadero (El Agostadero),0079
+32,005,0190,Calera [Parque Industrial],0045
+32,007,0011,Los Encinos,0285
+32,007,0012,Guadalupe Garzarón,0092
+32,007,0021,Pabellón Hidalgo (El Pabellón),0105
+32,007,0050,La Curva,0054
+32,009,0002,General Jesús González Ortega (Agua Vieja),0044
+32,009,0067,La Purísima (Ojo del Toro),0097
+32,010,0078,Buenavista de Rivera,0581
+32,010,0083,Las Catarinas,0717
+32,010,0092,Chichimequillas,0384
+32,010,0134,Rafael Yáñez Sosa (El Mezquite),037A
+32,010,0140,Colonia Montemariana (Colonia Mariana),0172
+32,010,0155,Órganos,076A
+32,010,0188,Rincón de la Florida,0647
+32,010,0193,El Salto,0280
+32,010,0230,Santiaguillo,0596
+32,010,0256,Vicente Guerrero (Ábrego),0242
+32,010,0284,Los Pocitos,0346
+32,010,0360,Colonia Benito Juárez,0702
+32,010,0415,La Cabaña (San Miguel del Alto),0276
+32,010,0488,Las Maravillas [Rancho],0454
+32,010,1289,Las Tres Marías,0717
+32,014,0020,General Manuel Ávila Camacho (Mesillas),0129
+32,014,0023,La Laguna (La Laguna Valenciana),0082
+32,014,0057,Villa Cárdenas,0025
+32,016,0014,Providencia,0053
+32,016,0061,Colonia Aurelio Pámanes Escobedo (El Socorro),0034
+32,017,0007,Casa Blanca,0027
+32,017,0017,La Luz,0031
+32,017,0038,Santa Mónica,0050
+32,018,0014,Ciénega de San Felipe (Ciénega de Abajo),001A
+32,019,0055,Guadalupe Victoria (La Villita),0021
+32,019,0133,San José de Huaracha,0074
+32,020,0012,San Juan del Centro,0094
+32,020,0024,Ermita de Guadalupe,0198
+32,020,0026,Estancia de los García,0183
+32,020,0052,Lo de Nava,0107
+32,020,0066,Los Nogales,0060
+32,020,0097,San Rafael,0126
+32,020,0105,El Tesorero,0056
+32,021,0014,Ventura (Buenaventura),0034
+32,023,0024,Mezquitera Sur,001A
+32,023,0098,Mezquitera Norte,0039
+32,024,0008,Crisóstomos,006A
+32,024,0010,Ejido Hidalgo,0021
+32,024,0077,El Matorral,0074
+32,026,0017,Cedros,0327
+32,026,0031,Estanque Gallegos (Gallegos),0539
+32,026,0047,La Mejorada,0581
+32,026,0052,Los Novillos,0331
+32,026,0076,Salto de San Juan,1363
+32,026,0092,San Rafael (José María Morelos),0399
+32,026,0101,San Tiburcio,1255
+32,026,0165,La Fábrica,1113
+32,026,0250,Francisco Villa Uno,005A
+32,027,0009,Matamoros,0108
+32,027,0013,Presa de los Ángeles (La Presa),0019
+32,027,0020,Santa Elena de la Cruz (Nuevo Rodeo),0131
+32,028,0031,Hacienda Vieja,0054
+32,029,0005,Manantial de la Honda (Carboneras),0102
+32,029,0009,Colonia Veinte de Noviembre (Santa Ana),0013
+32,029,0041,Campo Quince (San Lorenzo),0117
+32,029,0042,Campo Dieciséis (La Honda),0136
+32,031,0037,Huejuquillita de los Márquez,0149
+32,031,0061,Ojo de Agua de Rojas,0172
+32,033,0044,Las Palmas,0073
+32,034,0044,La Cofradía,0066
+32,034,0187,Tlachichila,0028
+32,034,0247,Colonia Lindavista,0051
+32,034,0301,Los Tolentinos (Los Bordos),0066
+32,034,0307,Los Tepetates,0085
+32,035,0008,General Guadalupe Victoria (Estación la Honda),003A
+32,035,0012,Puerto de Juan Alberto,0044
+32,035,0035,Genaro [Estación],0025
+32,036,0010,Cerrito del Agua,0094
+32,037,0017,Los Pozos,0015
+32,037,0029,Valle Hermoso,002A
+32,038,0019,Colonia Belisario Domínguez (Las Güeritas),0192
+32,038,0059,Espíritu Santo,0046
+32,038,0075,Jaltomate,0205
+32,038,0152,El Remanente,014A
+32,038,0160,San Andrés,0065
+32,038,0219,La Victoria,0116
+32,038,0367,El Llano,0050
+32,039,0003,Anastasio V. Hinojosa,0147
+32,039,0019,José María Morelos y Pavón (La Almoloya),0043
+32,039,0027,Los Ramírez,0081
+32,039,0029,San Felipe,0128
+32,040,0017,Francisco I. Madero (San Isidro),0059
+32,040,0018,El Fresno,0010
+32,040,0110,La Y Griega,003A
+32,041,0003,General Gertrudis Sánchez (Santa Rita),0056
+32,041,0007,Tanque Nuevo,0056
+32,042,0008,Benito Juárez,0091
+32,042,0025,Corrales,0439
+32,042,0030,Doroteo Arango (Gatas Mochas),0123
+32,042,0032,Emiliano Zapata (Juanes),0157
+32,042,0088,Rancho Nuevo del Carmen (Rancho Nuevo),0299
+32,042,0103,San Francisco de las Flores (El Ranchito),0180
+32,042,0185,El Álamo,0138
+32,042,0233,Luis Echeverría,0053
+32,045,0045,El Terrero,0021
+32,046,0013,La Cuadrilla,0029
+32,046,0028,Lo de Nava,0052
+32,046,0030,El Maresito,0029
+32,046,0052,La Troje,0052
+32,049,0072,Palmitos,050A
+32,049,0077,Peñitas de Oriente,0389
+32,049,0084,Las Pomas (Las Palomas),0209
+32,049,0086,Colonia Progreso (La Cadena),0196
+32,049,0111,San Juan Capistrano,0533
+32,049,0112,Colonia San Julián,0196
+32,049,0144,Vicente Escudero (Viudas),0393
+32,051,0004,Aldea de Codornices (Jesús María),0118
+32,051,0020,La Colorada [Estación de Ferrocarril],0067
+32,051,0032,Flores Magón (San Julián),0300
+32,051,0037,La Mancha,0476
+32,051,0038,Manganita,0298
+32,051,0190,San Antonio de la Rosa (San Antonio),0349
+32,052,0051,Tierritas Blancas,0026
+32,052,0061,La Puerta de Jalisco,0030
+32,053,0009,Cerrito del Agua,0038
+32,053,0020,La Mesita Redonda,0019
+32,054,0019,El Fraile,0035
+32,055,0049,Ojo de Agua del Tigre,0066
+32,055,0062,La Quemada (Hacienda la Quemada),0085
+32,055,0069,El Salto,009A
+32,055,0100,Villa Zaragoza (Palo Gordo),0136
+32,056,0028,Cieneguillas,0025
+32,056,0034,García de la Cadena (El Visitador),0167
+32,058,0017,El Soto,0049

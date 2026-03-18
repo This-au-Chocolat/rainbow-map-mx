@@ -1,0 +1,33 @@
+cve_ent,nom_ent,nombre_normalizado,cvegeo
+01,Aguascalientes,aguascalientes,01
+02,Baja California,baja_california,02
+03,Baja California Sur,baja_california_sur,03
+04,Campeche,campeche,04
+05,Coahuila de Zaragoza,coahuila,05
+06,Colima,colima,06
+07,Chiapas,chiapas,07
+08,Chihuahua,chihuahua,08
+09,Ciudad de México,ciudad_de_mexico,09
+10,Durango,durango,10
+11,Guanajuato,guanajuato,11
+12,Guerrero,guerrero,12
+13,Hidalgo,hidalgo,13
+14,Jalisco,jalisco,14
+15,México,mexico,15
+16,Michoacán de Ocampo,michoacan,16
+17,Morelos,morelos,17
+18,Nayarit,nayarit,18
+19,Nuevo León,nuevo_leon,19
+20,Oaxaca,oaxaca,20
+21,Puebla,puebla,21
+22,Querétaro,queretaro,22
+23,Quintana Roo,quintana_roo,23
+24,San Luis Potosí,san_luis_potosi,24
+25,Sinaloa,sinaloa,25
+26,Sonora,sonora,26
+27,Tabasco,tabasco,27
+28,Tamaulipas,tamaulipas,28
+29,Tlaxcala,tlaxcala,29
+30,Veracruz de Ignacio de la Llave,veracruz,30
+31,Yucatán,yucatan,31
+32,Zacatecas,zacatecas,32

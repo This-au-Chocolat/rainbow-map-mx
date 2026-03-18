@@ -1,0 +1,27 @@
+# Python env
+.venv/
+__pycache__/
+*.pyc
+
+# OS/editor
+.DS_Store
+.vscode/
+
+# Large raw source files not suitable for regular GitHub push
+source_inegi/mg_2025_integrado.zip
+source_inegi/conjunto_de_datos/*.shp
+source_inegi/conjunto_de_datos/*.dbf
+source_inegi/conjunto_de_datos/*.shx
+source_inegi/conjunto_de_datos/*.cpg
+source_inegi/conjunto_de_datos/*.prj
+source_inegi/catalogos/*.pdf
+
+# Keep only state layer (00ent) needed for this base dashboard
+!source_inegi/conjunto_de_datos/00ent.cpg
+!source_inegi/conjunto_de_datos/00ent.dbf
+!source_inegi/conjunto_de_datos/00ent.prj
+!source_inegi/conjunto_de_datos/00ent.shp
+!source_inegi/conjunto_de_datos/00ent.shx
+
+# Generated heavy artifacts
+dashboard_base/data/processed/mexico_entidades_4326.geojson
