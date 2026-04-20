@@ -19,6 +19,29 @@ const INDICATOR_META = {
   category_status: { label: "Estatus global", type: "categorical" }
 };
 
+const PILLAR_INFO = {
+  pilar_1_score: {
+    title: "Pilar 1: Existencia de la ley",
+    tag: "Marco Normativo",
+    content: "Por hacer"
+  },
+  pilar_2_score: {
+    title: "Pilar 2: Cumplimiento",
+    tag: "Implementación",
+    content: "Por hacer"
+  },
+  pilar_3_score: {
+    title: "Pilar 3: Percepción Social",
+    tag: "Sociedad",
+    content: "Se observa una brecha crítica entre la aceptación teórica y la realidad vivida. Aunque hay apertura al liderazgo, la discriminación persiste en espacios públicos. Es imperativo desarrollar políticas que combatan activamente el estigma cotidiano."
+  },
+  pilar_4_score: {
+    title: "Pilar 4: Salud Mental",
+    tag: "Bienestar",
+    content: "Se identifica un pico de vulnerabilidad extrema en jóvenes (15-24 años) con tasas altas de ideación suicida. Existe una negligencia institucional donde más del 50% presenta síntomas pero el acceso a atención profesional es casi inexistente."
+  }
+};
+
 const NUMERIC_INDICATORS = new Set(
   Object.entries(INDICATOR_META)
     .filter(([, v]) => v.type === "numeric")
@@ -247,6 +270,7 @@ function renderLayer() {
         state.selectedCve = cve;
         updateDetail(cve);
         renderLayer();
+        renderPillarChart(cve);
       });
 
       layer.on("mouseover", () => {
@@ -269,6 +293,57 @@ function renderLayer() {
   }
 
   updateLegend(breaks);
+}
+
+function renderPillarChart(cveEnt = null) {
+  const container = document.getElementById("pillarChart");
+  const pillars = ["pilar_1_score", "pilar_2_score", "pilar_3_score", "pilar_4_score"];
+  
+  let data;
+  if (cveEnt && state.indicatorsByCve.has(cveEnt)) {
+    data = state.indicatorsByCve.get(cveEnt);
+  } else {
+    // Calculate national average
+    data = {};
+    pillars.forEach(p => {
+      const values = Array.from(state.indicatorsByCve.values()).map(r => r[p]);
+      data[p] = values.reduce((a, b) => a + b, 0) / values.length;
+    });
+  }
+
+  container.innerHTML = "";
+  pillars.forEach(p => {
+    const value = data[p].toFixed(1);
+    const label = INDICATOR_META[p].label.split(":")[1].trim();
+    
+    const row = document.createElement("div");
+    row.className = "pillar-row";
+    row.innerHTML = `
+      <div class="pillar-label">${label}</div>
+      <div class="pillar-bar-wrapper">
+        <div class="pillar-bar-bg">
+          <div class="pillar-bar-fill" style="width: ${value}%"></div>
+        </div>
+        <div class="pillar-value">${value}%</div>
+      </div>
+    `;
+    
+    row.addEventListener("click", () => showPillarInfo(p));
+    container.appendChild(row);
+  });
+}
+
+function showPillarInfo(pilarKey) {
+  const infoPanel = document.getElementById("pillarInfoPanel");
+  const info = PILLAR_INFO[pilarKey];
+  
+  infoPanel.innerHTML = `
+    <div class="info-content">
+      <span class="info-tag">${info.tag}</span>
+      <h3>${info.title}</h3>
+      <p>${info.content}</p>
+    </div>
+  `;
 }
 
 function initMap() {
@@ -303,6 +378,7 @@ async function bootstrap() {
   setLastUpdate();
   bindControls();
   initMap();
+  renderPillarChart(); // Render national average by default
 }
 
 bootstrap().catch((err) => {
