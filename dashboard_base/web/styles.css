@@ -87,6 +87,24 @@ h1 {
   position: relative;
 }
 
+.indicator-description {
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  background: #f8fbff;
+  padding: 0.7rem 1rem;
+  font-size: 0.86rem;
+}
+
+.indicator-description strong {
+  color: #102a43;
+}
+
+.indicator-description p {
+  margin: 0.3rem 0 0;
+  color: var(--muted);
+  line-height: 1.4;
+}
+
 .panel-topbar {
   display: flex;
   justify-content: space-between;
@@ -123,6 +141,10 @@ select {
   height: 620px;
   background:
     radial-gradient(circle at 18% 20%, #f6fbff 0%, #edf4fa 40%, #e6eef5 100%);
+}
+
+.map-stage {
+  display: block;
 }
 
 .detail-panel {
@@ -177,6 +199,45 @@ select {
   align-items: center;
   gap: 0.45rem;
   margin-top: 0.22rem;
+}
+
+.legend-note {
+  margin-top: 0.35rem;
+  margin-bottom: 0.25rem;
+  font-size: 0.74rem;
+  color: #334e68;
+  font-weight: 600;
+}
+
+.legend-gradient {
+  height: 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin-top: 0.35rem;
+}
+
+.legend-scale {
+  margin-top: 0.2rem;
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.7rem;
+  color: #334e68;
+}
+
+.legend-scale span {
+  width: 33%;
+}
+
+.legend-scale span:nth-child(1) {
+  text-align: left;
+}
+
+.legend-scale span:nth-child(2) {
+  text-align: center;
+}
+
+.legend-scale span:nth-child(3) {
+  text-align: right;
 }
 
 .legend-swatch {

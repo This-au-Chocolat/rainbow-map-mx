@@ -1,0 +1,51 @@
+﻿nombre_campo,longitud,tipo,nemónico,catálogo,rango_claves
+Número de folio,7,C,folio,,0100038...3260770
+Número de vivienda seleccionada,2,C,viv_sel,,01...22
+Número de hogar en la vivienda,1,C,hogar,,1...5
+Número de renglón de la persona elegida,2,C,n_ren,,01...12
+"Pregunta P6.1.01 Desde los 12 años a la fecha, ¿quién o quiénes han estado al cuidado de ti? (Aunque no vivan en la misma vivienda) - Mamá",1,C,p6_1_01,p6_1_01,"1,2"
+"Pregunta P6.1.02 Desde los 12 años a la fecha, ¿quién o quiénes han estado al cuidado de ti? (Aunque no vivan en la misma vivienda) - Papá",1,C,p6_1_02,p6_1_02,"1,2"
+"Pregunta P6.1.03 Desde los 12 años a la fecha, ¿quién o quiénes han estado al cuidado de ti? (Aunque no vivan en la misma vivienda) - Abuela(s)",1,C,p6_1_03,p6_1_03,"1,2"
+"Pregunta P6.1.04 Desde los 12 años a la fecha, ¿quién o quiénes han estado al cuidado de ti? (Aunque no vivan en la misma vivienda) - Abuelo(s)",1,C,p6_1_04,p6_1_04,"1,2"
+"Pregunta P6.1.05 Desde los 12 años a la fecha, ¿quién o quiénes han estado al cuidado de ti? (Aunque no vivan en la misma vivienda) - Hermana(s)",1,C,p6_1_05,p6_1_05,"1,2"
+"Pregunta P6.1.06 Desde los 12 años a la fecha, ¿quién o quiénes han estado al cuidado de ti? (Aunque no vivan en la misma vivienda) - Hermano(s)",1,C,p6_1_06,p6_1_06,"1,2"
+"Pregunta P6.1.07 Desde los 12 años a la fecha, ¿quién o quiénes han estado al cuidado de ti? (Aunque no vivan en la misma vivienda) - Tía(s)",1,C,p6_1_07,p6_1_07,"1,2"
+"Pregunta P6.1.08 Desde los 12 años a la fecha, ¿quién o quiénes han estado al cuidado de ti? (Aunque no vivan en la misma vivienda) - Tío(s)",1,C,p6_1_08,p6_1_08,"1,2"
+"Pregunta P6.1.09 Desde los 12 años a la fecha, ¿quién o quiénes han estado al cuidado de ti? (Aunque no vivan en la misma vivienda) - Otro(s) familiar(es)",1,C,p6_1_09,p6_1_09,"1,2"
+"Pregunta P6.1.10 Desde los 12 años a la fecha, ¿quién o quiénes han estado al cuidado de ti? (Aunque no vivan en la misma vivienda) - Otro(s) no familiar(es)",1,C,p6_1_10,p6_1_10,"1,2"
+"Pregunta P6.2.1 Desde los 12 años a la fecha, ¿la comunicación que has mantenido con tu mamá...?",1,C,p6_2_1,p6_2_1,1...4
+"Pregunta P6.3A.1 Desde los 12 años a la fecha, ¿has platicado o contado a tu mamá sobre asuntos de la escuela (materias, calificaciones, maestros, tareas)...?",1,C,p6_3a_1,p6_3a_1,1...5
+"Pregunta P6.3B.1 Desde los 12 años a la fecha, ¿has platicado o contado a tu mamá de tus amigas o amigos...?",1,C,p6_3b_1,p6_3b_1,1...5
+"Pregunta P6.3C.1 Desde los 12 años a la fecha, ¿has platicado o contado a tu mamá cuando tienes un problema...?",1,C,p6_3c_1,p6_3c_1,1...5
+"Pregunta P6.3D.1 Desde los 12 años a la fecha, ¿has platicado o contado a tu mamá de las personas que te gustan o atraen...?",1,C,p6_3d_1,p6_3d_1,1...5
+"Pregunta P6.2.2 Desde los 12 años a la fecha, ¿la comunicación que has mantenido con tu papá...?",1,C,p6_2_2,p6_2_2,1...4
+"Pregunta P6.3A.2 Desde los 12 años a la fecha, ¿has platicado o contado a tu papá sobre asuntos de la escuela (materias, calificaciones, maestros, tareas)...?",1,C,p6_3a_2,p6_3a_2,1...5
+"Pregunta P6.3B.2 Desde los 12 años a la fecha, ¿has platicado o contado a tu papá de tus amigas o amigos...?",1,C,p6_3b_2,p6_3b_2,1...5
+"Pregunta P6.3C.2 Desde los 12 años a la fecha, ¿has platicado o contado a tu papá cuando tienes un problema...?",1,C,p6_3c_2,p6_3c_2,1...5
+"Pregunta P6.3D.2 Desde los 12 años a la fecha, ¿has platicado o contado a tu papá de las personas que te gustan o atraen...?",1,C,p6_3d_2,p6_3d_2,1...5
+"Pregunta P6.2.3 Desde los 12 años a la fecha, ¿la comunicación que has mantenido con tu(s) (RESPUESTA DE 6.1)...?",1,C,p6_2_3,p6_2_3,1...4
+"Pregunta P6.3A.3 Desde los 12 años a la fecha, ¿has platicado o contado a tu(s) (RESPUESTA DE 6.1) sobre asuntos de la escuela (materias, calificaciones, maestros, tareas)...?",1,C,p6_3a_3,p6_3a_3,1...5
+"Pregunta P6.3B.3 Desde los 12 años a la fecha, ¿has platicado o contado a tu(s) (RESPUESTA DE 6.1) de tus amigas o amigos...?",1,C,p6_3b_3,p6_3b_3,1...5
+"Pregunta P6.3C.3 Desde los 12 años a la fecha, ¿has platicado o contado a tu(s) (RESPUESTA DE 6.1) cuando tienes un problema...?",1,C,p6_3c_3,p6_3c_3,1...5
+"Pregunta P6.3D.3 Desde los 12 años a la fecha, ¿has platicado o contado a tu(s) (RESPUESTA DE 6.1) de las personas que te gustan o atraen...?",1,C,p6_3d_3,p6_3d_3,1...5
+Pregunta P6.4.1 ¿Te han hecho sentir diferente a la mayoría de las(os) chicas(os) por tu forma de vestirte o arreglarte?,1,C,p6_4_1,p6_4_1,"1,2"
+Pregunta P6.4.2 ¿Te han hecho sentir diferente a la mayoría de las(os) chicas(os) por tus gustos o intereses?,1,C,p6_4_2,p6_4_2,"1,2"
+Pregunta P6.4.3 ¿Te han hecho sentir diferente a la mayoría de las(os) chicas(os) por tu forma de hablar o expresarte?,1,C,p6_4_3,p6_4_3,"1,2"
+Pregunta P6.4.4 ¿Te han hecho sentir diferente a la mayoría de las(os) chicas(os) por tus modos o manera de comportarte?,1,C,p6_4_4,p6_4_4,"1,2"
+"Pregunta P6.5.1 Desde los 12 años a la fecha, ¿por molestarte o hacerte sentir mal te han rechazado o excluido de actividades sociales?",1,C,p6_5_1,p6_5_1,"1,2"
+"Pregunta P6.5.2 Desde los 12 años a la fecha, ¿por molestarte o hacerte sentir mal te han insultado, se han burlado o te han dicho cosas que te ofenden?",1,C,p6_5_2,p6_5_2,"1,2"
+"Pregunta P6.5.3 Desde los 12 años a la fecha, ¿por molestarte o hacerte sentir mal te han robado, escondido o roto tus pertenencias?",1,C,p6_5_3,p6_5_3,"1,2"
+"Pregunta P6.5.4 Desde los 12 años a la fecha, ¿por molestarte o hacerte sentir mal te han amenazado o chantajeado?",1,C,p6_5_4,p6_5_4,"1,2"
+"Pregunta P6.5.5 Desde los 12 años a la fecha, ¿por molestarte o hacerte sentir mal te han empujado, jaloneado o golpeado?",1,C,p6_5_5,p6_5_5,"1,2"
+"Pregunta P6.6.1 De las siguientes personas, indica quién o quiénes te han hablado u orientado sobre temas de sexualidad: - mamá",1,C,p6_6_1,p6_6_1,"1,2"
+"Pregunta P6.6.2 De las siguientes personas, indica quién o quiénes te han hablado u orientado sobre temas de sexualidad: - papá",1,C,p6_6_2,p6_6_2,"1,2"
+"Pregunta P6.6.3 De las siguientes personas, indica quién o quiénes te han hablado u orientado sobre temas de sexualidad: - hermana(s), hermano(s)",1,C,p6_6_3,p6_6_3,"1,2"
+"Pregunta P6.6.4 De las siguientes personas, indica quién o quiénes te han hablado u orientado sobre temas de sexualidad: - otro familiar",1,C,p6_6_4,p6_6_4,"1,2"
+"Pregunta P6.6.5 De las siguientes personas, indica quién o quiénes te han hablado u orientado sobre temas de sexualidad: - amiga(o) o conocida(o)",1,C,p6_6_5,p6_6_5,"1,2"
+"Pregunta P6.6.6 De las siguientes personas, indica quién o quiénes te han hablado u orientado sobre temas de sexualidad: - maestra(o) u orientador(a) escolar",1,C,p6_6_6,p6_6_6,"1,2"
+"Pregunta P6.6.7 De las siguientes personas, indica quién o quiénes te han hablado u orientado sobre temas de sexualidad: - especialista de la salud (psicólogo, médico, enfermera)",1,C,p6_6_7,p6_6_7,"1,2"
+"Pregunta P6.6.8 De las siguientes personas, indica quién o quiénes te han hablado u orientado sobre temas de sexualidad: - otra persona distinta a las anteriores",1,C,p6_6_8,p6_6_8,"1,2"
+"Pregunta P6.6.9 De las siguientes personas, indica quién o quiénes te han hablado u orientado sobre temas de sexualidad: - nadie le ha hablado u orientado",1,C,p6_6_9,p6_6_9,"1,2"
+Estrato de diseño,3,C,est_dis,,001...513
+Unidad Primaria de Muestreo de Diseño,7,C,upm_dis,,0000003...0006371
+Factor de expansión,5,C,factor,,124...30447

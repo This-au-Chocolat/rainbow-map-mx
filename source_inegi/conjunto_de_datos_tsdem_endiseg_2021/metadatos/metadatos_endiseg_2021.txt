@@ -1,0 +1,29 @@
+﻿Identifier: MEX-INEGI.ESD3.04-ENDISEG-2021
+
+Title: Encuesta Nacional sobre Diversidad Sexual y de Género (ENDISEG) 2021. Datos oportunos
+
+Description: Encuesta Nacional sobre Diversidad Sexual y Género (ENDISEG) 2021, es un proyecto estadístico que el Instituto Nacional de Estadística y Geografía (INEGI) desarrolló con la colaboración conceptual del Consejo 
+Nacional para Prevenir la Discriminación (CONAPRED), con el fin de satisfacer las necesidades de información de la población de 15 años o más relacionadas con sus características sexuales, identidad de género y orientación 
+sexual. Esta encuesta está diseñada para identificar a la población cuya identidad u orientación no se ajusta a las expectativas socialmente establecidas, es decir, aquella con identidad de género u orientación sexual no normativa
+
+Modified: 2022-06-28
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: https://www.inegi.org.mx/inegi/terminos.html 
+
+DataDictionary: 
+
+Keyword: "Autoidentificación", "Binarismo", "Cisgénero", "Discriminación", "Emocional", "Encuesta", "Eudaimónico", "Gay", "Genderqueer", "Género", "Hogar", "Identidad", "Lesbiana", "LGBTI+", "Orientación", "OSIG", "Pansexualidad", "Población", "Queer", "Salud", "Sexualidad", "Transexual", "Transgénero", "Travesti"
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2021-08-23-2022-01-16
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: No definida
+
+Distribution: https://www.inegi.org.mx/programas/ENDISEG/2021/

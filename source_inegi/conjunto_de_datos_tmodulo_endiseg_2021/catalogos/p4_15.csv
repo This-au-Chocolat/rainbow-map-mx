@@ -1,0 +1,7 @@
+cve,descrip
+1,Empleada(o) u obrera(o)
+2,Jornalera(o) o peón(a)
+3,Ayudante con pago
+4,Patrón(a) o empleador(a) (tiene trabajadores por un sueldo)
+5,Trabajador(a) por cuenta propia (no tiene trabajadores por un sueldo)
+6,Trabajador(a) sin pago

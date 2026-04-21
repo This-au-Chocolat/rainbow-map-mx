@@ -1,0 +1,29 @@
+Identifier: MEX-INEGI.EGS3.02-ENADIS-2022
+
+Title: Encuesta Nacional sobre Discriminación 2022. Datos oportunos.
+
+Description: INEGI. Encuesta Nacional sobre Discriminación 2022.
+
+El Instituto Nacional de Estadística y Geografía (INEGI) levanta la Encuesta Nacional sobre Discriminación (ENADIS) 2022, con el objetivo de reconocer la magnitud de la discriminación y sus diversas manifestaciones en la vida cotidiana, profundizando en el conocimiento sobre quién o quiénes discriminan, en qué ámbitos de la vida se presenta este problema con mayor frecuencia y los factores socioculturales que se le relacionan. Asimismo, conocer las percepciones de la discriminación entre la población en general y desde los distintos grupos de la población que por sus características, son discriminados.
+
+Modified: 2023-06-01.
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI.
+  
+Mbox: atencion.usuarios@inegi.org.mx
+  
+License: http://www.inegi.org.mx/inegi/terminos.html
+  
+DataDictionary: https://www.inegi.org.mx/rnm/index.php/catalog/865/data_dictionary?idPro=
+  
+Keyword: "discriminación", "derechos", "estereotipos", "prejuicios", "estigmas", "valores", "intolerancia", "respeto", "igualdad", "población indígena", "población afrodescendiente", "personas con discapacidad", "migrantes", "diversidad religiosa", "personas mayores", "niñas", "niños", "adolescentes", "jóvenes", "mujeres", "trabajadoras del hogar", "orientación sexual", "identidad de género", "tono de piel".
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2021-07-18-2022-09-09.
+  
+Spatial: Estados Unidos Mexicanos.
+  
+AccrualPeriodicity: No determinada.
+
+Distribution: https://www.inegi.org.mx/programas/enadis/2022/

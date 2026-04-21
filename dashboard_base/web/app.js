@@ -1,44 +1,57 @@
 const INDICATOR_META = {
   rainbow_score: { label: "Indice compuesto (0-100)", type: "numeric" },
-  pilar_1_score: { label: "Pilar 1: Existencia de la ley", type: "numeric" },
-  pilar_2_score: { label: "Pilar 2: Cumplimiento", type: "numeric" },
   pilar_3_score: { label: "Pilar 3: Percepcion social", type: "numeric" },
   pilar_4_score: { label: "Pilar 4: Salud mental", type: "numeric" },
-  L1_proteccion_antidiscriminacion: { label: "L1 Proteccion antidiscriminacion", type: "numeric" },
-  L2_reconocimiento_parejas: { label: "L2 Reconocimiento de parejas", type: "numeric" },
-  L3_identidad_documentos: { label: "L3 Identidad en documentos", type: "numeric" },
-  C1_mecanismo_denuncia_sancion: { label: "C1 Denuncia y sancion", type: "numeric" },
-  C2_prohibicion_ecosig: { label: "C2 Prohibicion ECOSIG", type: "numeric" },
-  C3_delitos_odio_registro_protocolo: { label: "C3 Delitos de odio", type: "numeric" },
   S1_aceptacion_convivencia_pareja: { label: "S1 Aceptacion convivencia", type: "numeric" },
   S2_aceptacion_liderazgo_lgbt_trans: { label: "S2 Aceptacion liderazgo", type: "numeric" },
-  S3_discriminacion_reportada: { label: "S3 Discriminacion reportada", type: "numeric" },
-  M1_sintomas_depresivos_ansiosos: { label: "M1 Sintomas depresivos/ansiosos", type: "numeric" },
-  M2_ideacion_intento_suicida: { label: "M2 Ideacion/intento suicida", type: "numeric" },
+  S3_discriminacion_reportada: { label: "S3 Prevalencia de discriminacion", type: "numeric" },
+  M1_sintomas_depresivos_ansiosos: { label: "M1 Prevalencia sintomas depresivos/ansiosos", type: "numeric" },
+  M2_ideacion_intento_suicida: { label: "M2 Prevalencia ideacion/intento suicida", type: "numeric" },
   M3_acceso_salud_mental: { label: "M3 Acceso salud mental", type: "numeric" },
-  category_status: { label: "Estatus global", type: "categorical" }
+  category_status: { label: "Estatus global compuesto", type: "categorical" }
+};
+
+const INDICATOR_DEFINITIONS = {
+  rainbow_score:
+    "Score compuesto (0-100) calculado como promedio de Pilar 3 y Pilar 4. Alto = mejor desempeno relativo.",
+  pilar_3_score:
+    "Promedio de S1, S2 y (100 - S3). Resume percepcion social: mayor aceptacion y menor discriminacion.",
+  pilar_4_score:
+    "Promedio de (100 - M1), (100 - M2) y M3. Resume salud mental con orientacion mejor-es-mayor.",
+  S1_aceptacion_convivencia_pareja:
+    "Porcentaje estandarizado de aceptacion a que dos personas del mismo sexo vivan juntas en pareja. Alto = mejor.",
+  S2_aceptacion_liderazgo_lgbt_trans:
+    "Porcentaje estandarizado de aceptacion al liderazgo politico de personas LGBT/trans. Alto = mejor.",
+  S3_discriminacion_reportada:
+    "Prevalencia estandarizada de discriminacion reportada en los ultimos 12 meses. Alto = peor (mas discriminacion).",
+  M1_sintomas_depresivos_ansiosos:
+    "Prevalencia estandarizada de sintomas depresivos/ansiosos. Alto = peor (mas afectacion).",
+  M2_ideacion_intento_suicida:
+    "Prevalencia estandarizada de ideacion o intento suicida. Alto = peor (mayor riesgo).",
+  M3_acceso_salud_mental:
+    "Porcentaje estandarizado de acceso a atencion en salud mental cuando se requiere. Alto = mejor.",
+  category_status:
+    "Clasificacion relativa por terciles del score compuesto: rezago, avance o lider."
 };
 
 const PILLAR_INFO = {
-  pilar_1_score: {
-    title: "Pilar 1: Existencia de la ley",
-    tag: "Marco Normativo",
-    content: "Por hacer"
-  },
-  pilar_2_score: {
-    title: "Pilar 2: Cumplimiento",
-    tag: "Implementación",
-    content: "Por hacer"
+  rainbow_score: {
+    title: "Indice compuesto (0-100)",
+    tag: "Resumen",
+    content:
+      "Promedio simple de Pilar 3 (Percepcion social) y Pilar 4 (Salud mental). Permite una lectura rapida del desempeno relativo de cada entidad."
   },
   pilar_3_score: {
-    title: "Pilar 3: Percepción Social",
+    title: "Pilar 3: Percepcion social",
     tag: "Sociedad",
-    content: "Se observa una brecha crítica entre la aceptación teórica y la realidad vivida. Aunque hay apertura al liderazgo, la discriminación persiste en espacios públicos. Es imperativo desarrollar políticas que combatan activamente el estigma cotidiano."
+    content:
+      "Integra S1, S2 y S3. Un puntaje mayor implica mayor aceptacion social y menor discriminacion reportada para poblacion LGBT+."
   },
   pilar_4_score: {
-    title: "Pilar 4: Salud Mental",
+    title: "Pilar 4: Salud mental",
     tag: "Bienestar",
-    content: "Se identifica un pico de vulnerabilidad extrema en jóvenes (15-24 años) con tasas altas de ideación suicida. Existe una negligencia institucional donde más del 50% presenta síntomas pero el acceso a atención profesional es casi inexistente."
+    content:
+      "Integra M1, M2 y M3 con orientacion mejor-es-mayor. Refleja menor prevalencia de condiciones de riesgo y mejor acceso a atencion."
   }
 };
 
@@ -49,29 +62,6 @@ const NUMERIC_INDICATORS = new Set(
 );
 
 const CATEGORICAL_PALETTES = {
-  marriage_equality: {
-    si: "#2a9d8f",
-    parcial: "#e9c46a",
-    no: "#e76f51"
-  },
-  anti_discrimination_law: {
-    si: "#2a9d8f",
-    no: "#e76f51"
-  },
-  gender_identity_recognition: {
-    administrativo: "#2a9d8f",
-    judicial: "#f4a261",
-    no: "#e76f51"
-  },
-  adoption_rights: {
-    si: "#2a9d8f",
-    no: "#e76f51",
-    parcial: "#e9c46a"
-  },
-  hate_crime_legislation: {
-    tipificado: "#2a9d8f",
-    no_tipificado: "#e76f51"
-  },
   category_status: {
     lider: "#1d7874",
     avance: "#679436",
@@ -79,14 +69,48 @@ const CATEGORICAL_PALETTES = {
   }
 };
 
-const COLORS_SCORE = [
-  "#f7fbff",
-  "#deebf7",
-  "#c6dbef",
-  "#9ecae1",
-  "#6baed6",
-  "#3182bd",
-  "#08519c"
+const POSITIVE_COLORS = [
+  "#fff5f5",
+  "#fdd7c1",
+  "#f7b267",
+  "#f0ea84",
+  "#90be6d",
+  "#43aa8b",
+  "#1d7874"
+];
+
+const NEGATIVE_COLORS = [
+  "#f2fbf6",
+  "#d6f5e3",
+  "#a8e4c4",
+  "#f0ea84",
+  "#f7b267",
+  "#f28482",
+  "#d1495b"
+];
+
+const NEGATIVE_INDICATORS = new Set([
+  "S3_discriminacion_reportada",
+  "M1_sintomas_depresivos_ansiosos",
+  "M2_ideacion_intento_suicida"
+]);
+
+const GLOBAL_STATUS_LABELS = {
+  lider: "Favorable",
+  avance: "Intermedio",
+  rezago: "Atencion prioritaria"
+};
+
+const DETAIL_METRICS = [
+  "rainbow_score",
+  "pilar_3_score",
+  "pilar_4_score",
+  "S1_aceptacion_convivencia_pareja",
+  "S2_aceptacion_liderazgo_lgbt_trans",
+  "S3_discriminacion_reportada",
+  "M1_sintomas_depresivos_ansiosos",
+  "M2_ideacion_intento_suicida",
+  "M3_acceso_salud_mental"
 ];
 
 const state = {
@@ -102,21 +126,20 @@ const state = {
 async function loadData() {
   const [geoRes, csvRes] = await Promise.all([
     fetch("../data/processed/mexico_entidades_4326_web.geojson"),
-    fetch("../data/processed/indicadores_demo_estatal.csv")
+    fetch("../data/processed/indicadores_dashboard_estatal.csv")
   ]);
 
   state.geojson = await geoRes.json();
   const csvText = await csvRes.text();
   const rows = parseCsv(csvText);
-  rows.forEach((row) => {
-    const numericRow = { ...row };
-    NUMERIC_INDICATORS.forEach((key) => {
-      numericRow[key] = Number(row[key]);
-    });
 
-    state.indicatorsByCve.set(row.cve_ent, {
-      ...numericRow
+  rows.forEach((row) => {
+    const parsed = { ...row };
+    NUMERIC_INDICATORS.forEach((key) => {
+      parsed[key] = Number(row[key]);
     });
+    parsed.low_reliability_count = Number(row.low_reliability_count || 0);
+    state.indicatorsByCve.set(row.cve_ent, parsed);
   });
 }
 
@@ -134,21 +157,51 @@ function parseCsv(text) {
 }
 
 function getNumericBreaks(values) {
-  const sorted = values.filter((v) => Number.isFinite(v)).sort((a, b) => a - b);
-  if (!sorted.length) return [0, 20, 40, 60, 80, 100];
-  const min = sorted[0];
-  const max = sorted[sorted.length - 1];
-  const step = (max - min) / 5 || 1;
-  return [min, min + step, min + 2 * step, min + 3 * step, min + 4 * step, max + 0.00001];
+  // Escala fija para comparabilidad: 0-100.
+  return [0, 20, 40, 60, 80, 100.00001];
 }
 
-function colorForNumeric(value, breaks) {
-  for (let i = 0; i < breaks.length - 1; i += 1) {
-    if (value >= breaks[i] && value < breaks[i + 1]) {
-      return COLORS_SCORE[i + 1] || COLORS_SCORE[COLORS_SCORE.length - 1];
-    }
+function clamp01(x) {
+  return Math.max(0, Math.min(1, x));
+}
+
+function hexToRgb(hex) {
+  const n = hex.replace("#", "");
+  const v = parseInt(n, 16);
+  return {
+    r: (v >> 16) & 255,
+    g: (v >> 8) & 255,
+    b: v & 255
+  };
+}
+
+function rgbToHex({ r, g, b }) {
+  const toHex = (c) => c.toString(16).padStart(2, "0");
+  return `#${toHex(r)}${toHex(g)}${toHex(b)}`;
+}
+
+function lerpColor(aHex, bHex, t) {
+  const a = hexToRgb(aHex);
+  const b = hexToRgb(bHex);
+  const u = clamp01(t);
+  return rgbToHex({
+    r: Math.round(a.r + (b.r - a.r) * u),
+    g: Math.round(a.g + (b.g - a.g) * u),
+    b: Math.round(a.b + (b.b - a.b) * u)
+  });
+}
+
+function colorForNumeric(value, indicator) {
+  const t = clamp01(Number(value) / 100);
+  // Semaforo continuo con punto medio amarillo.
+  const anchors = NEGATIVE_INDICATORS.has(indicator)
+    ? ["#1d7874", "#f0ea84", "#d1495b"] // bajo=mejor, alto=peor
+    : ["#d1495b", "#f0ea84", "#1d7874"]; // bajo=peor, alto=mejor
+
+  if (t <= 0.5) {
+    return lerpColor(anchors[0], anchors[1], t / 0.5);
   }
-  return COLORS_SCORE[0];
+  return lerpColor(anchors[1], anchors[2], (t - 0.5) / 0.5);
 }
 
 function styleFeature(feature, breaks) {
@@ -159,7 +212,7 @@ function styleFeature(feature, breaks) {
   let fillColor = "#d9e2ec";
   if (data) {
     if (NUMERIC_INDICATORS.has(indicator)) {
-      fillColor = colorForNumeric(Number(data[indicator]), breaks);
+      fillColor = colorForNumeric(Number(data[indicator]), indicator);
     } else {
       const palette = CATEGORICAL_PALETTES[indicator] || {};
       fillColor = palette[data[indicator]] || "#bcccdc";
@@ -182,21 +235,52 @@ function updateLegend(breaks) {
 
   if (NUMERIC_INDICATORS.has(indicator)) {
     let html = `<strong>${label}</strong><br/>`;
-    for (let i = 0; i < breaks.length - 1; i += 1) {
-      const from = breaks[i].toFixed(1);
-      const to = breaks[i + 1].toFixed(1);
-      html += `<div class="legend-item"><span class="legend-swatch" style="background:${COLORS_SCORE[i + 1]}"></span>${from} - ${to}</div>`;
-    }
+    const legendHint = NEGATIVE_INDICATORS.has(indicator)
+      ? "Alto = peor (mas prevalencia)"
+      : "Alto = mejor";
+    html += `<div class="legend-note">${legendHint}</div>`;
     legend.innerHTML = html;
     return;
   }
 
   const palette = CATEGORICAL_PALETTES[indicator] || {};
   let html = `<strong>${label}</strong><br/>`;
-  Object.entries(palette).forEach(([label, color]) => {
-    html += `<div class="legend-item"><span class="legend-swatch" style="background:${color}"></span>${label}</div>`;
+  Object.entries(palette).forEach(([entryLabel, color]) => {
+    html += `<div class="legend-item"><span class="legend-swatch" style="background:${color}"></span>${entryLabel}</div>`;
   });
   legend.innerHTML = html;
+}
+
+function updateIndicatorDescription() {
+  const el = document.getElementById("indicatorDescription");
+  const key = state.selectedIndicator;
+  const label = INDICATOR_META[key]?.label || key;
+  const definition = INDICATOR_DEFINITIONS[key] || "Sin descripcion disponible para este indicador.";
+  el.innerHTML = `<strong>Que mide ${label}:</strong><p>${definition}</p>`;
+}
+
+
+function metricRow(label, value) {
+  if (!Number.isFinite(value)) return `<dt>${label}</dt><dd>Sin dato</dd>`;
+  return `<dt>${label}</dt><dd>${value.toFixed(2)}</dd>`;
+}
+
+function classifyIndicatorValue(indicator, value) {
+  if (!Number.isFinite(value)) return "Sin clasificacion";
+
+  if (NEGATIVE_INDICATORS.has(indicator)) {
+    if (value <= 33.333) return "Favorable";
+    if (value <= 66.666) return "Intermedio";
+    return "Alerta";
+  }
+
+  if (NUMERIC_INDICATORS.has(indicator)) {
+    if (value <= 33.333) return "Atencion prioritaria";
+    if (value <= 66.666) return "Intermedio";
+    return "Favorable";
+  }
+
+  return "Sin clasificacion";
 }
 
 function updateDetail(cveEnt) {
@@ -212,30 +296,18 @@ function updateDetail(cveEnt) {
     return;
   }
 
+  const metricRows = DETAIL_METRICS.map((key) => metricRow(INDICATOR_META[key].label, row[key])).join("");
+  const globalStatusLabel = GLOBAL_STATUS_LABELS[row.category_status] || row.category_status;
+
   detail.innerHTML = `
     <h3>${row.nom_ent}</h3>
     <dl>
       <dt>Clave entidad</dt><dd>${row.cve_ent}</dd>
       <dt>Nombre normalizado</dt><dd>${row.nombre_normalizado}</dd>
-      <dt>Indice compuesto</dt><dd>${row.rainbow_score}</dd>
-      <dt>Pilar 1 score</dt><dd>${row.pilar_1_score}</dd>
-      <dt>Pilar 2 score</dt><dd>${row.pilar_2_score}</dd>
-      <dt>Pilar 3 score</dt><dd>${row.pilar_3_score}</dd>
-      <dt>Pilar 4 score</dt><dd>${row.pilar_4_score}</dd>
-      <dt>L1 Proteccion antidiscriminacion</dt><dd>${row.L1_proteccion_antidiscriminacion}</dd>
-      <dt>L2 Reconocimiento de parejas</dt><dd>${row.L2_reconocimiento_parejas}</dd>
-      <dt>L3 Identidad en documentos</dt><dd>${row.L3_identidad_documentos}</dd>
-      <dt>C1 Denuncia y sancion</dt><dd>${row.C1_mecanismo_denuncia_sancion}</dd>
-      <dt>C2 Prohibicion ECOSIG</dt><dd>${row.C2_prohibicion_ecosig}</dd>
-      <dt>C3 Delitos de odio</dt><dd>${row.C3_delitos_odio_registro_protocolo}</dd>
-      <dt>S1 Aceptacion convivencia</dt><dd>${row.S1_aceptacion_convivencia_pareja}</dd>
-      <dt>S2 Aceptacion liderazgo</dt><dd>${row.S2_aceptacion_liderazgo_lgbt_trans}</dd>
-      <dt>S3 Discriminacion reportada</dt><dd>${row.S3_discriminacion_reportada}</dd>
-      <dt>M1 Sintomas depresivos/ansiosos</dt><dd>${row.M1_sintomas_depresivos_ansiosos}</dd>
-      <dt>M2 Ideacion/intento suicida</dt><dd>${row.M2_ideacion_intento_suicida}</dd>
-      <dt>M3 Acceso salud mental</dt><dd>${row.M3_acceso_salud_mental}</dd>
-      <dt>Estatus global</dt><dd>${row.category_status}</dd>
-      <dt>notes</dt><dd>${row.notes}</dd>
+      ${metricRows}
+      <dt>Estatus global compuesto</dt><dd>${globalStatusLabel}</dd>
+      <dt>Banderas de baja confiabilidad</dt><dd>${row.low_reliability_count}</dd>
+      <dt>Notas</dt><dd>${row.notes}</dd>
     </dl>
   `;
 }
@@ -255,15 +327,22 @@ function renderLayer() {
       const cve = feature.properties.cve_ent;
       const data = state.indicatorsByCve.get(cve);
       const value = data ? data[indicator] : "sin dato";
-      const category = data ? data.category_status : "sin dato";
       const label = INDICATOR_META[indicator]?.label || indicator;
 
+      const printable = Number.isFinite(value) ? Number(value).toFixed(2) : value;
+      const indicatorClass = data && Number.isFinite(Number(value))
+        ? classifyIndicatorValue(indicator, Number(value))
+        : "Sin clasificacion";
+      const globalStatus = data
+        ? (GLOBAL_STATUS_LABELS[data.category_status] || data.category_status)
+        : "sin dato";
       layer.bindTooltip(`
         <strong>${feature.properties.nom_ent}</strong><br/>
         Clave: ${cve}<br/>
         Indicador: ${label}<br/>
-        Valor: ${value}<br/>
-        Categoria: ${category}
+        Valor: ${printable}<br/>
+        Categoria indicador: ${indicatorClass}<br/>
+        Estatus global: ${globalStatus}
       `);
 
       layer.on("click", () => {
@@ -297,46 +376,50 @@ function renderLayer() {
 
 function renderPillarChart(cveEnt = null) {
   const container = document.getElementById("pillarChart");
-  const pillars = ["pilar_1_score", "pilar_2_score", "pilar_3_score", "pilar_4_score"];
-  
+  const bars = ["rainbow_score", "pilar_3_score", "pilar_4_score"];
+
   let data;
   if (cveEnt && state.indicatorsByCve.has(cveEnt)) {
     data = state.indicatorsByCve.get(cveEnt);
   } else {
-    // Calculate national average
     data = {};
-    pillars.forEach(p => {
-      const values = Array.from(state.indicatorsByCve.values()).map(r => r[p]);
-      data[p] = values.reduce((a, b) => a + b, 0) / values.length;
+    bars.forEach((metric) => {
+      const values = Array.from(state.indicatorsByCve.values()).map((r) => r[metric]);
+      data[metric] = values.reduce((a, b) => a + b, 0) / values.length;
     });
   }
 
   container.innerHTML = "";
-  pillars.forEach(p => {
-    const value = data[p].toFixed(1);
-    const label = INDICATOR_META[p].label.split(":")[1].trim();
-    
+  bars.forEach((metric) => {
+    const value = Number(data[metric] || 0);
+    const label = INDICATOR_META[metric].label;
+
     const row = document.createElement("div");
     row.className = "pillar-row";
     row.innerHTML = `
       <div class="pillar-label">${label}</div>
       <div class="pillar-bar-wrapper">
         <div class="pillar-bar-bg">
-          <div class="pillar-bar-fill" style="width: ${value}%"></div>
+          <div class="pillar-bar-fill" style="width: ${value.toFixed(1)}%"></div>
         </div>
-        <div class="pillar-value">${value}%</div>
+        <div class="pillar-value">${value.toFixed(1)}%</div>
       </div>
     `;
-    
-    row.addEventListener("click", () => showPillarInfo(p));
+
+    row.addEventListener("click", () => showPillarInfo(metric));
     container.appendChild(row);
   });
 }
 
-function showPillarInfo(pilarKey) {
+function showPillarInfo(metricKey) {
   const infoPanel = document.getElementById("pillarInfoPanel");
-  const info = PILLAR_INFO[pilarKey];
-  
+  const info = PILLAR_INFO[metricKey];
+
+  if (!info) {
+    infoPanel.innerHTML = '<div class="info-placeholder"><p>Sin descripcion disponible.</p></div>';
+    return;
+  }
+
   infoPanel.innerHTML = `
     <div class="info-content">
       <span class="info-tag">${info.tag}</span>
@@ -361,6 +444,7 @@ function bindControls() {
   const select = document.getElementById("indicatorSelect");
   select.addEventListener("change", (e) => {
     state.selectedIndicator = e.target.value;
+    updateIndicatorDescription();
     renderLayer();
     if (state.selectedCve) {
       updateDetail(state.selectedCve);
@@ -377,12 +461,12 @@ async function bootstrap() {
   await loadData();
   setLastUpdate();
   bindControls();
+  updateIndicatorDescription();
   initMap();
-  renderPillarChart(); // Render national average by default
+  renderPillarChart();
 }
 
 bootstrap().catch((err) => {
-  // Keep failure visible in UI for easier debugging during prototyping.
   document.body.innerHTML = `<pre style="padding:1rem">Error inicializando dashboard:\n${String(err)}</pre>`;
   console.error(err);
 });

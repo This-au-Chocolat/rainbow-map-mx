@@ -1,0 +1,33 @@
+cve_ent,nom_ent,nombre_normalizado,S1_aceptacion_convivencia_pareja,S2_aceptacion_liderazgo_lgbt_trans,S3_discriminacion_reportada,M1_sintomas_depresivos_ansiosos,M2_ideacion_intento_suicida,M3_acceso_salud_mental,pilar_3_score,pilar_4_score,rainbow_score,category_status,notes,low_reliability_count
+01,Aguascalientes,aguascalientes,66.3371,71.5163,0.7308,71.4560,13.9591,1.2482,79.0409,38.6110,58.8259,avance,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+02,Baja California,baja_california,76.8253,82.4257,0.6573,73.1192,10.9946,0.6026,86.1979,38.8296,62.5137,lider,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+03,Baja California Sur,baja_california_sur,79.8000,80.8897,0.4931,67.8254,11.3893,0.5112,86.7322,40.4322,63.5822,lider,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+04,Campeche,campeche,57.7378,61.5781,0.5633,70.0433,10.6077,1.3931,72.9175,40.2474,56.5825,rezago,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+05,Coahuila de Zaragoza,coahuila,66.8121,67.3933,0.6045,68.6680,10.7735,0.9010,77.8670,40.4865,59.1767,avance,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+06,Colima,colima,78.9287,76.5821,1.0551,76.7867,14.7485,1.9582,84.8186,36.8077,60.8131,avance,Estandarizado por n comun. Incluye 1 indicador(es) con bandera de baja confiabilidad.,1
+07,Chiapas,chiapas,42.3938,59.8841,0.9275,57.7261,9.0947,0.8360,67.1168,44.6717,55.8943,rezago,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+08,Chihuahua,chihuahua,68.7067,71.3740,0.3713,73.2991,10.6716,0.8746,79.9031,38.9680,59.4356,avance,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+09,Ciudad de México,ciudad_de_mexico,77.9904,78.1966,0.3538,74.8629,8.8042,0.3900,85.2778,38.9076,62.0927,lider,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+10,Durango,durango,70.9949,69.5670,0.7136,71.2798,11.5350,2.1143,79.9494,39.7665,59.8580,avance,Estandarizado por n comun. Incluye 1 indicador(es) con bandera de baja confiabilidad.,1
+11,Guanajuato,guanajuato,62.6537,66.4233,0.8399,70.8076,9.8575,1.9274,76.0790,40.4208,58.2499,rezago,Estandarizado por n comun. Incluye 1 indicador(es) con bandera de baja confiabilidad.,1
+12,Guerrero,guerrero,54.0106,52.0537,0.4959,66.1989,9.1374,1.6323,68.5228,42.0987,55.3107,rezago,Estandarizado por n comun. Incluye 1 indicador(es) con bandera de baja confiabilidad.,1
+13,Hidalgo,hidalgo,69.5202,67.0277,0.3737,71.8681,11.0203,1.1208,78.7247,39.4108,59.0678,avance,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+14,Jalisco,jalisco,69.6916,69.9792,0.9623,76.3783,12.9672,1.1755,79.5695,37.2767,58.4231,rezago,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+15,México,mexico,77.0705,80.2909,0.6425,52.0103,6.8859,0.6236,85.5730,47.2425,66.4077,lider,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+16,Michoacán de Ocampo,michoacan,64.0808,63.5522,0.5076,73.1230,12.2822,1.8476,75.7085,38.8141,57.2613,rezago,Estandarizado por n comun. Incluye 1 indicador(es) con bandera de baja confiabilidad.,1
+17,Morelos,morelos,67.1313,69.9722,0.4540,72.6491,11.8117,2.2561,78.8832,39.2651,59.0742,avance,Estandarizado por n comun. Incluye 1 indicador(es) con bandera de baja confiabilidad.,1
+18,Nayarit,nayarit,76.5761,77.7839,0.7643,73.5400,10.0888,0.8865,84.5319,39.0859,61.8089,lider,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+19,Nuevo León,nuevo_leon,75.8162,73.5714,0.2077,71.1121,9.8381,0.8064,83.0599,39.9521,61.5060,lider,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+20,Oaxaca,oaxaca,52.2267,50.2058,0.5152,65.0111,9.9465,1.4594,67.3058,42.1673,54.7365,rezago,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+21,Puebla,puebla,63.5664,64.5222,0.6555,67.3484,9.6955,1.4687,75.8110,41.4749,58.6430,rezago,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+22,Querétaro,queretaro,68.9235,72.7187,0.9986,69.0992,11.5253,2.7204,80.2146,40.6987,60.4566,avance,Estandarizado por n comun. Incluye 1 indicador(es) con bandera de baja confiabilidad.,1
+23,Quintana Roo,quintana_roo,70.4096,79.4450,0.6920,59.6303,8.8247,1.5598,83.0542,44.3683,63.7112,lider,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+24,San Luis Potosí,san_luis_potosi,72.3552,66.0118,1.1260,59.0221,9.0129,1.7580,79.0804,44.5744,61.8274,lider,Estandarizado por n comun. Sin banderas de baja confiabilidad.,0
+25,Sinaloa,sinaloa,74.5655,74.8768,0.1932,61.6124,7.5442,0.8395,83.0830,43.8943,63.4887,lider,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+26,Sonora,sonora,74.1028,75.1511,0.6497,69.9772,10.6781,1.0683,82.8680,40.1376,61.5028,lider,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+27,Tabasco,tabasco,48.9602,58.1717,0.7388,73.6088,13.5410,1.1684,68.7977,38.0062,53.4019,rezago,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+28,Tamaulipas,tamaulipas,69.9789,73.6234,0.3947,68.2752,9.0843,1.0315,81.0692,41.2240,61.1466,avance,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+29,Tlaxcala,tlaxcala,65.6892,66.6439,0.6295,67.6245,10.8458,1.0523,77.2345,40.8607,59.0476,avance,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+30,Veracruz de Ignacio de la Llave,veracruz,61.0194,56.8524,0.5658,66.1334,9.6727,0.8550,72.4353,41.6830,57.0592,rezago,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
+31,Yucatán,yucatan,63.3690,63.6131,0.4227,75.0133,13.5971,1.5730,75.5198,37.6542,56.5870,rezago,Estandarizado por n comun. Incluye 1 indicador(es) con bandera de baja confiabilidad.,1
+32,Zacatecas,zacatecas,73.6261,74.9685,0.2845,72.0537,9.7929,1.1593,82.7700,39.7709,61.2705,avance,Estandarizado por n comun. Incluye 2 indicador(es) con bandera de baja confiabilidad.,2
