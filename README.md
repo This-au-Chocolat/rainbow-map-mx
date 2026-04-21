@@ -91,7 +91,7 @@ El dashboard consume:
 Este archivo se genera con:
 
 ```bash
-/home/this/upy/estancia2/.venv/bin/python dashboard_base/scripts/generar_indicadores_dashboard.py
+python dashboard_base/scripts/generar_indicadores_dashboard.py
 ```
 
 Columnas principales del feed:
@@ -110,26 +110,57 @@ Columnas principales del feed:
 
 ## 6) Como correr todo desde cero
 
-### 6.1 Pipeline de indicadores
+Los comandos de esta seccion estan escritos para ser portables. No dependen de rutas locales especificas.
+
+### 6.0 Requisitos
+
+- Python 3.11+
+- Git
+
+Para regenerar indicadores tambien necesitas tener las fuentes en `source_inegi/` (ENADIS 2022 y ENDISEG 2021).
+
+### 6.1 Inicio rapido (solo visualizar el mapa)
+
+Si solo quieres ver el dashboard con el CSV ya incluido en el repo:
 
 ```bash
-cd /home/this/upy/estancia2
-/home/this/upy/estancia2/.venv/bin/python src/pipeline/run_pipeline.py
+cd dashboard_base
+python3 -m http.server 8000
 ```
 
-### 6.2 Feed del dashboard
+Abre `http://localhost:8000/web/`.
+
+### 6.2 Clonar y preparar entorno
 
 ```bash
-cd /home/this/upy/estancia2
-/home/this/upy/estancia2/.venv/bin/python dashboard_base/scripts/generar_indicadores_dashboard.py
+git clone <URL_DEL_REPO>
+cd rainbow-map-mx
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install -e .
 ```
 
-### 6.3 Levantar dashboard local
+Nota: si no usas instalacion editable, puedes instalar dependencias manualmente desde `pyproject.toml`.
+
+### 6.3 Pipeline de indicadores
+
+```bash
+python src/pipeline/run_pipeline.py
+```
+
+### 6.4 Feed del dashboard
+
+```bash
+python dashboard_base/scripts/generar_indicadores_dashboard.py
+```
+
+### 6.5 Levantar dashboard local
 
 Importante: correr el servidor desde `dashboard_base` para que las rutas relativas funcionen.
 
 ```bash
-cd /home/this/upy/estancia2/dashboard_base
+cd dashboard_base
 python3 -m http.server 8000
 ```
 
@@ -144,9 +175,11 @@ La suite de notebooks existe para trazabilidad metodologica y reproduccion paso 
 Ejecucion headless (opcional):
 
 ```bash
-/home/this/upy/estancia2/.venv/bin/python -m pip install jupyter ipykernel nbconvert nbclient
-/home/this/upy/estancia2/.venv/bin/python -m ipykernel install --user --name atlas-lgbtiq-pipeline
+python -m pip install jupyter ipykernel nbconvert nbclient
+jupyter nbconvert --to notebook --execute notebooks/00_setup_and_project_structure.ipynb --output-dir notebooks
 ```
+
+Si quieres ejecutar toda la suite, repite `nbconvert --execute` para `01` a `06`.
 
 ## 8) Consideraciones y limites conocidos
 
